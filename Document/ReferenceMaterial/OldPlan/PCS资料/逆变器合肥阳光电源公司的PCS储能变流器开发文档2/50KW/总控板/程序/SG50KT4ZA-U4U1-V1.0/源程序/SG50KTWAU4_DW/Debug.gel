@@ -1,0 +1,18 @@
+menuitem "±‰¡øº‡≤‚"
+
+hotmenu ClearAll()
+{
+	GEL_WatchReset();
+}
+dialog ESTOP()
+{
+	ProtectRegs.bit.UserStop=!ProtectRegs.bit.UserStop;
+}
+hotmenu Mppt()
+{
+	GEL_WatchReset();
+	GEL_WatchAdd("Udc_Given_com,q21");
+	GEL_WatchAdd("Udc_Given,q21");	
+	GEL_WatchAdd("UPid");
+
+}

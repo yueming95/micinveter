@@ -1,0 +1,87 @@
+; Code Composer Project File, Version 2.0 (do not modify or remove this line)
+
+[Project Settings]
+ProjectDir="D:\15-20k\code_EU\15-20kall\20kEUALL140318\MASTER\project\"
+ProjectType=Executable
+CPUFamily=TMS320C28XX
+Tool="Compiler"
+Tool="CustomBuilder"
+Tool="DspBiosBuilder"
+Tool="Linker"
+Config="Debug"
+Config="Release"
+
+[Source Files]
+Source="..\bios\SC_master.tcf"
+Source="..\lib\Flash28335_API_V210.lib"
+Source="..\lib\rts2800_fpu32.lib"
+Source="..\lib\rts2800_fpu32_fast_supplement.lib"
+Source="..\source\DelayUs.asm"
+Source="..\source\DSP2833x_Adc.c"
+Source="..\source\DSP2833x_CodeStartBranch.asm"
+Source="..\source\DSP2833x_CpuTimers.c"
+Source="..\source\DSP2833x_GlobalVariableDefs.c"
+Source="..\source\DSP2833x_PieCtrl.c"
+Source="..\source\DSP2833x_SysCtrl.c"
+Source="..\source\main.c"
+Source="..\source\SC_DataAcquisition.c"
+Source="..\source\SC_DefaultIsr_BIOS.c"
+Source="..\source\SC_ECap.c"
+Source="..\source\SC_EnergyManage.c"
+Source="..\source\SC_EPwm.c"
+Source="..\source\SC_Flash.c"
+Source="..\source\SC_Gpio.c"
+Source="..\source\SC_MasterStates.c"
+Source="..\source\SC_MPPT.c"
+Source="..\source\SC_ProtectionLogic.c"
+Source="..\source\SC_Regulator.c"
+Source="..\source\SC_Sci.c"
+Source="..\source\SC_Scia_IPOMS.c"
+Source="..\source\SC_Spi.c"
+Source="..\source\SC_SysParaIni.c"
+Source="..\source\SC_UpData.c"
+Source="..\source\SC_variable.c"
+Source="..\bios\SC_mastercfg.cmd"
+Source="..\cmd\DSP2833x_Headers_BIOS.cmd"
+Source="..\cmd\UserLinkerCmd.cmd"
+
+[Generated Files]
+Source="..\bios\SC_mastercfg.s28"
+Source="..\bios\SC_mastercfg_c.c"
+
+["Debug" Settings]
+FinalBuildCmd=hex2000 -romwidth 16 -memwidth 16 -i -o .\Debug\DSPM.hex .\Debug\SC_MASTER.out
+
+["Compiler" Settings: "Debug"]
+Options=-g -k -ss -pdsw225 -pds303 -al -as -fr"$(Proj_dir)\Debug" -fs"$(Proj_dir)\Debug" -ft"$(Proj_dir)\Debug" -fb"$(Proj_dir)\Debug" -ff"$(Proj_dir)\Debug" -i"$(Proj_dir)\..\bios" -i"$(Proj_dir)\..\include" -d"_DEBUG" -d"LARGE_MODEL" -ml -mt -v28 --float_support=fpu32
+
+["Compiler" Settings: "Release"]
+Options=-pdsw225 -o3 -fr"$(Proj_dir)\Release" -d"LARGE_MODEL" -ml -v28
+
+["DspBiosBuilder" Settings: "Debug"]
+Options=-Dconfig.importPath="C:\CCStudio_v3.3MCU/bios_5_33_05/packages;"
+
+["Linker" Settings: "Debug"]
+Options=-c -m".\Debug\SC_MASTER.map" -o".\Debug\SC_MASTER.out" -stack0x380 -w -x -i"$(Proj_dir)\..\lib"
+
+["Linker" Settings: "Release"]
+Options=-c -m".\Release\SL_MASTER.map" -o".\Release\SL_MASTER.out" -w -x
+
+["..\bios\SC_mastercfg.cmd" Settings: "Debug"]
+LinkOrder=1
+
+["..\bios\SC_mastercfg.cmd" Settings: "Release"]
+LinkOrder=1
+
+["..\cmd\DSP2833x_Headers_BIOS.cmd" Settings: "Debug"]
+LinkOrder=2
+
+["..\cmd\DSP2833x_Headers_BIOS.cmd" Settings: "Release"]
+LinkOrder=1
+
+["..\cmd\UserLinkerCmd.cmd" Settings: "Debug"]
+LinkOrder=3
+
+["..\cmd\UserLinkerCmd.cmd" Settings: "Release"]
+LinkOrder=1
+

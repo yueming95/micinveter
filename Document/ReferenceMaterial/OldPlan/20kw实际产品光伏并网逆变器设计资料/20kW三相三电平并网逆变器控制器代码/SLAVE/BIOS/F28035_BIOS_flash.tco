@@ -1,0 +1,6 @@
+# GENERATED FILE -- DO NOT EDIT!
+# This file contains tconf options for file "F28035_BIOS_flash.tcf",
+# for use by the Gconf graphical configuration tool.
+# The options are exported from the following CCS project: 
+# D:\code\15-20kall\15-20kALL0618\SLAVE\SL_SLAVE.pjt, "Debug" configuration.
+-Dconfig.importPath="C:\CCStudio_v3.3MCU/bios_5_41_02_14/packages;"

@@ -1,0 +1,15 @@
+
+!CONFIGURATION: 'com.ti.ccstudio.buildDefinitions.C2000.Debug.1520003962' [Fri Jul 31 10:29:22 CST 2015]
+
+	!TOOL: 'com.ti.ccstudio.buildDefinitions.C2000_6.2.exe.linkerDebug.723930526.491083306'
+
+		!WARNING: Unresolved option: com.ti.ccstudio.buildDefinitions.C2000_6.2.exe.linkerDebug.723930526.491083306::-q
+
+	!TOOL: 'com.ti.ccstudio.buildDefinitions.C2000_6.2.exe.linkerDebug.723930526.1644262887'
+
+		!WARNING: Unresolved option: com.ti.ccstudio.buildDefinitions.C2000_6.2.exe.linkerDebug.723930526.1644262887::-q
+
+	!TOOL: 'com.ti.ccstudio.buildDefinitions.C2000_6.2.exe.linkerDebug.723930526.1162243260'
+
+		!WARNING: Unresolved option: com.ti.ccstudio.buildDefinitions.C2000_6.2.exe.linkerDebug.723930526.1162243260::-q
+
