@@ -1,0 +1,22 @@
+DRC Rules Export File for PCB: C:\Users\a0221954\Documents\SVN\01-TIDA\TIDA-010933 GaN based Micro Inverter\Board\TIDA-010933-DCDC-RevA\TIDA-010933-RevA.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_SWNODE_Internal_LF|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance_SWNODE_LF|Scope=Board|Minimum=98.43
+RuleKind=Clearance|RuleName=Clearance_SWNODE_Internal_1|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance_SWNODE_1|Scope=Board|Minimum=98.43
+RuleKind=Clearance|RuleName=Clearance_Midnode|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance_75V_Internal|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance_75V_TopBottom|Scope=Board|Minimum=23.62
+RuleKind=Clearance|RuleName=Clearance_SWNODE_Internal|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance_400V_Internal|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance_400V_TopBottom|Scope=Board|Minimum=98.43
+RuleKind=Clearance|RuleName=Clearance_DCLINK-|Scope=Board|Minimum=98.43
+RuleKind=Clearance|RuleName=Clearance_SWNODE|Scope=Board|Minimum=98.43
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=5.91
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing_ThermalPadVias|Scope=Board|Minimum=5.91
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance_FiducialMark|Scope=Board|Minimum=0.00
+RuleKind=Clearance|RuleName=Clearance_Poly|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance_Keepouts|Scope=Board|Minimum=0.00

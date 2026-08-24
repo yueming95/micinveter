@@ -1,0 +1,51 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: TIDA-010933-RevA.PcbDoc   06/05/2024  17:56:57
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : TIDA-010933E2-RoundHoles.TXT
+ASCII SlotHoles File : TIDA-010933E2-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             1462      PTH        3190.66mm (125.62inch)
+T2      0.203mm (8mil)                                            Round             4         PTH        195.40mm (7.69inch)
+T3      0.254mm (10mil)                                           Round             1311      PTH        2387.91mm (94.01inch)
+T4      0.33mm (13mil)                                            Round             6         PTH        6.50mm (0.26inch)
+T5      0.6mm (24mil)                                             Slot              2         PTH        11.72mm (0.46inch)
+T6      0.8mm (31mil)                                             Slot              1         PTH        2.70mm (0.11inch)
+T7      0.84mm (33mil)                                            Round             2         PTH        58.10mm (2.29inch)
+T8      0.85mm (33mil)                                            Round             2         PTH        5.00mm (0.20inch)
+T9      0.9mm (35mil)                                             Round             16        PTH        383.46mm (15.10inch)
+T10     1mm (39mil)                                               Round             14        PTH        510.06mm (20.08inch)
+T11     1.016mm (40mil)                                           Round             65        PTH        1356.89mm (53.42inch)
+T12     1.02mm (40mil)                                            Round             4         PTH        8.74mm (0.34inch)
+T13     1.1mm (43mil)                                             Round             2         PTH        7.50mm (0.30inch)
+T14     1.15mm (45mil)                                            Round             4         PTH        59.24mm (2.33inch)
+T15     1.2mm (47mil)                                             Round             68        PTH        820.29mm (32.29inch)
+T16     1.3mm (51mil)                                             Round             8         PTH        58.18mm (2.29inch)
+T17     1.4mm (55mil)                                             Round             11        PTH        124.93mm (4.92inch)
+T18     1.54mm (61mil)                                            Slot              8         PTH        351.07mm (13.82inch)
+T19     2mm (79mil)                                               Round             6         PTH        111.00mm (4.37inch)
+T20     2.1mm (83mil)                                             Round             12        PTH        245.50mm (9.67inch)
+T21     2.2mm (87mil)                                             Round             25        PTH        549.24mm (21.62inch)
+T22     2.5mm (98mil)                                             Round             2         PTH        40.00mm (1.57inch)
+T23     1.27mm (50mil)                                            Round             2         NPTH       53.42mm (2.10inch)
+T24     4.4mm (173mil)                                            Round             12        NPTH       961.06mm (37.84inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              3049
+
+Two holes at same point : 10
+-----------------------
+3241,10304
+3635,10304
+3241,9438
+3635,9438
+10318,9565
+10318,11140
+4865,10382
+4865,10776
+5731,10382
+5731,10776
+
+Total Processing Time (hh:mm:ss) : 00:00:01
