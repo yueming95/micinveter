@@ -1,0 +1,72 @@
+; Code Composer Project File, Version 2.0 (do not modify or remove this line)
+
+[Project Settings]
+ProjectDir="D:\huangfu0411\program0701\new\11\SG50KTWAU4\"
+ProjectType=Executable
+CPUFamily=TMS320C28XX
+Tool="Compiler"
+Tool="CustomBuilder"
+Tool="DspBiosBuilder"
+Tool="Linker"
+Config="Debug"
+Config="Release"
+
+[Source Files]
+Source="include\Pid.h"
+Source="include\rs485.h"
+Source="lib\IQmath.lib"
+Source="source\can.c"
+Source="source\corecontrol.c"
+Source="source\DataOperation.c"
+Source="source\DSP2833x_Adc.c"
+Source="source\DSP2833x_ADC_cal.asm"
+Source="source\DSP2833x_CodeStartBranch.asm"
+Source="source\DSP2833x_CSMPasswords.asm"
+Source="source\DSP2833x_DBGIER.asm"
+Source="source\DSP2833x_DefaultIsr.c"
+Source="source\DSP2833x_DisInt.asm"
+Source="source\DSP2833x_ECan.c"
+Source="source\DSP2833x_ECap.c"
+Source="source\DSP2833x_EPwm.c"
+Source="source\DSP2833x_GlobalVariableDefs.c"
+Source="source\DSP2833x_Gpio.c"
+Source="source\DSP2833x_MemCopy.c"
+Source="source\DSP2833x_PieCtrl.c"
+Source="source\DSP2833x_PieVect.c"
+Source="source\DSP2833x_Sci.c"
+Source="source\DSP2833x_Spi.c"
+Source="source\DSP2833x_SysCtrl.c"
+Source="source\DSP2833x_usDelay.asm"
+Source="source\isr.c"
+Source="source\main.c"
+Source="source\pid.c"
+Source="source\RS485.c"
+Source="source\RSDebug.c"
+Source="source\Spi.c"
+Source="cmd\DSP2833x_Headers_nonBIOS.cmd"
+Source="cmd\F28335.cmd"
+
+["Compiler" Settings: "Debug"]
+Options=-g -pdr -pdsw225 -fr"$(Proj_dir)\Debug" -fs"$(Proj_dir)\Debug" -i"..\include" -d"_DEBUG" -d"LARGE_MODEL" -ml -mt -v28
+
+["Compiler" Settings: "Release"]
+Options=-pdsw225 -o3 -fr"$(Proj_dir)\Release" -d"LARGE_MODEL" -ml -v28
+
+["Linker" Settings: "Debug"]
+Options=-q -c -m".\Debug\SG100KT.map" -o".\Debug\SG100KT.out" -stack0x400 -w -x -i"..\include" -l"rts2800_ml.lib"
+
+["Linker" Settings: "Release"]
+Options=-c -m".\Release\SG100KT.map" -o".\Release\SG100KT.out" -w -x
+
+["include\Pid.h" Settings: "Debug"]
+ExcludeFromBuild=true
+
+["include\Pid.h" Settings: "Release"]
+ExcludeFromBuild=true
+
+["include\rs485.h" Settings: "Debug"]
+ExcludeFromBuild=true
+
+["include\rs485.h" Settings: "Release"]
+ExcludeFromBuild=true
+

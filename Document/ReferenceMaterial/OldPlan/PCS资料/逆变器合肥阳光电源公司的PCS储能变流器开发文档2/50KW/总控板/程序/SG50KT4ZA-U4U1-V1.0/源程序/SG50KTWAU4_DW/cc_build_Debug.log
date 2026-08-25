@@ -1,0 +1,8 @@
+-----------------------  SG50KU4_AllControl.pjt - Debug  -----------------------
+[can.c] "C:\CCStudio_v3.3MCU\C2000\cgtools\bin\cl2000" -g -pdr -pdsw225 -fr"E:/dtt/DIWEN/diwen/SG50KTWAU4_DW+PV+CRC/Debug" -fs"E:/dtt/DIWEN/diwen/SG50KTWAU4_DW+PV+CRC/Debug" -i"../include" -d"_DEBUG" -d"LARGE_MODEL" -ml -mt -v28 -@"../Debug.lkf" "can.c"
+
+[Linking...] "C:\CCStudio_v3.3MCU\C2000\cgtools\bin\cl2000" -@"Debug.lkf"
+<Linking>
+
+Build Complete,
+  0 Errors, 0 Warnings, 0 Remarks.

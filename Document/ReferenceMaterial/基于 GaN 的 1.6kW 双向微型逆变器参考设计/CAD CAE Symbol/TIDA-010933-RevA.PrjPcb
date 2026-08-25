@@ -1,0 +1,3689 @@
+﻿[Design]
+Version=1.0
+HierarchyMode=0
+ChannelRoomNamingStyle=0
+ReleasesFolder=
+ChannelDesignatorFormatString=$Component_$RoomName
+ChannelRoomLevelSeperator=_
+OpenOutputs=1
+ArchiveProject=0
+TimestampOutput=0
+SeparateFolders=1
+TemplateLocationPath=C:\NSCUtils\Altium\Templates\AD18\
+PinSwapBy_Netlabel=1
+PinSwapBy_Pin=1
+AllowPortNetNames=1
+AllowSheetEntryNetNames=1
+AppendSheetNumberToLocalNets=0
+NetlistSinglePinNets=0
+DefaultConfiguration=Sources
+UserID=0xFFFFFFFF
+DefaultPcbProtel=1
+DefaultPcbPcad=0
+ReorderDocumentsOnCompile=1
+NameNetsHierarchically=0
+PowerPortNamesTakePriority=0
+AutoSheetNumbering=1
+AutoCrossReferences=0
+NewIndexingOfSheetSymbols=0
+PushECOToAnnotationFile=1
+DItemRevisionGUID=
+ReportSuppressedErrorsInMessages=1
+FSMCodingStyle=eFMSDropDownList_OneProcess
+FSMEncodingStyle=eFMSDropDownList_OneHot
+IsProjectConflictPreventionWarningsEnabled=1
+ConstraintManagerFlow=0
+OutputPath=Project Outputs
+LogFolderPath=
+ManagedProjectGUID=
+Template=\\dfrs40\public\Altium_TI_Environment\Templates\AD22\Project_Templates\TI_Project\TI Project.PrjPCB
+IncludeDesignInRelease=0
+CrossRefSheetStyle=2
+CrossRefLocationStyle=1
+CrossRefPorts=3
+CrossRefCrossSheets=1
+CrossRefSheetEntries=0
+CrossRefFollowFromMainSettings=1
+CurrentVariant=All
+VaultGUID=
+ReleaseVaultName=
+ItemGUID=
+
+[Preferences]
+PrefsVaultGUID=
+PrefsRevisionGUID=
+
+[Release]
+ReleaseTarget=2
+ReleaseFolderPath=[OutputPath]
+ReleaseZipPath=[OutputPath][ProjectName].zip
+
+[Document1]
+DocumentPath=TIDA-010933-DCDC-Top.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YERNJPIF
+
+[Document2]
+DocumentPath=TIDA-010933-DCDC-Boost.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=2
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XVIQWOFT
+
+[Document3]
+DocumentPath=TIDA-010933-DCDC-CLLLC.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=5
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QOJKFFOJ
+
+[Document4]
+DocumentPath=TIDA-010933-DCDC-OpAmp.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=3
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DTDDMBXE
+
+[Document5]
+DocumentPath=TIDA-010933-DCDC-HVGAN.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=8
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FMOQTIZJ
+
+[Document6]
+DocumentPath=TIDA-010933-DCDC-Power.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=10
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YCMODNCT
+
+[Document7]
+DocumentPath=TIDA-010933-DCDC-ControlCard.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=9
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YCMODNCS
+
+[Document8]
+DocumentPath=TIDA-010933-DCDC-Hardware.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=7
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AJIYFDMW
+
+[Document9]
+DocumentPath=TIDA-010933-DCDC.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document10]
+DocumentPath=TIDA-010933-DCDC-AssemblyRelease.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document11]
+DocumentPath=TIDA-010933-DCDC-Common Documentation.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document12]
+DocumentPath=TIDA-010933-DCDC-FabricationRelease.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document13]
+DocumentPath=TIDA-010933-DCDC-Other BOM Reports.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document14]
+DocumentPath=TIDA-010933-DCDC-Validation.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document15]
+DocumentPath=TIDA-010933-RevA.Annotation
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document16]
+DocumentPath=TIDA-010933-DCAC-AUX-Power.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=12
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YZWMLBAF
+
+[Document17]
+DocumentPath=TIDA-010933-DCAC-SWITCHING-STAGE.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=13
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YZWMLBAH
+
+[Document18]
+DocumentPath=TIDA-010933-DCAC-TOP.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=14
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YZWMLBAI
+
+[Document19]
+DocumentPath=TIDA-010933-RevA.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OEKYGETK
+
+[ProjectVariant1]
+UniqueID=BD5D50CB-C4B8-458D-99DF-A84103E443B8
+Description=All
+AllowFabrication=0
+ParameterCount=1
+VariationCount=18
+Variation1=Designator=FID1|UniqueId=\IKSESFFK\GSNRZDYD|Kind=1|AlternatePart=
+Variation2=Designator=FID2|UniqueId=\IKSESFFK\OOXEQXOI|Kind=1|AlternatePart=
+Variation3=Designator=FID3|UniqueId=\IKSESFFK\AEWJVYMX|Kind=1|AlternatePart=
+Variation4=Designator=D9|UniqueId=\IKSESFFK\UPGBKJOL\GSHMQCOF|Kind=1|AlternatePart=
+Variation5=Designator=R72|UniqueId=\ZGQOQTDM\JGFLLJOG|Kind=0|AlternatePart=
+Variation6=Designator=R73|UniqueId=\ZGQOQTDM\EDTTBMCZ|Kind=0|AlternatePart=
+Variation7=Designator=R69|UniqueId=\ZGQOQTDM\GIIVNDKK|Kind=0|AlternatePart=
+Variation8=Designator=R68|UniqueId=\ZGQOQTDM\CAMFIYKE|Kind=0|AlternatePart=
+Variation9=Designator=D8|UniqueId=\IKSESFFK\UPGBKJOL\GOAQMZIX|Kind=1|AlternatePart=
+Variation10=Designator=R185|UniqueId=\TEMTWXHS\POKWVRCT|Kind=1|AlternatePart=
+Variation11=Designator=R65|UniqueId=\TEMTWXHS\GLPCQRLW|Kind=1|AlternatePart=
+Variation12=Designator=TP49|UniqueId=\IZMDLTDF\ZLFTRWHG|Kind=1|AlternatePart=
+Variation13=Designator=TP48|UniqueId=\IZMDLTDF\QQWIBTMM|Kind=1|AlternatePart=
+Variation14=Designator=R161|UniqueId=\IKSESFFK\TRLOXOTR|Kind=1|AlternatePart=
+Variation15=Designator=R162|UniqueId=\IKSESFFK\RTUYBTVJ|Kind=1|AlternatePart=
+Variation16=Designator=U19|UniqueId=\IKSESFFK\UPGBKJOL\MOYOHQYS|Kind=1|AlternatePart=
+Variation17=Designator=D25|UniqueId=\IKSESFFK\FNTADWJZ\EOOITNGY|Kind=1|AlternatePart=
+Variation18=Designator=D26|UniqueId=\IKSESFFK\FNTADWJZ\SCYAIHRH|Kind=1|AlternatePart=
+ParamVariationCount=0
+
+[Parameter2_1]
+Name=EVM_Orderable
+Value=ChangeMe in variant
+
+[ProjectVariant2]
+UniqueID=A9AE92F1-AED5-478A-90D2-7DF8959AE01C
+Description=Assembly
+AllowFabrication=0
+ParameterCount=1
+VariationCount=76
+Variation1=Designator=FID1|UniqueId=\IKSESFFK\GSNRZDYD|Kind=1|AlternatePart=
+Variation2=Designator=FID2|UniqueId=\IKSESFFK\OOXEQXOI|Kind=1|AlternatePart=
+Variation3=Designator=FID3|UniqueId=\IKSESFFK\AEWJVYMX|Kind=1|AlternatePart=
+Variation4=Designator=D9|UniqueId=\IKSESFFK\UPGBKJOL\GSHMQCOF|Kind=1|AlternatePart=
+Variation5=Designator=D8|UniqueId=\IKSESFFK\UPGBKJOL\GOAQMZIX|Kind=1|AlternatePart=
+Variation6=Designator=R185|UniqueId=\TEMTWXHS\POKWVRCT|Kind=1|AlternatePart=
+Variation7=Designator=R65|UniqueId=\TEMTWXHS\GLPCQRLW|Kind=1|AlternatePart=
+Variation8=Designator=TP49|UniqueId=\IZMDLTDF\ZLFTRWHG|Kind=1|AlternatePart=
+Variation9=Designator=TP48|UniqueId=\IZMDLTDF\QQWIBTMM|Kind=1|AlternatePart=
+Variation10=Designator=J10_A|UniqueId=\SWHDXMEA\JKKHVUUI|Kind=1|AlternatePart=
+Variation11=Designator=J11_A|UniqueId=\SWHDXMEA\IENKLNTQ|Kind=1|AlternatePart=
+Variation12=Designator=J12|UniqueId=\IZMDLTDF\QEOLYQCC|Kind=1|AlternatePart=
+Variation13=Designator=J14|UniqueId=\IZMDLTDF\KDRPZZQW|Kind=1|AlternatePart=
+Variation14=Designator=J15|UniqueId=\IZMDLTDF\LOYDMBIA|Kind=1|AlternatePart=
+Variation15=Designator=J13|UniqueId=\IZMDLTDF\UYSNMABF|Kind=1|AlternatePart=
+Variation16=Designator=TP53|UniqueId=\IZMDLTDF\CMQBPPAY|Kind=1|AlternatePart=
+Variation17=Designator=TP54|UniqueId=\IZMDLTDF\KRZRUFBF|Kind=1|AlternatePart=
+Variation18=Designator=TP52|UniqueId=\IZMDLTDF\CPFPONIH|Kind=1|AlternatePart=
+Variation19=Designator=TP50_A|UniqueId=\SWHDXMEA\KHNWINPK|Kind=1|AlternatePart=
+Variation20=Designator=TP51_A|UniqueId=\SWHDXMEA\KVEBHROQ|Kind=1|AlternatePart=
+Variation21=Designator=J16|UniqueId=\IKSESFFK\HJBRKNVJ|Kind=1|AlternatePart=
+Variation22=Designator=TP56|UniqueId=\IKSESFFK\MLMMMTSL|Kind=1|AlternatePart=
+Variation23=Designator=TP57|UniqueId=\IKSESFFK\LQZZLNHT|Kind=1|AlternatePart=
+Variation24=Designator=J17|UniqueId=\IKSESFFK\GUQKNSGZ|Kind=1|AlternatePart=
+Variation25=Designator=J18|UniqueId=\IKSESFFK\IBOBSVTC|Kind=1|AlternatePart=
+Variation26=Designator=TP58|UniqueId=\IKSESFFK\GJFYHXWA|Kind=1|AlternatePart=
+Variation27=Designator=TP60|UniqueId=\IKSESFFK\XZKYAICQ|Kind=1|AlternatePart=
+Variation28=Designator=J19|UniqueId=\IKSESFFK\GKMLBXJB|Kind=1|AlternatePart=
+Variation29=Designator=J20|UniqueId=\IKSESFFK\HIZJWXBI|Kind=1|AlternatePart=
+Variation30=Designator=TP59|UniqueId=\IKSESFFK\YPNTQTOV|Kind=1|AlternatePart=
+Variation31=Designator=T1|UniqueId=\IZMDLTDF\XTTUOKSV|Kind=1|AlternatePart=
+Variation32=Designator=L10|UniqueId=\IKSESFFK\MGOHBFFH|Kind=1|AlternatePart=
+Variation33=Designator=L9|UniqueId=\IKSESFFK\WDEZCPTP|Kind=1|AlternatePart=
+Variation34=Designator=U19|UniqueId=\IKSESFFK\UPGBKJOL\MOYOHQYS|Kind=1|AlternatePart=
+Variation35=Designator=D25|UniqueId=\IKSESFFK\FNTADWJZ\EOOITNGY|Kind=1|AlternatePart=
+Variation36=Designator=D26|UniqueId=\IKSESFFK\FNTADWJZ\SCYAIHRH|Kind=1|AlternatePart=
+Variation37=Designator=R161|UniqueId=\IKSESFFK\TRLOXOTR|Kind=1|AlternatePart=
+Variation38=Designator=R162|UniqueId=\IKSESFFK\RTUYBTVJ|Kind=1|AlternatePart=
+Variation39=Designator=L8|UniqueId=\IKSESFFK\ZQKOCZSQ|Kind=1|AlternatePart=
+Variation40=Designator=C173|UniqueId=\IKSESFFK\TGRYURWZ|Kind=1|AlternatePart=
+Variation41=Designator=C175|UniqueId=\IKSESFFK\ALOQUTMN|Kind=1|AlternatePart=
+Variation42=Designator=C179|UniqueId=\IKSESFFK\KTRNIRGZ|Kind=1|AlternatePart=
+Variation43=Designator=TP64|UniqueId=\IKSESFFK\XDUXDFCZ|Kind=1|AlternatePart=
+Variation44=Designator=TP37|UniqueId=\IKSESFFK\COITQTEW|Kind=1|AlternatePart=
+Variation45=Designator=TP36|UniqueId=\IKSESFFK\LLCPBZSS|Kind=1|AlternatePart=
+Variation46=Designator=TP31|UniqueId=\IKSESFFK\GOZLSQTT|Kind=1|AlternatePart=
+Variation47=Designator=TP32|UniqueId=\IKSESFFK\VZUEVQKG|Kind=1|AlternatePart=
+Variation48=Designator=TP61|UniqueId=\IKSESFFK\EQTFLDME|Kind=1|AlternatePart=
+Variation49=Designator=TP33|UniqueId=\IKSESFFK\HXZTGQRZ|Kind=1|AlternatePart=
+Variation50=Designator=TP34|UniqueId=\IKSESFFK\BCTCZKYF|Kind=1|AlternatePart=
+Variation51=Designator=TP62|UniqueId=\IKSESFFK\OOHDSSTI|Kind=1|AlternatePart=
+Variation52=Designator=TP65|UniqueId=\IKSESFFK\CYXBLLJM|Kind=1|AlternatePart=
+Variation53=Designator=TP39|UniqueId=\IKSESFFK\YRXNCERC|Kind=1|AlternatePart=
+Variation54=Designator=TP40|UniqueId=\IKSESFFK\XQCUETTD|Kind=1|AlternatePart=
+Variation55=Designator=TP14|UniqueId=\IKSESFFK\UPGBKJOL\YVKKFNOI|Kind=1|AlternatePart=
+Variation56=Designator=TP16|UniqueId=\IKSESFFK\UPGBKJOL\BGXSIRMJ|Kind=1|AlternatePart=
+Variation57=Designator=TP19|UniqueId=\IKSESFFK\UPGBKJOL\QIVACALD|Kind=1|AlternatePart=
+Variation58=Designator=TP18|UniqueId=\IKSESFFK\UPGBKJOL\HETDOHNZ|Kind=1|AlternatePart=
+Variation59=Designator=TP20|UniqueId=\IKSESFFK\UPGBKJOL\FZCPRRXM|Kind=1|AlternatePart=
+Variation60=Designator=TP22|UniqueId=\IKSESFFK\UPGBKJOL\TRNDLDAG|Kind=1|AlternatePart=
+Variation61=Designator=TP21|UniqueId=\IKSESFFK\UPGBKJOL\AIOAXKBC|Kind=1|AlternatePart=
+Variation62=Designator=TP24|UniqueId=\IKSESFFK\UPGBKJOL\CJVSXBWJ|Kind=1|AlternatePart=
+Variation63=Designator=TP23|UniqueId=\IKSESFFK\UPGBKJOL\UBCDGGSA|Kind=1|AlternatePart=
+Variation64=Designator=R170|UniqueId=\IKSESFFK\QLDFKJCC|Kind=1|AlternatePart=
+Variation65=Designator=J11_B|UniqueId=\KIKPJEJA\IENKLNTQ|Kind=1|AlternatePart=
+Variation66=Designator=TP51_B|UniqueId=\KIKPJEJA\KVEBHROQ|Kind=1|AlternatePart=
+Variation67=Designator=TP50_B|UniqueId=\KIKPJEJA\KHNWINPK|Kind=1|AlternatePart=
+Variation68=Designator=J10_B|UniqueId=\KIKPJEJA\JKKHVUUI|Kind=1|AlternatePart=
+Variation69=Designator=J11_C|UniqueId=\IZZGTNUS\IENKLNTQ|Kind=1|AlternatePart=
+Variation70=Designator=TP51_C|UniqueId=\IZZGTNUS\KVEBHROQ|Kind=1|AlternatePart=
+Variation71=Designator=TP50_C|UniqueId=\IZZGTNUS\KHNWINPK|Kind=1|AlternatePart=
+Variation72=Designator=J10_C|UniqueId=\IZZGTNUS\JKKHVUUI|Kind=1|AlternatePart=
+Variation73=Designator=J11_D|UniqueId=\YXGLOVJZ\IENKLNTQ|Kind=1|AlternatePart=
+Variation74=Designator=TP51_D|UniqueId=\YXGLOVJZ\KVEBHROQ|Kind=1|AlternatePart=
+Variation75=Designator=TP50_D|UniqueId=\YXGLOVJZ\KHNWINPK|Kind=1|AlternatePart=
+Variation76=Designator=J10_D|UniqueId=\YXGLOVJZ\JKKHVUUI|Kind=1|AlternatePart=
+ParamVariationCount=0
+
+[Parameter3_1]
+Name=EVM_Orderable
+Value=ChangeMe in variant
+
+[ProjectVariant3]
+UniqueID=F0EDA3EF-817C-4A39-8B74-EDAB37F85C48
+Description=AdditionalComponents
+AllowFabrication=0
+ParameterCount=1
+VariationCount=772
+Variation1=Designator=FID1|UniqueId=\IKSESFFK\GSNRZDYD|Kind=1|AlternatePart=
+Variation2=Designator=FID2|UniqueId=\IKSESFFK\OOXEQXOI|Kind=1|AlternatePart=
+Variation3=Designator=FID3|UniqueId=\IKSESFFK\AEWJVYMX|Kind=1|AlternatePart=
+Variation4=Designator=D9|UniqueId=\IKSESFFK\UPGBKJOL\GSHMQCOF|Kind=1|AlternatePart=
+Variation5=Designator=R72|UniqueId=\ZGQOQTDM\JGFLLJOG|Kind=1|AlternatePart=
+Variation6=Designator=R73|UniqueId=\ZGQOQTDM\EDTTBMCZ|Kind=1|AlternatePart=
+Variation7=Designator=R69|UniqueId=\ZGQOQTDM\GIIVNDKK|Kind=1|AlternatePart=
+Variation8=Designator=R68|UniqueId=\ZGQOQTDM\CAMFIYKE|Kind=1|AlternatePart=
+Variation9=Designator=D8|UniqueId=\IKSESFFK\UPGBKJOL\GOAQMZIX|Kind=1|AlternatePart=
+Variation10=Designator=R185|UniqueId=\TEMTWXHS\POKWVRCT|Kind=1|AlternatePart=
+Variation11=Designator=R65|UniqueId=\TEMTWXHS\GLPCQRLW|Kind=1|AlternatePart=
+Variation12=Designator=TP49|UniqueId=\IZMDLTDF\ZLFTRWHG|Kind=1|AlternatePart=
+Variation13=Designator=TP48|UniqueId=\IZMDLTDF\QQWIBTMM|Kind=1|AlternatePart=
+Variation14=Designator=!PCB1|UniqueId=\IKSESFFK\QWSEJPZP|Kind=1|AlternatePart=
+Variation15=Designator=C1|UniqueId=\LZKZJQMC|Kind=1|AlternatePart=
+Variation16=Designator=TP47|UniqueId=\IKSESFFK\PWKSJHYF|Kind=1|AlternatePart=
+Variation17=Designator=R178|UniqueId=\IKSESFFK\HMKTSYXS|Kind=1|AlternatePart=
+Variation18=Designator=TP29|UniqueId=\IKSESFFK\FNTADWJZ\GULVWMMD|Kind=1|AlternatePart=
+Variation19=Designator=TP25|UniqueId=\IKSESFFK\UPGBKJOL\PKFWFVCN|Kind=1|AlternatePart=
+Variation20=Designator=TP40|UniqueId=\IKSESFFK\XQCUETTD|Kind=1|AlternatePart=
+Variation21=Designator=R175|UniqueId=\IKSESFFK\FUKKIGVF|Kind=1|AlternatePart=
+Variation22=Designator=R183|UniqueId=\IZMDLTDF\RTLPREAD\AXMADHNZ|Kind=1|AlternatePart=
+Variation23=Designator=TP43|UniqueId=\IKSESFFK\IWTBCYNR|Kind=1|AlternatePart=
+Variation24=Designator=TP19|UniqueId=\IKSESFFK\UPGBKJOL\QIVACALD|Kind=1|AlternatePart=
+Variation25=Designator=T3|UniqueId=\IKSESFFK\FNTADWJZ\RYZGOPHR|Kind=1|AlternatePart=
+Variation26=Designator=TP23|UniqueId=\IKSESFFK\UPGBKJOL\UBCDGGSA|Kind=1|AlternatePart=
+Variation27=Designator=TP50_B|UniqueId=\KIKPJEJA\KHNWINPK|Kind=0|AlternatePart=
+Variation28=Designator=TP35|UniqueId=\IKSESFFK\JDBWGFWE|Kind=1|AlternatePart=
+Variation29=Designator=TP18|UniqueId=\IKSESFFK\UPGBKJOL\HETDOHNZ|Kind=1|AlternatePart=
+Variation30=Designator=TP5|UniqueId=\KPWTJDYN|Kind=1|AlternatePart=
+Variation31=Designator=R177|UniqueId=\IKSESFFK\DSDPCQIR|Kind=1|AlternatePart=
+Variation32=Designator=TP15|UniqueId=\IKSESFFK\UPGBKJOL\MSEMUCUJ|Kind=1|AlternatePart=
+Variation33=Designator=T5|UniqueId=\IKSESFFK\FNTADWJZ\SFNKKJPV|Kind=1|AlternatePart=
+Variation34=Designator=T1|UniqueId=\IZMDLTDF\XTTUOKSV|Kind=0|AlternatePart=
+Variation35=Designator=TP37|UniqueId=\IKSESFFK\COITQTEW|Kind=1|AlternatePart=
+Variation36=Designator=TP6|UniqueId=\VHYQJBHJ|Kind=1|AlternatePart=
+Variation37=Designator=TP33|UniqueId=\IKSESFFK\HXZTGQRZ|Kind=1|AlternatePart=
+Variation38=Designator=T2|UniqueId=\ZGQOQTDM\XLTDGWSJ|Kind=1|AlternatePart=
+Variation39=Designator=TP22|UniqueId=\IKSESFFK\UPGBKJOL\TRNDLDAG|Kind=1|AlternatePart=
+Variation40=Designator=TP46|UniqueId=\IKSESFFK\EHPTCHWK|Kind=1|AlternatePart=
+Variation41=Designator=TP3|UniqueId=\HXUHGWXH|Kind=1|AlternatePart=
+Variation42=Designator=TP26|UniqueId=\IKSESFFK\UPGBKJOL\NGQCGPMN|Kind=1|AlternatePart=
+Variation43=Designator=TP1|UniqueId=\FOAXLVMQ|Kind=1|AlternatePart=
+Variation44=Designator=TP11|UniqueId=\IZMDLTDF\RTLPREAD\NODVNFGZ|Kind=1|AlternatePart=
+Variation45=Designator=TP14|UniqueId=\IKSESFFK\UPGBKJOL\YVKKFNOI|Kind=1|AlternatePart=
+Variation46=Designator=R182|UniqueId=\IKSESFFK\YRXZAAOR|Kind=1|AlternatePart=
+Variation47=Designator=TP17|UniqueId=\IKSESFFK\UPGBKJOL\KSYYVNIQ|Kind=1|AlternatePart=
+Variation48=Designator=TP13|UniqueId=\IZMDLTDF\RTLPREAD\SNACAZHS|Kind=1|AlternatePart=
+Variation49=Designator=TP50_A|UniqueId=\SWHDXMEA\KHNWINPK|Kind=0|AlternatePart=
+Variation50=Designator=TP42|UniqueId=\IKSESFFK\XRJMJWOG|Kind=1|AlternatePart=
+Variation51=Designator=R181|UniqueId=\IKSESFFK\LFLUZDZZ|Kind=1|AlternatePart=
+Variation52=Designator=TP2|UniqueId=\LRSWDFUF|Kind=1|AlternatePart=
+Variation53=Designator=TP27|UniqueId=\IKSESFFK\FNTADWJZ\VSBMLRTR|Kind=1|AlternatePart=
+Variation54=Designator=TP9|UniqueId=\IZMDLTDF\LKZUPDUU|Kind=1|AlternatePart=
+Variation55=Designator=TP39|UniqueId=\IKSESFFK\YRXNCERC|Kind=1|AlternatePart=
+Variation56=Designator=T4|UniqueId=\IKSESFFK\FNTADWJZ\POKOEMQP|Kind=1|AlternatePart=
+Variation57=Designator=TP45|UniqueId=\IKSESFFK\WKBVRQRM|Kind=1|AlternatePart=
+Variation58=Designator=TP36|UniqueId=\IKSESFFK\LLCPBZSS|Kind=1|AlternatePart=
+Variation59=Designator=TP21|UniqueId=\IKSESFFK\UPGBKJOL\AIOAXKBC|Kind=1|AlternatePart=
+Variation60=Designator=R180|UniqueId=\IKSESFFK\WLIJMSWA|Kind=1|AlternatePart=
+Variation61=Designator=R179|UniqueId=\IKSESFFK\SWVTXHAB|Kind=1|AlternatePart=
+Variation62=Designator=TP30|UniqueId=\IKSESFFK\FNTADWJZ\YWZHXWIM|Kind=1|AlternatePart=
+Variation63=Designator=TP8|UniqueId=\IZMDLTDF\JAWBXRJO|Kind=1|AlternatePart=
+Variation64=Designator=TP20|UniqueId=\IKSESFFK\UPGBKJOL\FZCPRRXM|Kind=1|AlternatePart=
+Variation65=Designator=TP44|UniqueId=\IKSESFFK\VEEOZOLO|Kind=1|AlternatePart=
+Variation66=Designator=R176|UniqueId=\IKSESFFK\KMOIOPMA|Kind=1|AlternatePart=
+Variation67=Designator=TP34|UniqueId=\IKSESFFK\BCTCZKYF|Kind=1|AlternatePart=
+Variation68=Designator=TP12|UniqueId=\IZMDLTDF\RTLPREAD\TLDWVBFU|Kind=1|AlternatePart=
+Variation69=Designator=TP28|UniqueId=\IKSESFFK\FNTADWJZ\EFAUGAMB|Kind=1|AlternatePart=
+Variation70=Designator=TP38|UniqueId=\IKSESFFK\JAISQJNX|Kind=1|AlternatePart=
+Variation71=Designator=TP32|UniqueId=\IKSESFFK\VZUEVQKG|Kind=1|AlternatePart=
+Variation72=Designator=TP4|UniqueId=\PIAFZVQW|Kind=1|AlternatePart=
+Variation73=Designator=TP10|UniqueId=\IZMDLTDF\TZDDIHUK|Kind=1|AlternatePart=
+Variation74=Designator=TP31|UniqueId=\IKSESFFK\GOZLSQTT|Kind=1|AlternatePart=
+Variation75=Designator=TP24|UniqueId=\IKSESFFK\UPGBKJOL\CJVSXBWJ|Kind=1|AlternatePart=
+Variation76=Designator=TP41|UniqueId=\IKSESFFK\WIBFMEIJ|Kind=1|AlternatePart=
+Variation77=Designator=R186|UniqueId=\IZMDLTDF\ANZTHZXJ|Kind=1|AlternatePart=
+Variation78=Designator=R184|UniqueId=\IZMDLTDF\RTLPREAD\FQDQILID|Kind=1|AlternatePart=
+Variation79=Designator=TP7|UniqueId=\IZMDLTDF\UAFYGYYB|Kind=1|AlternatePart=
+Variation80=Designator=TP16|UniqueId=\IKSESFFK\UPGBKJOL\BGXSIRMJ|Kind=1|AlternatePart=
+Variation81=Designator=R108|UniqueId=\IKSESFFK\FNTADWJZ\GBAFYPWM|Kind=1|AlternatePart=
+Variation82=Designator=R96|UniqueId=\IKSESFFK\FNTADWJZ\DPEVWCJT|Kind=1|AlternatePart=
+Variation83=Designator=R112|UniqueId=\IKSESFFK\FNTADWJZ\SATMMKNV|Kind=1|AlternatePart=
+Variation84=Designator=R83|UniqueId=\IKSESFFK\UPGBKJOL\KPLKFCZP|Kind=1|AlternatePart=
+Variation85=Designator=R74|UniqueId=\IKSESFFK\UPGBKJOL\HSUWCLLV|Kind=1|AlternatePart=
+Variation86=Designator=R110|UniqueId=\IKSESFFK\FNTADWJZ\NTSSQJJK|Kind=1|AlternatePart=
+Variation87=Designator=R105|UniqueId=\IKSESFFK\FNTADWJZ\JYXGWIRB|Kind=1|AlternatePart=
+Variation88=Designator=R102|UniqueId=\IKSESFFK\FNTADWJZ\JBFTJTYO|Kind=1|AlternatePart=
+Variation89=Designator=R106|UniqueId=\IKSESFFK\FNTADWJZ\BQBGVRIQ|Kind=1|AlternatePart=
+Variation90=Designator=R93|UniqueId=\IKSESFFK\FNTADWJZ\FNMZUZBO|Kind=1|AlternatePart=
+Variation91=Designator=R109|UniqueId=\IKSESFFK\FNTADWJZ\KJXZQERN|Kind=1|AlternatePart=
+Variation92=Designator=R80|UniqueId=\IKSESFFK\UPGBKJOL\EMFQSFMP|Kind=1|AlternatePart=
+Variation93=Designator=R107|UniqueId=\IKSESFFK\FNTADWJZ\VOHCSWXK|Kind=1|AlternatePart=
+Variation94=Designator=R81|UniqueId=\IKSESFFK\UPGBKJOL\MLQUJYCD|Kind=1|AlternatePart=
+Variation95=Designator=R97|UniqueId=\IKSESFFK\FNTADWJZ\ANABSCLU|Kind=1|AlternatePart=
+Variation96=Designator=R98|UniqueId=\IKSESFFK\FNTADWJZ\TIFRVBFG|Kind=1|AlternatePart=
+Variation97=Designator=R92|UniqueId=\IKSESFFK\FNTADWJZ\AWUNTQIX|Kind=1|AlternatePart=
+Variation98=Designator=R71|UniqueId=\ZGQOQTDM\JTKAHEAK|Kind=1|AlternatePart=
+Variation99=Designator=R79|UniqueId=\IKSESFFK\UPGBKJOL\VTWKUHHI|Kind=1|AlternatePart=
+Variation100=Designator=R94|UniqueId=\IKSESFFK\FNTADWJZ\UUXEOLJC|Kind=1|AlternatePart=
+Variation101=Designator=R104|UniqueId=\IKSESFFK\FNTADWJZ\EPRHZHDA|Kind=1|AlternatePart=
+Variation102=Designator=R111|UniqueId=\IKSESFFK\FNTADWJZ\QEZJUCON|Kind=1|AlternatePart=
+Variation103=Designator=R99|UniqueId=\IKSESFFK\FNTADWJZ\GGXYKJIC|Kind=1|AlternatePart=
+Variation104=Designator=R90|UniqueId=\IKSESFFK\UPGBKJOL\QMPAFLHT|Kind=1|AlternatePart=
+Variation105=Designator=R91|UniqueId=\IKSESFFK\UPGBKJOL\VBMYJQOP|Kind=1|AlternatePart=
+Variation106=Designator=R95|UniqueId=\IKSESFFK\FNTADWJZ\BPLPOKUU|Kind=1|AlternatePart=
+Variation107=Designator=R82|UniqueId=\IKSESFFK\UPGBKJOL\EBEGTSAY|Kind=1|AlternatePart=
+Variation108=Designator=R88|UniqueId=\IKSESFFK\UPGBKJOL\UHNYYGDG|Kind=1|AlternatePart=
+Variation109=Designator=R101|UniqueId=\IKSESFFK\FNTADWJZ\JJEPCEHM|Kind=1|AlternatePart=
+Variation110=Designator=R89|UniqueId=\IKSESFFK\UPGBKJOL\PQLCQVCU|Kind=1|AlternatePart=
+Variation111=Designator=R85|UniqueId=\IKSESFFK\UPGBKJOL\KDYHUQGJ|Kind=1|AlternatePart=
+Variation112=Designator=R86|UniqueId=\IKSESFFK\UPGBKJOL\GGIBECBM|Kind=1|AlternatePart=
+Variation113=Designator=R100|UniqueId=\IKSESFFK\FNTADWJZ\OPWFJOVA|Kind=1|AlternatePart=
+Variation114=Designator=R87|UniqueId=\IKSESFFK\UPGBKJOL\OEWYZHFH|Kind=1|AlternatePart=
+Variation115=Designator=R84|UniqueId=\IKSESFFK\UPGBKJOL\JWYAZRAP|Kind=1|AlternatePart=
+Variation116=Designator=R75|UniqueId=\IKSESFFK\UPGBKJOL\AWSGSPGN|Kind=1|AlternatePart=
+Variation117=Designator=R78|UniqueId=\IKSESFFK\UPGBKJOL\ZSWPBFED|Kind=1|AlternatePart=
+Variation118=Designator=R76|UniqueId=\IKSESFFK\UPGBKJOL\UFNSEJVM|Kind=1|AlternatePart=
+Variation119=Designator=R77|UniqueId=\IKSESFFK\UPGBKJOL\FSMDDLRF|Kind=1|AlternatePart=
+Variation120=Designator=R103|UniqueId=\IKSESFFK\FNTADWJZ\JCEPEFNU|Kind=1|AlternatePart=
+Variation121=Designator=R167|UniqueId=\IKSESFFK\KCCXDPYB|Kind=1|AlternatePart=
+Variation122=Designator=R140|UniqueId=\IKSESFFK\KWOKNXRZ|Kind=1|AlternatePart=
+Variation123=Designator=R118|UniqueId=\IKSESFFK\TERWMWSE|Kind=1|AlternatePart=
+Variation124=Designator=R153|UniqueId=\IKSESFFK\YFKZPWTI|Kind=1|AlternatePart=
+Variation125=Designator=R163|UniqueId=\IKSESFFK\UTNRQXXD|Kind=1|AlternatePart=
+Variation126=Designator=R114|UniqueId=\IKSESFFK\FNTADWJZ\QCPQWHFD|Kind=1|AlternatePart=
+Variation127=Designator=R127|UniqueId=\IKSESFFK\NEXVCDBV|Kind=1|AlternatePart=
+Variation128=Designator=R164|UniqueId=\IKSESFFK\OQSZKTWF|Kind=1|AlternatePart=
+Variation129=Designator=R125|UniqueId=\IKSESFFK\REORVQQP|Kind=1|AlternatePart=
+Variation130=Designator=R113|UniqueId=\IKSESFFK\FNTADWJZ\LMGBAEMZ|Kind=1|AlternatePart=
+Variation131=Designator=R134|UniqueId=\IKSESFFK\EBOEHTVQ|Kind=1|AlternatePart=
+Variation132=Designator=R130|UniqueId=\IKSESFFK\ZFSSYAPG|Kind=1|AlternatePart=
+Variation133=Designator=R170|UniqueId=\IKSESFFK\QLDFKJCC|Kind=1|AlternatePart=
+Variation134=Designator=R152|UniqueId=\IKSESFFK\BIJKHWQZ|Kind=1|AlternatePart=
+Variation135=Designator=R117|UniqueId=\IKSESFFK\FNTADWJZ\FLRAOABB|Kind=1|AlternatePart=
+Variation136=Designator=R148|UniqueId=\IKSESFFK\WATRAHSB|Kind=1|AlternatePart=
+Variation137=Designator=R146|UniqueId=\IKSESFFK\COFVUTRI|Kind=1|AlternatePart=
+Variation138=Designator=R147|UniqueId=\IKSESFFK\FUJONMYQ|Kind=1|AlternatePart=
+Variation139=Designator=R144|UniqueId=\IKSESFFK\QBSHEWLC|Kind=1|AlternatePart=
+Variation140=Designator=R150|UniqueId=\IKSESFFK\LKJIHHAL|Kind=1|AlternatePart=
+Variation141=Designator=R136|UniqueId=\IKSESFFK\QMOHSVJT|Kind=1|AlternatePart=
+Variation142=Designator=R168|UniqueId=\IKSESFFK\OUDNQFGU|Kind=1|AlternatePart=
+Variation143=Designator=R124|UniqueId=\IKSESFFK\IGYHDACW|Kind=1|AlternatePart=
+Variation144=Designator=R142|UniqueId=\IKSESFFK\LHAOKQTI|Kind=1|AlternatePart=
+Variation145=Designator=R174|UniqueId=\IKSESFFK\CAMYSRGR|Kind=1|AlternatePart=
+Variation146=Designator=R141|UniqueId=\IKSESFFK\EPGUJLBZ|Kind=1|AlternatePart=
+Variation147=Designator=R151|UniqueId=\IKSESFFK\LGVEPSDS|Kind=1|AlternatePart=
+Variation148=Designator=R173|UniqueId=\IKSESFFK\HDZHYAXP|Kind=1|AlternatePart=
+Variation149=Designator=R165|UniqueId=\IKSESFFK\KKMRLBKT|Kind=1|AlternatePart=
+Variation150=Designator=R145|UniqueId=\IKSESFFK\QXEYIRBB|Kind=1|AlternatePart=
+Variation151=Designator=R157|UniqueId=\IKSESFFK\HUDKWFNG|Kind=1|AlternatePart=
+Variation152=Designator=R172|UniqueId=\IKSESFFK\TASECNYE|Kind=1|AlternatePart=
+Variation153=Designator=R121|UniqueId=\IKSESFFK\JOVBUNTT|Kind=1|AlternatePart=
+Variation154=Designator=R120|UniqueId=\IKSESFFK\PLJWVXVY|Kind=1|AlternatePart=
+Variation155=Designator=R162|UniqueId=\IKSESFFK\RTUYBTVJ|Kind=1|AlternatePart=
+Variation156=Designator=R166|UniqueId=\IKSESFFK\FEYMOEPG|Kind=1|AlternatePart=
+Variation157=Designator=R131|UniqueId=\IKSESFFK\UQLFGBIF|Kind=1|AlternatePart=
+Variation158=Designator=R169|UniqueId=\IKSESFFK\EJWXBHHN|Kind=1|AlternatePart=
+Variation159=Designator=R171|UniqueId=\IKSESFFK\QCRPDIFG|Kind=1|AlternatePart=
+Variation160=Designator=R156|UniqueId=\IKSESFFK\HNOFEWOX|Kind=1|AlternatePart=
+Variation161=Designator=R133|UniqueId=\IKSESFFK\JMGQPCFZ|Kind=1|AlternatePart=
+Variation162=Designator=R135|UniqueId=\IKSESFFK\LIKRYTBU|Kind=1|AlternatePart=
+Variation163=Designator=R122|UniqueId=\IKSESFFK\QJVTEDDD|Kind=1|AlternatePart=
+Variation164=Designator=R160|UniqueId=\IKSESFFK\CJDLAZTX|Kind=1|AlternatePart=
+Variation165=Designator=R143|UniqueId=\IKSESFFK\LNOHTJNR|Kind=1|AlternatePart=
+Variation166=Designator=R158|UniqueId=\IKSESFFK\ZOLOTWPO|Kind=1|AlternatePart=
+Variation167=Designator=R161|UniqueId=\IKSESFFK\TRLOXOTR|Kind=1|AlternatePart=
+Variation168=Designator=R116|UniqueId=\IKSESFFK\FNTADWJZ\QYEZCYAM|Kind=1|AlternatePart=
+Variation169=Designator=R129|UniqueId=\IKSESFFK\TGSAIQST|Kind=1|AlternatePart=
+Variation170=Designator=R138|UniqueId=\IKSESFFK\TBTJUWLF|Kind=1|AlternatePart=
+Variation171=Designator=R159|UniqueId=\IKSESFFK\IVKTPHTK|Kind=1|AlternatePart=
+Variation172=Designator=R137|UniqueId=\IKSESFFK\JTYLUJNF|Kind=1|AlternatePart=
+Variation173=Designator=R149|UniqueId=\IKSESFFK\QOKZUKLA|Kind=1|AlternatePart=
+Variation174=Designator=R132|UniqueId=\IKSESFFK\TQXYGHVW|Kind=1|AlternatePart=
+Variation175=Designator=R123|UniqueId=\IKSESFFK\VYOIOIWO|Kind=1|AlternatePart=
+Variation176=Designator=R128|UniqueId=\IKSESFFK\ABYWEZJS|Kind=1|AlternatePart=
+Variation177=Designator=R115|UniqueId=\IKSESFFK\FNTADWJZ\EILLJBJS|Kind=1|AlternatePart=
+Variation178=Designator=R119|UniqueId=\IKSESFFK\ERKOFPOM|Kind=1|AlternatePart=
+Variation179=Designator=R126|UniqueId=\IKSESFFK\DIUSZYLB|Kind=1|AlternatePart=
+Variation180=Designator=R154|UniqueId=\IKSESFFK\WVXOYGJM|Kind=1|AlternatePart=
+Variation181=Designator=R155|UniqueId=\IKSESFFK\OKFKWCAH|Kind=1|AlternatePart=
+Variation182=Designator=R139|UniqueId=\IKSESFFK\FDEEWWTE|Kind=1|AlternatePart=
+Variation183=Designator=C2_B|UniqueId=\KIKPJEJA\TYFAVSHT|Kind=1|AlternatePart=
+Variation184=Designator=C2_C|UniqueId=\IZZGTNUS\TYFAVSHT|Kind=1|AlternatePart=
+Variation185=Designator=C2_A|UniqueId=\SWHDXMEA\TYFAVSHT|Kind=1|AlternatePart=
+Variation186=Designator=C2_D|UniqueId=\YXGLOVJZ\TYFAVSHT|Kind=1|AlternatePart=
+Variation187=Designator=C3_A|UniqueId=\SWHDXMEA\EDCQARRH|Kind=1|AlternatePart=
+Variation188=Designator=!PCB2|UniqueId=\NPVKJENA\IGGJWWJM|Kind=1|AlternatePart=
+Variation189=Designator=C3_B|UniqueId=\KIKPJEJA\EDCQARRH|Kind=1|AlternatePart=
+Variation190=Designator=MP7|UniqueId=\IKSESFFK\GZIBIZHU|Kind=1|AlternatePart=
+Variation191=Designator=Q1_A|UniqueId=\SWHDXMEA\EQYWBSHW|Kind=1|AlternatePart=
+Variation192=Designator=R8_C|UniqueId=\IZZGTNUS\BZJVXHMH|Kind=1|AlternatePart=
+Variation193=Designator=Q1_B|UniqueId=\KIKPJEJA\EQYWBSHW|Kind=1|AlternatePart=
+Variation194=Designator=R10_B|UniqueId=\KIKPJEJA\OBASVOAT|Kind=1|AlternatePart=
+Variation195=Designator=R4_C|UniqueId=\IZZGTNUS\UUANLAFU|Kind=1|AlternatePart=
+Variation196=Designator=L10|UniqueId=\IKSESFFK\MGOHBFFH|Kind=0|AlternatePart=
+Variation197=Designator=R4_A|UniqueId=\SWHDXMEA\UUANLAFU|Kind=1|AlternatePart=
+Variation198=Designator=MP6|UniqueId=\IKSESFFK\GYFBFJUU|Kind=1|AlternatePart=
+Variation199=Designator=Q2|UniqueId=\IKSESFFK\UPGBKJOL\WERJRWWT|Kind=1|AlternatePart=
+Variation200=Designator=L8|UniqueId=\IKSESFFK\ZQKOCZSQ|Kind=0|AlternatePart=
+Variation201=Designator=L11|UniqueId=\IKSESFFK\NROLLFWN|Kind=1|AlternatePart=
+Variation202=Designator=L1_A|UniqueId=\SWHDXMEA\ZKNPGDMX|Kind=1|AlternatePart=
+Variation203=Designator=L9|UniqueId=\IKSESFFK\WDEZCPTP|Kind=0|AlternatePart=
+Variation204=Designator=R6_D|UniqueId=\YXGLOVJZ\RXSEJJJC|Kind=1|AlternatePart=
+Variation205=Designator=J17|UniqueId=\IKSESFFK\GUQKNSGZ|Kind=0|AlternatePart=
+Variation206=Designator=R7_B|UniqueId=\KIKPJEJA\VNRXEEBF|Kind=1|AlternatePart=
+Variation207=Designator=MP3|UniqueId=\NPVKJENA\NABMQQIL|Kind=1|AlternatePart=
+Variation208=Designator=R7_A|UniqueId=\SWHDXMEA\VNRXEEBF|Kind=1|AlternatePart=
+Variation209=Designator=Q1_D|UniqueId=\YXGLOVJZ\EQYWBSHW|Kind=1|AlternatePart=
+Variation210=Designator=Q4|UniqueId=\IKSESFFK\FNTADWJZ\QWEVOPKJ|Kind=1|AlternatePart=
+Variation211=Designator=MP10|UniqueId=\IKSESFFK\YMQCDFNH|Kind=1|AlternatePart=
+Variation212=Designator=R9_D|UniqueId=\YXGLOVJZ\MJQCZSXG|Kind=1|AlternatePart=
+Variation213=Designator=MP12|UniqueId=\IKSESFFK\FSYZCWKW|Kind=1|AlternatePart=
+Variation214=Designator=LBL1|UniqueId=\NPVKJENA\SOKJRLIS|Kind=1|AlternatePart=
+Variation215=Designator=R2|UniqueId=\GHTYFGCG|Kind=1|AlternatePart=
+Variation216=Designator=R5_D|UniqueId=\YXGLOVJZ\EVQXWPGC|Kind=1|AlternatePart=
+Variation217=Designator=R5_A|UniqueId=\SWHDXMEA\EVQXWPGC|Kind=1|AlternatePart=
+Variation218=Designator=J18|UniqueId=\IKSESFFK\IBOBSVTC|Kind=0|AlternatePart=
+Variation219=Designator=J11_D|UniqueId=\YXGLOVJZ\IENKLNTQ|Kind=0|AlternatePart=
+Variation220=Designator=J12|UniqueId=\IZMDLTDF\QEOLYQCC|Kind=0|AlternatePart=
+Variation221=Designator=Logo5|UniqueId=\IKSESFFK\HASDMGFG|Kind=1|AlternatePart=
+Variation222=Designator=R6_B|UniqueId=\KIKPJEJA\RXSEJJJC|Kind=1|AlternatePart=
+Variation223=Designator=Q5|UniqueId=\IKSESFFK\RREBKKVI|Kind=1|AlternatePart=
+Variation224=Designator=MP13|UniqueId=\IKSESFFK\BYGIKBPS|Kind=1|AlternatePart=
+Variation225=Designator=Logo1|UniqueId=\IKSESFFK\WXIYXCUL|Kind=1|AlternatePart=
+Variation226=Designator=R9_C|UniqueId=\IZZGTNUS\MJQCZSXG|Kind=1|AlternatePart=
+Variation227=Designator=R8_D|UniqueId=\YXGLOVJZ\BZJVXHMH|Kind=1|AlternatePart=
+Variation228=Designator=J14|UniqueId=\IZMDLTDF\KDRPZZQW|Kind=0|AlternatePart=
+Variation229=Designator=L7|UniqueId=\IKSESFFK\FNTADWJZ\VRLSJMAE|Kind=1|AlternatePart=
+Variation230=Designator=L4|UniqueId=\ZGQOQTDM\DRUUGJEH|Kind=1|AlternatePart=
+Variation231=Designator=J20|UniqueId=\IKSESFFK\HIZJWXBI|Kind=0|AlternatePart=
+Variation232=Designator=K1|UniqueId=\IKSESFFK\BDSTEGTC|Kind=1|AlternatePart=
+Variation233=Designator=LOGO4|UniqueId=\IKSESFFK\ARNJUXHQ|Kind=1|AlternatePart=
+Variation234=Designator=R8_B|UniqueId=\KIKPJEJA\BZJVXHMH|Kind=1|AlternatePart=
+Variation235=Designator=MP11|UniqueId=\IKSESFFK\XJLDKPRX|Kind=1|AlternatePart=
+Variation236=Designator=L2|UniqueId=\IZMDLTDF\RTLPREAD\YXNQWAUK|Kind=1|AlternatePart=
+Variation237=Designator=LOGO3|UniqueId=\IKSESFFK\OQXZGQGX|Kind=1|AlternatePart=
+Variation238=Designator=R1|UniqueId=\PDPMOEWD|Kind=1|AlternatePart=
+Variation239=Designator=MP5|UniqueId=\IKSESFFK\JIOEKVJD|Kind=1|AlternatePart=
+Variation240=Designator=Logo2|UniqueId=\IKSESFFK\RSQIQSMO|Kind=1|AlternatePart=
+Variation241=Designator=L5|UniqueId=\IKSESFFK\FNTADWJZ\QQDZRRGB|Kind=1|AlternatePart=
+Variation242=Designator=J16|UniqueId=\IKSESFFK\HJBRKNVJ|Kind=0|AlternatePart=
+Variation243=Designator=MP2|UniqueId=\NPVKJENA\FFSPIDKJ|Kind=1|AlternatePart=
+Variation244=Designator=R4_D|UniqueId=\YXGLOVJZ\UUANLAFU|Kind=1|AlternatePart=
+Variation245=Designator=R9_B|UniqueId=\KIKPJEJA\MJQCZSXG|Kind=1|AlternatePart=
+Variation246=Designator=R9_A|UniqueId=\SWHDXMEA\MJQCZSXG|Kind=1|AlternatePart=
+Variation247=Designator=MP4|UniqueId=\NPVKJENA\CLRUQCNK|Kind=1|AlternatePart=
+Variation248=Designator=R4_B|UniqueId=\KIKPJEJA\UUANLAFU|Kind=1|AlternatePart=
+Variation249=Designator=Q3|UniqueId=\IKSESFFK\FNTADWJZ\ZOAZZTCU|Kind=1|AlternatePart=
+Variation250=Designator=L6|UniqueId=\IKSESFFK\FNTADWJZ\UTDZWBQW|Kind=1|AlternatePart=
+Variation251=Designator=MP9|UniqueId=\IKSESFFK\GKOSMEGE|Kind=1|AlternatePart=
+Variation252=Designator=L1_B|UniqueId=\KIKPJEJA\ZKNPGDMX|Kind=1|AlternatePart=
+Variation253=Designator=R5_B|UniqueId=\KIKPJEJA\EVQXWPGC|Kind=1|AlternatePart=
+Variation254=Designator=L3|UniqueId=\IZMDLTDF\RTLPREAD\ADZBRRNL|Kind=1|AlternatePart=
+Variation255=Designator=MP8|UniqueId=\IKSESFFK\CKURANLP|Kind=1|AlternatePart=
+Variation256=Designator=R10_A|UniqueId=\SWHDXMEA\OBASVOAT|Kind=1|AlternatePart=
+Variation257=Designator=L1_D|UniqueId=\YXGLOVJZ\ZKNPGDMX|Kind=1|AlternatePart=
+Variation258=Designator=Q1_C|UniqueId=\IZZGTNUS\EQYWBSHW|Kind=1|AlternatePart=
+Variation259=Designator=R6_C|UniqueId=\IZZGTNUS\RXSEJJJC|Kind=1|AlternatePart=
+Variation260=Designator=R8_A|UniqueId=\SWHDXMEA\BZJVXHMH|Kind=1|AlternatePart=
+Variation261=Designator=J15|UniqueId=\IZMDLTDF\LOYDMBIA|Kind=0|AlternatePart=
+Variation262=Designator=R3|UniqueId=\DSTGQDTI|Kind=1|AlternatePart=
+Variation263=Designator=L1_C|UniqueId=\IZZGTNUS\ZKNPGDMX|Kind=1|AlternatePart=
+Variation264=Designator=R7_C|UniqueId=\IZZGTNUS\VNRXEEBF|Kind=1|AlternatePart=
+Variation265=Designator=R7_D|UniqueId=\YXGLOVJZ\VNRXEEBF|Kind=1|AlternatePart=
+Variation266=Designator=R5_C|UniqueId=\IZZGTNUS\EVQXWPGC|Kind=1|AlternatePart=
+Variation267=Designator=J19|UniqueId=\IKSESFFK\GKMLBXJB|Kind=0|AlternatePart=
+Variation268=Designator=R6_A|UniqueId=\SWHDXMEA\RXSEJJJC|Kind=1|AlternatePart=
+Variation269=Designator=J13|UniqueId=\IZMDLTDF\UYSNMABF|Kind=0|AlternatePart=
+Variation270=Designator=R18_A|UniqueId=\SWHDXMEA\LOZWQBMR|Kind=1|AlternatePart=
+Variation271=Designator=R17_C|UniqueId=\IZZGTNUS\OLHMAVTD|Kind=1|AlternatePart=
+Variation272=Designator=R33|UniqueId=\CKUNOZIL\ICAKYZZN|Kind=1|AlternatePart=
+Variation273=Designator=R11_D|UniqueId=\YXGLOVJZ\AEIHMMEQ|Kind=1|AlternatePart=
+Variation274=Designator=R70|UniqueId=\ZGQOQTDM\NGFDYMKF|Kind=1|AlternatePart=
+Variation275=Designator=R59|UniqueId=\IZMDLTDF\RTLPREAD\UGTYFYIY|Kind=1|AlternatePart=
+Variation276=Designator=R45|UniqueId=\IZMDLTDF\RWAWDYWB|Kind=1|AlternatePart=
+Variation277=Designator=R67|UniqueId=\ZGQOQTDM\NUVZWEAI|Kind=1|AlternatePart=
+Variation278=Designator=R52|UniqueId=\IZMDLTDF\KVVZLQSR|Kind=1|AlternatePart=
+Variation279=Designator=R44|UniqueId=\IZMDLTDF\NXLTDRNZ|Kind=1|AlternatePart=
+Variation280=Designator=R16_A|UniqueId=\SWHDXMEA\CLMJMDNM|Kind=1|AlternatePart=
+Variation281=Designator=R12_A|UniqueId=\SWHDXMEA\NUVMEFEM|Kind=1|AlternatePart=
+Variation282=Designator=R16_D|UniqueId=\YXGLOVJZ\CLMJMDNM|Kind=1|AlternatePart=
+Variation283=Designator=R64|UniqueId=\IZMDLTDF\RTLPREAD\UUKUDTKP|Kind=1|AlternatePart=
+Variation284=Designator=R49|UniqueId=\IZMDLTDF\OMVWYYJQ|Kind=1|AlternatePart=
+Variation285=Designator=R14_C|UniqueId=\IZZGTNUS\MXWQIZFE|Kind=1|AlternatePart=
+Variation286=Designator=R35|UniqueId=\CKUNOZIL\LYSYWJWX|Kind=1|AlternatePart=
+Variation287=Designator=R12_D|UniqueId=\YXGLOVJZ\NUVMEFEM|Kind=1|AlternatePart=
+Variation288=Designator=R56|UniqueId=\IZMDLTDF\RTLPREAD\TDZTCTGQ|Kind=1|AlternatePart=
+Variation289=Designator=R15_C|UniqueId=\IZZGTNUS\JHWWIGUD|Kind=1|AlternatePart=
+Variation290=Designator=R31|UniqueId=\CKUNOZIL\BGYTJCAK|Kind=1|AlternatePart=
+Variation291=Designator=R62|UniqueId=\IZMDLTDF\RTLPREAD\EGSDMBWE|Kind=1|AlternatePart=
+Variation292=Designator=R13_D|UniqueId=\YXGLOVJZ\AERCATIX|Kind=1|AlternatePart=
+Variation293=Designator=R38|UniqueId=\CKUNOZIL\QMMXBJYA|Kind=1|AlternatePart=
+Variation294=Designator=R66|UniqueId=\ZGQOQTDM\KYGOHPBL|Kind=1|AlternatePart=
+Variation295=Designator=R53|UniqueId=\IZMDLTDF\ABLUELYC|Kind=1|AlternatePart=
+Variation296=Designator=R25|UniqueId=\CKUNOZIL\PDBDMHEL|Kind=1|AlternatePart=
+Variation297=Designator=R14_D|UniqueId=\YXGLOVJZ\MXWQIZFE|Kind=1|AlternatePart=
+Variation298=Designator=R18_D|UniqueId=\YXGLOVJZ\LOZWQBMR|Kind=1|AlternatePart=
+Variation299=Designator=R13_A|UniqueId=\SWHDXMEA\AERCATIX|Kind=1|AlternatePart=
+Variation300=Designator=R11_C|UniqueId=\IZZGTNUS\AEIHMMEQ|Kind=1|AlternatePart=
+Variation301=Designator=R21|UniqueId=\CKUNOZIL\WRLCSTGR|Kind=1|AlternatePart=
+Variation302=Designator=R27|UniqueId=\CKUNOZIL\WSZCQKNJ|Kind=1|AlternatePart=
+Variation303=Designator=R54|UniqueId=\IZMDLTDF\DFAHZNKW|Kind=1|AlternatePart=
+Variation304=Designator=R16_C|UniqueId=\IZZGTNUS\CLMJMDNM|Kind=1|AlternatePart=
+Variation305=Designator=R29|UniqueId=\CKUNOZIL\TMSHOHMF|Kind=1|AlternatePart=
+Variation306=Designator=R18_B|UniqueId=\KIKPJEJA\LOZWQBMR|Kind=1|AlternatePart=
+Variation307=Designator=R32|UniqueId=\CKUNOZIL\FZBJTLRB|Kind=1|AlternatePart=
+Variation308=Designator=R11_B|UniqueId=\KIKPJEJA\AEIHMMEQ|Kind=1|AlternatePart=
+Variation309=Designator=R14_B|UniqueId=\KIKPJEJA\MXWQIZFE|Kind=1|AlternatePart=
+Variation310=Designator=R15_A|UniqueId=\SWHDXMEA\JHWWIGUD|Kind=1|AlternatePart=
+Variation311=Designator=R20|UniqueId=\CKUNOZIL\CXJQWBOJ|Kind=1|AlternatePart=
+Variation312=Designator=R24|UniqueId=\CKUNOZIL\RHKQCKVY|Kind=1|AlternatePart=
+Variation313=Designator=R48|UniqueId=\IZMDLTDF\JOUBKLQE|Kind=1|AlternatePart=
+Variation314=Designator=R40|UniqueId=\IZMDLTDF\EHTTFKGX|Kind=1|AlternatePart=
+Variation315=Designator=R10_D|UniqueId=\YXGLOVJZ\OBASVOAT|Kind=1|AlternatePart=
+Variation316=Designator=R41|UniqueId=\IZMDLTDF\PYPPBAKL|Kind=1|AlternatePart=
+Variation317=Designator=R12_B|UniqueId=\KIKPJEJA\NUVMEFEM|Kind=1|AlternatePart=
+Variation318=Designator=R58|UniqueId=\IZMDLTDF\RTLPREAD\VJULVUXE|Kind=1|AlternatePart=
+Variation319=Designator=R17_D|UniqueId=\YXGLOVJZ\OLHMAVTD|Kind=1|AlternatePart=
+Variation320=Designator=R10_C|UniqueId=\IZZGTNUS\OBASVOAT|Kind=1|AlternatePart=
+Variation321=Designator=R22|UniqueId=\CKUNOZIL\WKAUSBVE|Kind=1|AlternatePart=
+Variation322=Designator=R19|UniqueId=\CKUNOZIL\PHZXPRCZ|Kind=1|AlternatePart=
+Variation323=Designator=R15_D|UniqueId=\YXGLOVJZ\JHWWIGUD|Kind=1|AlternatePart=
+Variation324=Designator=R63|UniqueId=\IZMDLTDF\RTLPREAD\OJTOARRQ|Kind=1|AlternatePart=
+Variation325=Designator=R50|UniqueId=\IZMDLTDF\ZXADKVER|Kind=1|AlternatePart=
+Variation326=Designator=R23|UniqueId=\CKUNOZIL\TMDFKHEX|Kind=1|AlternatePart=
+Variation327=Designator=R13_C|UniqueId=\IZZGTNUS\AERCATIX|Kind=1|AlternatePart=
+Variation328=Designator=R15_B|UniqueId=\KIKPJEJA\JHWWIGUD|Kind=1|AlternatePart=
+Variation329=Designator=R34|UniqueId=\CKUNOZIL\YVSJPXVR|Kind=1|AlternatePart=
+Variation330=Designator=R17_B|UniqueId=\KIKPJEJA\OLHMAVTD|Kind=1|AlternatePart=
+Variation331=Designator=R39|UniqueId=\IZMDLTDF\YOUKRQLN|Kind=1|AlternatePart=
+Variation332=Designator=R16_B|UniqueId=\KIKPJEJA\CLMJMDNM|Kind=1|AlternatePart=
+Variation333=Designator=R13_B|UniqueId=\KIKPJEJA\AERCATIX|Kind=1|AlternatePart=
+Variation334=Designator=R60|UniqueId=\IZMDLTDF\RTLPREAD\NNEBQHMX|Kind=1|AlternatePart=
+Variation335=Designator=R18_C|UniqueId=\IZZGTNUS\LOZWQBMR|Kind=1|AlternatePart=
+Variation336=Designator=R17_A|UniqueId=\SWHDXMEA\OLHMAVTD|Kind=1|AlternatePart=
+Variation337=Designator=R47|UniqueId=\IZMDLTDF\PNWXBCLL|Kind=1|AlternatePart=
+Variation338=Designator=R36|UniqueId=\CKUNOZIL\GAUJLKUU|Kind=1|AlternatePart=
+Variation339=Designator=R14_A|UniqueId=\SWHDXMEA\MXWQIZFE|Kind=1|AlternatePart=
+Variation340=Designator=R42|UniqueId=\IZMDLTDF\SOJCHNCH|Kind=1|AlternatePart=
+Variation341=Designator=R37|UniqueId=\CKUNOZIL\UZXBHQOC|Kind=1|AlternatePart=
+Variation342=Designator=R28|UniqueId=\CKUNOZIL\MXERGPAU|Kind=1|AlternatePart=
+Variation343=Designator=R26|UniqueId=\CKUNOZIL\MBBOVSOA|Kind=1|AlternatePart=
+Variation344=Designator=R43|UniqueId=\IZMDLTDF\YGJMPLDF|Kind=1|AlternatePart=
+Variation345=Designator=R61|UniqueId=\IZMDLTDF\RTLPREAD\PEUMSZZG|Kind=1|AlternatePart=
+Variation346=Designator=R55|UniqueId=\IZMDLTDF\ZFLGHUPC|Kind=1|AlternatePart=
+Variation347=Designator=R57|UniqueId=\IZMDLTDF\RTLPREAD\ZIZAJHYF|Kind=1|AlternatePart=
+Variation348=Designator=R12_C|UniqueId=\IZZGTNUS\NUVMEFEM|Kind=1|AlternatePart=
+Variation349=Designator=R30|UniqueId=\CKUNOZIL\NCJNQRKB|Kind=1|AlternatePart=
+Variation350=Designator=R51|UniqueId=\IZMDLTDF\MIXDALZK|Kind=1|AlternatePart=
+Variation351=Designator=R11_A|UniqueId=\SWHDXMEA\AEIHMMEQ|Kind=1|AlternatePart=
+Variation352=Designator=R46|UniqueId=\IZMDLTDF\POFIGFUT|Kind=1|AlternatePart=
+Variation353=Designator=TP50_C|UniqueId=\IZZGTNUS\KHNWINPK|Kind=0|AlternatePart=
+Variation354=Designator=U29|UniqueId=\IKSESFFK\EIPDXVGP|Kind=1|AlternatePart=
+Variation355=Designator=U12|UniqueId=\IZMDLTDF\RTLPREAD\QZSBHFLC|Kind=1|AlternatePart=
+Variation356=Designator=TP59|UniqueId=\IKSESFFK\YPNTQTOV|Kind=0|AlternatePart=
+Variation357=Designator=TP55|UniqueId=\IZMDLTDF\CQXFOTYD|Kind=0|AlternatePart=
+Variation358=Designator=U15|UniqueId=\ZGQOQTDM\MXDRDSXH|Kind=1|AlternatePart=
+Variation359=Designator=TP66|UniqueId=\IKSESFFK\KKENFTSS|Kind=1|AlternatePart=
+Variation360=Designator=U30|UniqueId=\IKSESFFK\FMBWVDXF|Kind=1|AlternatePart=
+Variation361=Designator=U2_C|UniqueId=\IZZGTNUS\VUUUAMYO|Kind=1|AlternatePart=
+Variation362=Designator=TP68|UniqueId=\IKSESFFK\ABMHALQG|Kind=1|AlternatePart=
+Variation363=Designator=U20|UniqueId=\IKSESFFK\FNTADWJZ\DSUKHMLF|Kind=1|AlternatePart=
+Variation364=Designator=TP50_D|UniqueId=\YXGLOVJZ\KHNWINPK|Kind=0|AlternatePart=
+Variation365=Designator=TP67|UniqueId=\IKSESFFK\ZHMWSSQR|Kind=1|AlternatePart=
+Variation366=Designator=TP51_B|UniqueId=\KIKPJEJA\KVEBHROQ|Kind=0|AlternatePart=
+Variation367=Designator=U23|UniqueId=\IKSESFFK\FNTADWJZ\RDHKAWCM|Kind=1|AlternatePart=
+Variation368=Designator=ZZ3|UniqueId=\IKSESFFK\JJPCRAGW|Kind=1|AlternatePart=
+Variation369=Designator=U27|UniqueId=\IKSESFFK\FNTADWJZ\FXSSZBFY|Kind=1|AlternatePart=
+Variation370=Designator=ZZ2|UniqueId=\IKSESFFK\MKILRPZO|Kind=1|AlternatePart=
+Variation371=Designator=U2_A|UniqueId=\SWHDXMEA\VUUUAMYO|Kind=1|AlternatePart=
+Variation372=Designator=U19|UniqueId=\IKSESFFK\UPGBKJOL\MOYOHQYS|Kind=1|AlternatePart=
+Variation373=Designator=TP58|UniqueId=\IKSESFFK\GJFYHXWA|Kind=0|AlternatePart=
+Variation374=Designator=U22|UniqueId=\IKSESFFK\FNTADWJZ\ZAPVALAC|Kind=1|AlternatePart=
+Variation375=Designator=U3_A|UniqueId=\SWHDXMEA\DZRGRZOX|Kind=1|AlternatePart=
+Variation376=Designator=TP64|UniqueId=\IKSESFFK\XDUXDFCZ|Kind=1|AlternatePart=
+Variation377=Designator=TP69|UniqueId=\IKSESFFK\QEJIHRJQ|Kind=1|AlternatePart=
+Variation378=Designator=TP52|UniqueId=\IZMDLTDF\CPFPONIH|Kind=0|AlternatePart=
+Variation379=Designator=U2_D|UniqueId=\YXGLOVJZ\VUUUAMYO|Kind=1|AlternatePart=
+Variation380=Designator=TP51_C|UniqueId=\IZZGTNUS\KVEBHROQ|Kind=0|AlternatePart=
+Variation381=Designator=U1_C|UniqueId=\IZZGTNUS\YTGWHRET|Kind=1|AlternatePart=
+Variation382=Designator=U1_A|UniqueId=\SWHDXMEA\YTGWHRET|Kind=1|AlternatePart=
+Variation383=Designator=U32|UniqueId=\IKSESFFK\DYTGQNZJ|Kind=1|AlternatePart=
+Variation384=Designator=TP57|UniqueId=\IKSESFFK\LQZZLNHT|Kind=0|AlternatePart=
+Variation385=Designator=U11|UniqueId=\IZMDLTDF\RTLPREAD\DBZRTJXV|Kind=1|AlternatePart=
+Variation386=Designator=U4|UniqueId=\CKUNOZIL\EAXJROBI|Kind=1|AlternatePart=
+Variation387=Designator=U1_B|UniqueId=\KIKPJEJA\YTGWHRET|Kind=1|AlternatePart=
+Variation388=Designator=U3_B|UniqueId=\KIKPJEJA\DZRGRZOX|Kind=1|AlternatePart=
+Variation389=Designator=U10|UniqueId=\IZMDLTDF\RTLPREAD\SKLLUZBB|Kind=1|AlternatePart=
+Variation390=Designator=TP51_A|UniqueId=\SWHDXMEA\KVEBHROQ|Kind=0|AlternatePart=
+Variation391=Designator=U3_C|UniqueId=\IZZGTNUS\DZRGRZOX|Kind=1|AlternatePart=
+Variation392=Designator=U21|UniqueId=\IKSESFFK\FNTADWJZ\ZONHQQNA|Kind=1|AlternatePart=
+Variation393=Designator=TP62|UniqueId=\IKSESFFK\OOHDSSTI|Kind=1|AlternatePart=
+Variation394=Designator=U5|UniqueId=\IZMDLTDF\EZCRPROI|Kind=1|AlternatePart=
+Variation395=Designator=TP51_D|UniqueId=\YXGLOVJZ\KVEBHROQ|Kind=0|AlternatePart=
+Variation396=Designator=TP54|UniqueId=\IZMDLTDF\KRZRUFBF|Kind=0|AlternatePart=
+Variation397=Designator=TP61|UniqueId=\IKSESFFK\EQTFLDME|Kind=1|AlternatePart=
+Variation398=Designator=U33|UniqueId=\IKSESFFK\GAXJJKMB|Kind=1|AlternatePart=
+Variation399=Designator=U18|UniqueId=\IKSESFFK\UPGBKJOL\YKERYSMA|Kind=1|AlternatePart=
+Variation400=Designator=U8|UniqueId=\IZMDLTDF\LVXCZQXC|Kind=1|AlternatePart=
+Variation401=Designator=U25|UniqueId=\IKSESFFK\FNTADWJZ\TGXJYJIK|Kind=1|AlternatePart=
+Variation402=Designator=TP65|UniqueId=\IKSESFFK\CYXBLLJM|Kind=1|AlternatePart=
+Variation403=Designator=TP56|UniqueId=\IKSESFFK\MLMMMTSL|Kind=0|AlternatePart=
+Variation404=Designator=U26|UniqueId=\IKSESFFK\FNTADWJZ\TWMZQDBV|Kind=1|AlternatePart=
+Variation405=Designator=U35|UniqueId=\IKSESFFK\IXJZPBDX|Kind=1|AlternatePart=
+Variation406=Designator=U17|UniqueId=\ZGQOQTDM\ECVSKLDB|Kind=1|AlternatePart=
+Variation407=Designator=U24|UniqueId=\IKSESFFK\FNTADWJZ\RMHNTNGF|Kind=1|AlternatePart=
+Variation408=Designator=U13|UniqueId=\IZMDLTDF\RTLPREAD\HRAPIAMR|Kind=1|AlternatePart=
+Variation409=Designator=ZZ1|UniqueId=\IKSESFFK\MXZGDRAY|Kind=1|AlternatePart=
+Variation410=Designator=U28|UniqueId=\IKSESFFK\IYWPDIAI|Kind=1|AlternatePart=
+Variation411=Designator=U16|UniqueId=\ZGQOQTDM\RFYQAJMM|Kind=1|AlternatePart=
+Variation412=Designator=U31|UniqueId=\IKSESFFK\LTVFGIZV|Kind=1|AlternatePart=
+Variation413=Designator=U2_B|UniqueId=\KIKPJEJA\VUUUAMYO|Kind=1|AlternatePart=
+Variation414=Designator=U6|UniqueId=\IZMDLTDF\RYWDLDNH|Kind=1|AlternatePart=
+Variation415=Designator=U3_D|UniqueId=\YXGLOVJZ\DZRGRZOX|Kind=1|AlternatePart=
+Variation416=Designator=U1_D|UniqueId=\YXGLOVJZ\YTGWHRET|Kind=1|AlternatePart=
+Variation417=Designator=TP60|UniqueId=\IKSESFFK\XZKYAICQ|Kind=0|AlternatePart=
+Variation418=Designator=U14|UniqueId=\ZGQOQTDM\FGTPSBKT|Kind=1|AlternatePart=
+Variation419=Designator=TP53|UniqueId=\IZMDLTDF\CMQBPPAY|Kind=0|AlternatePart=
+Variation420=Designator=U7|UniqueId=\IZMDLTDF\ZWFFMNOB|Kind=1|AlternatePart=
+Variation421=Designator=U9|UniqueId=\IZMDLTDF\CCWPWKJN|Kind=1|AlternatePart=
+Variation422=Designator=U34|UniqueId=\IKSESFFK\XBDLHPVV|Kind=1|AlternatePart=
+Variation423=Designator=D34|UniqueId=\IZMDLTDF\RTLPREAD\TIGRYKXY|Kind=1|AlternatePart=
+Variation424=Designator=D28|UniqueId=\IKSESFFK\FNTADWJZ\FTMGCINZ|Kind=1|AlternatePart=
+Variation425=Designator=J4|UniqueId=\ZGQOQTDM\WQMSPVJB|Kind=1|AlternatePart=
+Variation426=Designator=FB6|UniqueId=\IKSESFFK\RACKLNIP|Kind=1|AlternatePart=
+Variation427=Designator=D26|UniqueId=\IKSESFFK\FNTADWJZ\SCYAIHRH|Kind=1|AlternatePart=
+Variation428=Designator=FB12|UniqueId=\IKSESFFK\ZMPXFCNK|Kind=1|AlternatePart=
+Variation429=Designator=J1_A|UniqueId=\SWHDXMEA\FUNQWMKU|Kind=1|AlternatePart=
+Variation430=Designator=FB9|UniqueId=\IKSESFFK\EAHEYFYB|Kind=1|AlternatePart=
+Variation431=Designator=J7|UniqueId=\IKSESFFK\UPGBKJOL\NPZOQTSK|Kind=1|AlternatePart=
+Variation432=Designator=D22|UniqueId=\IKSESFFK\FNTADWJZ\PZVTILCC|Kind=1|AlternatePart=
+Variation433=Designator=D30|UniqueId=\IKSESFFK\FNTADWJZ\MYSSDQCI|Kind=1|AlternatePart=
+Variation434=Designator=FB8|UniqueId=\IKSESFFK\NEBWSFEQ|Kind=1|AlternatePart=
+Variation435=Designator=J11_C|UniqueId=\IZZGTNUS\IENKLNTQ|Kind=0|AlternatePart=
+Variation436=Designator=D27|UniqueId=\IKSESFFK\FNTADWJZ\JNWYSNNH|Kind=1|AlternatePart=
+Variation437=Designator=FB7|UniqueId=\IKSESFFK\MTAOLXKX|Kind=1|AlternatePart=
+Variation438=Designator=J10_A|UniqueId=\SWHDXMEA\JKKHVUUI|Kind=0|AlternatePart=
+Variation439=Designator=FB10|UniqueId=\IKSESFFK\HLOZUZWD|Kind=1|AlternatePart=
+Variation440=Designator=FB3|UniqueId=\IKSESFFK\FNTADWJZ\TQDUHTDQ|Kind=1|AlternatePart=
+Variation441=Designator=D17|UniqueId=\IKSESFFK\FNTADWJZ\XGHJHGBR|Kind=1|AlternatePart=
+Variation442=Designator=J11_A|UniqueId=\SWHDXMEA\IENKLNTQ|Kind=0|AlternatePart=
+Variation443=Designator=D31|UniqueId=\IKSESFFK\FNTADWJZ\PFJQLXFE|Kind=1|AlternatePart=
+Variation444=Designator=D19|UniqueId=\IKSESFFK\FNTADWJZ\JNBDBTUK|Kind=1|AlternatePart=
+Variation445=Designator=D14|UniqueId=\IKSESFFK\UPGBKJOL\EHQYZKQC|Kind=1|AlternatePart=
+Variation446=Designator=J6|UniqueId=\IKSESFFK\UPGBKJOL\DNXZUEOI|Kind=1|AlternatePart=
+Variation447=Designator=D20|UniqueId=\IKSESFFK\FNTADWJZ\NRBKKBWZ|Kind=1|AlternatePart=
+Variation448=Designator=FB5|UniqueId=\IKSESFFK\FNTADWJZ\QLYNNQEL|Kind=1|AlternatePart=
+Variation449=Designator=D16|UniqueId=\IKSESFFK\FNTADWJZ\KAROTQDQ|Kind=1|AlternatePart=
+Variation450=Designator=D21|UniqueId=\IKSESFFK\FNTADWJZ\MUTRHUVO|Kind=1|AlternatePart=
+Variation451=Designator=J1_B|UniqueId=\KIKPJEJA\FUNQWMKU|Kind=1|AlternatePart=
+Variation452=Designator=D23|UniqueId=\IKSESFFK\FNTADWJZ\LWIRABAD|Kind=1|AlternatePart=
+Variation453=Designator=J1_D|UniqueId=\YXGLOVJZ\FUNQWMKU|Kind=1|AlternatePart=
+Variation454=Designator=FB11|UniqueId=\IKSESFFK\SQPXOMFC|Kind=1|AlternatePart=
+Variation455=Designator=J5|UniqueId=\ZGQOQTDM\TOSEXAVV|Kind=1|AlternatePart=
+Variation456=Designator=D33|UniqueId=\IZMDLTDF\RTLPREAD\QRTPTEAU|Kind=1|AlternatePart=
+Variation457=Designator=D15|UniqueId=\IKSESFFK\FNTADWJZ\PHZIPVDI|Kind=1|AlternatePart=
+Variation458=Designator=D29|UniqueId=\IKSESFFK\FNTADWJZ\GNCNZYVO|Kind=1|AlternatePart=
+Variation459=Designator=FB13|UniqueId=\IKSESFFK\GWFKFZIX|Kind=1|AlternatePart=
+Variation460=Designator=FB4|UniqueId=\IKSESFFK\FNTADWJZ\TPFLVSUF|Kind=1|AlternatePart=
+Variation461=Designator=J2|UniqueId=\TEMTWXHS\VCWGWWLV|Kind=1|AlternatePart=
+Variation462=Designator=J3|UniqueId=\TEMTWXHS\VNPCGKSG|Kind=1|AlternatePart=
+Variation463=Designator=D24|UniqueId=\IKSESFFK\FNTADWJZ\JVUMADAZ|Kind=1|AlternatePart=
+Variation464=Designator=J10_D|UniqueId=\YXGLOVJZ\JKKHVUUI|Kind=0|AlternatePart=
+Variation465=Designator=J10_B|UniqueId=\KIKPJEJA\JKKHVUUI|Kind=0|AlternatePart=
+Variation466=Designator=D25|UniqueId=\IKSESFFK\FNTADWJZ\EOOITNGY|Kind=1|AlternatePart=
+Variation467=Designator=J1_C|UniqueId=\IZZGTNUS\FUNQWMKU|Kind=1|AlternatePart=
+Variation468=Designator=J8|UniqueId=\IKSESFFK\UPGBKJOL\VGNTORGB|Kind=1|AlternatePart=
+Variation469=Designator=FID4|UniqueId=\IKSESFFK\KFJUMIVP|Kind=1|AlternatePart=
+Variation470=Designator=FID6|UniqueId=\IKSESFFK\GKTNPMXB|Kind=1|AlternatePart=
+Variation471=Designator=D13|UniqueId=\IKSESFFK\UPGBKJOL\ANFUYRCR|Kind=1|AlternatePart=
+Variation472=Designator=FID5|UniqueId=\IKSESFFK\QNWKJSRX|Kind=1|AlternatePart=
+Variation473=Designator=J11_B|UniqueId=\KIKPJEJA\IENKLNTQ|Kind=0|AlternatePart=
+Variation474=Designator=FB1|UniqueId=\IZMDLTDF\RTLPREAD\IHOPBFVH|Kind=1|AlternatePart=
+Variation475=Designator=F2|UniqueId=\IKSESFFK\EKSRWFEJ|Kind=1|AlternatePart=
+Variation476=Designator=D32|UniqueId=\IKSESFFK\QROHFVHY|Kind=1|AlternatePart=
+Variation477=Designator=D18|UniqueId=\IKSESFFK\FNTADWJZ\JLFAZZOG|Kind=1|AlternatePart=
+Variation478=Designator=FB2|UniqueId=\IKSESFFK\FNTADWJZ\ISJNIIDC|Kind=1|AlternatePart=
+Variation479=Designator=F1|UniqueId=\IKSESFFK\CXQSKTAS|Kind=1|AlternatePart=
+Variation480=Designator=J10_C|UniqueId=\IZZGTNUS\JKKHVUUI|Kind=0|AlternatePart=
+Variation481=Designator=J9|UniqueId=\IKSESFFK\NVYQKRDO|Kind=1|AlternatePart=
+Variation482=Designator=C186|UniqueId=\IKSESFFK\QBAOSJDE|Kind=1|AlternatePart=
+Variation483=Designator=C204|UniqueId=\IKSESFFK\AMXSUEVL|Kind=1|AlternatePart=
+Variation484=Designator=C189|UniqueId=\IKSESFFK\NZYOUVZX|Kind=1|AlternatePart=
+Variation485=Designator=D1_C|UniqueId=\IZZGTNUS\FZDPZPNR|Kind=1|AlternatePart=
+Variation486=Designator=D7|UniqueId=\IKSESFFK\UPGBKJOL\YFCFQJOB|Kind=1|AlternatePart=
+Variation487=Designator=C193|UniqueId=\IKSESFFK\UNSRMQOG|Kind=1|AlternatePart=
+Variation488=Designator=C212|UniqueId=\IKSESFFK\YLJDQFTQ|Kind=1|AlternatePart=
+Variation489=Designator=C207|UniqueId=\IKSESFFK\KWBGALVU|Kind=1|AlternatePart=
+Variation490=Designator=C199|UniqueId=\IKSESFFK\XORNGDDX|Kind=1|AlternatePart=
+Variation491=Designator=D4|UniqueId=\IZMDLTDF\RTLPREAD\IKGRKYGP|Kind=1|AlternatePart=
+Variation492=Designator=C216|UniqueId=\IKSESFFK\GMVFEKOD|Kind=1|AlternatePart=
+Variation493=Designator=C173|UniqueId=\IKSESFFK\TGRYURWZ|Kind=0|AlternatePart=
+Variation494=Designator=C194|UniqueId=\IKSESFFK\OGGOKCUJ|Kind=1|AlternatePart=
+Variation495=Designator=C192|UniqueId=\IKSESFFK\DHTRSYDB|Kind=1|AlternatePart=
+Variation496=Designator=C166|UniqueId=\IKSESFFK\FNTADWJZ\CDLIEUPY|Kind=1|AlternatePart=
+Variation497=Designator=C169|UniqueId=\IKSESFFK\FBKMIVBO|Kind=1|AlternatePart=
+Variation498=Designator=C209|UniqueId=\IKSESFFK\ITCDAFQA|Kind=1|AlternatePart=
+Variation499=Designator=C184|UniqueId=\IKSESFFK\YRKYEFMS|Kind=1|AlternatePart=
+Variation500=Designator=C170|UniqueId=\IKSESFFK\VNDBRWBJ|Kind=1|AlternatePart=
+Variation501=Designator=C175|UniqueId=\IKSESFFK\ALOQUTMN|Kind=0|AlternatePart=
+Variation502=Designator=C205|UniqueId=\IKSESFFK\CFCRGWAL|Kind=1|AlternatePart=
+Variation503=Designator=D12|UniqueId=\IKSESFFK\UPGBKJOL\YRXSIIHI|Kind=1|AlternatePart=
+Variation504=Designator=C206|UniqueId=\IKSESFFK\JLVSKKFB|Kind=1|AlternatePart=
+Variation505=Designator=C162|UniqueId=\IKSESFFK\FNTADWJZ\KMCKNFWV|Kind=1|AlternatePart=
+Variation506=Designator=C188|UniqueId=\IKSESFFK\HGRABICJ|Kind=1|AlternatePart=
+Variation507=Designator=C210|UniqueId=\IKSESFFK\KPKRAXVH|Kind=1|AlternatePart=
+Variation508=Designator=C211|UniqueId=\IKSESFFK\AQAMGFVU|Kind=1|AlternatePart=
+Variation509=Designator=C161|UniqueId=\IKSESFFK\FNTADWJZ\JMPSGALQ|Kind=1|AlternatePart=
+Variation510=Designator=C218|UniqueId=\IZMDLTDF\RTLPREAD\YMXRZHPA|Kind=1|AlternatePart=
+Variation511=Designator=C172|UniqueId=\IKSESFFK\HUWVLLYC|Kind=1|AlternatePart=
+Variation512=Designator=C176|UniqueId=\IKSESFFK\YPGKDYLE|Kind=1|AlternatePart=
+Variation513=Designator=D1_B|UniqueId=\KIKPJEJA\FZDPZPNR|Kind=1|AlternatePart=
+Variation514=Designator=C181|UniqueId=\IKSESFFK\XYPRKHEG|Kind=1|AlternatePart=
+Variation515=Designator=C203|UniqueId=\IKSESFFK\ZIDDNGUG|Kind=1|AlternatePart=
+Variation516=Designator=D1_A|UniqueId=\SWHDXMEA\FZDPZPNR|Kind=1|AlternatePart=
+Variation517=Designator=C179|UniqueId=\IKSESFFK\KTRNIRGZ|Kind=0|AlternatePart=
+Variation518=Designator=C196|UniqueId=\IKSESFFK\HOIQGFUC|Kind=1|AlternatePart=
+Variation519=Designator=C213|UniqueId=\IKSESFFK\TKRZBRTY|Kind=1|AlternatePart=
+Variation520=Designator=C183|UniqueId=\IKSESFFK\DHKOKIMA|Kind=1|AlternatePart=
+Variation521=Designator=C221|UniqueId=\IKSESFFK\JITNQQHL|Kind=1|AlternatePart=
+Variation522=Designator=D10|UniqueId=\IKSESFFK\UPGBKJOL\IRJQDSPT|Kind=1|AlternatePart=
+Variation523=Designator=D6|UniqueId=\ZGQOQTDM\PDKXNSQK|Kind=1|AlternatePart=
+Variation524=Designator=C195|UniqueId=\IKSESFFK\QNOSZDAY|Kind=1|AlternatePart=
+Variation525=Designator=C165|UniqueId=\IKSESFFK\FNTADWJZ\HDIFELKH|Kind=1|AlternatePart=
+Variation526=Designator=C200|UniqueId=\IKSESFFK\BSGDSIYB|Kind=1|AlternatePart=
+Variation527=Designator=C198|UniqueId=\IKSESFFK\DRXPRCDU|Kind=1|AlternatePart=
+Variation528=Designator=C163|UniqueId=\IKSESFFK\FNTADWJZ\VOTEIYUB|Kind=1|AlternatePart=
+Variation529=Designator=D5|UniqueId=\ZGQOQTDM\ZZFRMWTA|Kind=1|AlternatePart=
+Variation530=Designator=C208|UniqueId=\IKSESFFK\RROLUNGF|Kind=1|AlternatePart=
+Variation531=Designator=C171|UniqueId=\IKSESFFK\OOXMLMUS|Kind=1|AlternatePart=
+Variation532=Designator=C215|UniqueId=\IKSESFFK\JKVVOXFJ|Kind=1|AlternatePart=
+Variation533=Designator=D11|UniqueId=\IKSESFFK\UPGBKJOL\XTYXCUUF|Kind=1|AlternatePart=
+Variation534=Designator=C168|UniqueId=\IKSESFFK\LQEYHHYE|Kind=1|AlternatePart=
+Variation535=Designator=C164|UniqueId=\IKSESFFK\FNTADWJZ\LWTQJXUV|Kind=1|AlternatePart=
+Variation536=Designator=D3|UniqueId=\IZMDLTDF\RTLPREAD\AGQGBIAB|Kind=1|AlternatePart=
+Variation537=Designator=C180|UniqueId=\IKSESFFK\VZIIYDCR|Kind=1|AlternatePart=
+Variation538=Designator=C217|UniqueId=\IKSESFFK\XGUVDEZZ|Kind=1|AlternatePart=
+Variation539=Designator=C190|UniqueId=\IKSESFFK\GHXOGKAY|Kind=1|AlternatePart=
+Variation540=Designator=C182|UniqueId=\IKSESFFK\QMVYJJVC|Kind=1|AlternatePart=
+Variation541=Designator=C167|UniqueId=\IKSESFFK\KHNJJZRD|Kind=1|AlternatePart=
+Variation542=Designator=C201|UniqueId=\IKSESFFK\TUUTDURA|Kind=1|AlternatePart=
+Variation543=Designator=C222|UniqueId=\IZMDLTDF\VSKNMRSP|Kind=1|AlternatePart=
+Variation544=Designator=C219|UniqueId=\IZMDLTDF\RTLPREAD\ATOEWMLS|Kind=1|AlternatePart=
+Variation545=Designator=C185|UniqueId=\IKSESFFK\XFZFRSNG|Kind=1|AlternatePart=
+Variation546=Designator=C187|UniqueId=\IKSESFFK\ORTRZONK|Kind=1|AlternatePart=
+Variation547=Designator=C202|UniqueId=\IKSESFFK\YRMZMZGB|Kind=1|AlternatePart=
+Variation548=Designator=C220|UniqueId=\IKSESFFK\YWAUNVUX|Kind=1|AlternatePart=
+Variation549=Designator=C197|UniqueId=\IKSESFFK\PUVBXDSH|Kind=1|AlternatePart=
+Variation550=Designator=C177|UniqueId=\IKSESFFK\ZQPSYYZW|Kind=1|AlternatePart=
+Variation551=Designator=C191|UniqueId=\IKSESFFK\EVKUIPMW|Kind=1|AlternatePart=
+Variation552=Designator=C214|UniqueId=\IKSESFFK\TEFRWJII|Kind=1|AlternatePart=
+Variation553=Designator=D2|UniqueId=\IZMDLTDF\RTLPREAD\YWNPZPEK|Kind=1|AlternatePart=
+Variation554=Designator=C174|UniqueId=\IKSESFFK\ICVGIYZZ|Kind=1|AlternatePart=
+Variation555=Designator=D1_D|UniqueId=\YXGLOVJZ\FZDPZPNR|Kind=1|AlternatePart=
+Variation556=Designator=C178|UniqueId=\IKSESFFK\ISXYQTQE|Kind=1|AlternatePart=
+Variation557=Designator=C138|UniqueId=\IKSESFFK\FNTADWJZ\HIYQJZAR|Kind=1|AlternatePart=
+Variation558=Designator=C137|UniqueId=\IKSESFFK\FNTADWJZ\KBJSOLYC|Kind=1|AlternatePart=
+Variation559=Designator=C160|UniqueId=\IKSESFFK\FNTADWJZ\AKDZXWTM|Kind=1|AlternatePart=
+Variation560=Designator=C154|UniqueId=\IKSESFFK\FNTADWJZ\PYHOQHVI|Kind=1|AlternatePart=
+Variation561=Designator=C123|UniqueId=\IKSESFFK\FNTADWJZ\MURCDTKO|Kind=1|AlternatePart=
+Variation562=Designator=C124|UniqueId=\IKSESFFK\FNTADWJZ\BLNRODTZ|Kind=1|AlternatePart=
+Variation563=Designator=C130|UniqueId=\IKSESFFK\FNTADWJZ\WUTZTGTX|Kind=1|AlternatePart=
+Variation564=Designator=C144|UniqueId=\IKSESFFK\FNTADWJZ\PASYQSIA|Kind=1|AlternatePart=
+Variation565=Designator=C120|UniqueId=\IKSESFFK\UPGBKJOL\PSBAPQDR|Kind=1|AlternatePart=
+Variation566=Designator=C131|UniqueId=\IKSESFFK\FNTADWJZ\LJZNSVHO|Kind=1|AlternatePart=
+Variation567=Designator=C147|UniqueId=\IKSESFFK\FNTADWJZ\ZKHBRPHG|Kind=1|AlternatePart=
+Variation568=Designator=C132|UniqueId=\IKSESFFK\FNTADWJZ\CDWMVZWR|Kind=1|AlternatePart=
+Variation569=Designator=C126|UniqueId=\IKSESFFK\FNTADWJZ\IKEBANZK|Kind=1|AlternatePart=
+Variation570=Designator=C143|UniqueId=\IKSESFFK\FNTADWJZ\CKKZMTJW|Kind=1|AlternatePart=
+Variation571=Designator=C152|UniqueId=\IKSESFFK\FNTADWJZ\JOVYKXYX|Kind=1|AlternatePart=
+Variation572=Designator=C158|UniqueId=\IKSESFFK\FNTADWJZ\VFFNLXPT|Kind=1|AlternatePart=
+Variation573=Designator=C122|UniqueId=\IKSESFFK\FNTADWJZ\EQONJGHR|Kind=1|AlternatePart=
+Variation574=Designator=C127|UniqueId=\IKSESFFK\FNTADWJZ\DKFHUHWI|Kind=1|AlternatePart=
+Variation575=Designator=C156|UniqueId=\IKSESFFK\FNTADWJZ\TALBCUYD|Kind=1|AlternatePart=
+Variation576=Designator=C148|UniqueId=\IKSESFFK\FNTADWJZ\QZRLKNOU|Kind=1|AlternatePart=
+Variation577=Designator=C136|UniqueId=\IKSESFFK\FNTADWJZ\IUVWRXUK|Kind=1|AlternatePart=
+Variation578=Designator=C157|UniqueId=\IKSESFFK\FNTADWJZ\HXRJPFRM|Kind=1|AlternatePart=
+Variation579=Designator=C133|UniqueId=\IKSESFFK\FNTADWJZ\WQBTMDSD|Kind=1|AlternatePart=
+Variation580=Designator=C119|UniqueId=\IKSESFFK\UPGBKJOL\VKZIDGXQ|Kind=1|AlternatePart=
+Variation581=Designator=C117|UniqueId=\IKSESFFK\UPGBKJOL\GBCROMLA|Kind=1|AlternatePart=
+Variation582=Designator=C135|UniqueId=\IKSESFFK\FNTADWJZ\FCXCBTZV|Kind=1|AlternatePart=
+Variation583=Designator=C159|UniqueId=\IKSESFFK\FNTADWJZ\IFNNMSSQ|Kind=1|AlternatePart=
+Variation584=Designator=C151|UniqueId=\IKSESFFK\FNTADWJZ\OGGVNSYX|Kind=1|AlternatePart=
+Variation585=Designator=C141|UniqueId=\IKSESFFK\FNTADWJZ\TWOSAFGN|Kind=1|AlternatePart=
+Variation586=Designator=C125|UniqueId=\IKSESFFK\FNTADWJZ\HALOKUQJ|Kind=1|AlternatePart=
+Variation587=Designator=C145|UniqueId=\IKSESFFK\FNTADWJZ\IIIPLMBZ|Kind=1|AlternatePart=
+Variation588=Designator=C150|UniqueId=\IKSESFFK\FNTADWJZ\TIKGEZCA|Kind=1|AlternatePart=
+Variation589=Designator=C153|UniqueId=\IKSESFFK\FNTADWJZ\AWOQFHHB|Kind=1|AlternatePart=
+Variation590=Designator=C118|UniqueId=\IKSESFFK\UPGBKJOL\PXEDFSNC|Kind=1|AlternatePart=
+Variation591=Designator=C140|UniqueId=\IKSESFFK\FNTADWJZ\JLYMDJVN|Kind=1|AlternatePart=
+Variation592=Designator=C121|UniqueId=\IKSESFFK\UPGBKJOL\ZIZZPLLY|Kind=1|AlternatePart=
+Variation593=Designator=C149|UniqueId=\IKSESFFK\FNTADWJZ\JYNTQWCZ|Kind=1|AlternatePart=
+Variation594=Designator=C134|UniqueId=\IKSESFFK\FNTADWJZ\XQUSXITP|Kind=1|AlternatePart=
+Variation595=Designator=C142|UniqueId=\IKSESFFK\FNTADWJZ\XTTFHYSH|Kind=1|AlternatePart=
+Variation596=Designator=C146|UniqueId=\IKSESFFK\FNTADWJZ\AREDVRGB|Kind=1|AlternatePart=
+Variation597=Designator=C139|UniqueId=\IKSESFFK\FNTADWJZ\GWUNLIYJ|Kind=1|AlternatePart=
+Variation598=Designator=C128|UniqueId=\IKSESFFK\FNTADWJZ\VFTVZUBT|Kind=1|AlternatePart=
+Variation599=Designator=C129|UniqueId=\IKSESFFK\FNTADWJZ\HHGNDOIM|Kind=1|AlternatePart=
+Variation600=Designator=C155|UniqueId=\IKSESFFK\FNTADWJZ\SRXJHCOJ|Kind=1|AlternatePart=
+Variation601=Designator=C42|UniqueId=\IZMDLTDF\TVUPKTPZ|Kind=1|AlternatePart=
+Variation602=Designator=C72|UniqueId=\IZMDLTDF\YWDOBKVC|Kind=1|AlternatePart=
+Variation603=Designator=C37|UniqueId=\IZMDLTDF\QATQMMVH|Kind=1|AlternatePart=
+Variation604=Designator=C75|UniqueId=\IZMDLTDF\UCGCSHOT|Kind=1|AlternatePart=
+Variation605=Designator=C103|UniqueId=\ZGQOQTDM\UBOWPRCT|Kind=1|AlternatePart=
+Variation606=Designator=C63|UniqueId=\IZMDLTDF\NNZAPILK|Kind=1|AlternatePart=
+Variation607=Designator=C102|UniqueId=\ZGQOQTDM\LIYHPWKP|Kind=1|AlternatePart=
+Variation608=Designator=C109|UniqueId=\ZGQOQTDM\WBRPWPBJ|Kind=1|AlternatePart=
+Variation609=Designator=C46|UniqueId=\IZMDLTDF\WGOSMVTS|Kind=1|AlternatePart=
+Variation610=Designator=C105|UniqueId=\ZGQOQTDM\NMOYQRRU|Kind=1|AlternatePart=
+Variation611=Designator=C86|UniqueId=\IZMDLTDF\RTLPREAD\JSLWDEYR|Kind=1|AlternatePart=
+Variation612=Designator=C64|UniqueId=\IZMDLTDF\WOZGLEUD|Kind=1|AlternatePart=
+Variation613=Designator=C85|UniqueId=\IZMDLTDF\RTLPREAD\AYYDNSGZ|Kind=1|AlternatePart=
+Variation614=Designator=C51|UniqueId=\IZMDLTDF\MDEBYNMB|Kind=1|AlternatePart=
+Variation615=Designator=C71|UniqueId=\IZMDLTDF\LBJYPYGR|Kind=1|AlternatePart=
+Variation616=Designator=C96|UniqueId=\IZMDLTDF\RTLPREAD\IWDJIYXP|Kind=1|AlternatePart=
+Variation617=Designator=C83|UniqueId=\IZMDLTDF\RTLPREAD\UGHYPJIK|Kind=1|AlternatePart=
+Variation618=Designator=C87|UniqueId=\IZMDLTDF\RTLPREAD\JZUOCDKO|Kind=1|AlternatePart=
+Variation619=Designator=C93|UniqueId=\IZMDLTDF\RTLPREAD\CJPDSVTP|Kind=1|AlternatePart=
+Variation620=Designator=C107|UniqueId=\ZGQOQTDM\YVHOSDDN|Kind=1|AlternatePart=
+Variation621=Designator=C88|UniqueId=\IZMDLTDF\RTLPREAD\UQGULLPB|Kind=1|AlternatePart=
+Variation622=Designator=C89|UniqueId=\IZMDLTDF\RTLPREAD\DHMXORAH|Kind=1|AlternatePart=
+Variation623=Designator=C97|UniqueId=\IZMDLTDF\RTLPREAD\URQNHHEH|Kind=1|AlternatePart=
+Variation624=Designator=C98|UniqueId=\IZMDLTDF\RTLPREAD\NFDVQTHC|Kind=1|AlternatePart=
+Variation625=Designator=C68|UniqueId=\IZMDLTDF\VWXXBWWX|Kind=1|AlternatePart=
+Variation626=Designator=C111|UniqueId=\ZGQOQTDM\KUQOQOQH|Kind=1|AlternatePart=
+Variation627=Designator=C49|UniqueId=\IZMDLTDF\GNATVPDC|Kind=1|AlternatePart=
+Variation628=Designator=C33|UniqueId=\CKUNOZIL\ZNHQMMVY|Kind=1|AlternatePart=
+Variation629=Designator=C79|UniqueId=\IZMDLTDF\RUOSUHXI|Kind=1|AlternatePart=
+Variation630=Designator=C31|UniqueId=\CKUNOZIL\UKCCUZJV|Kind=1|AlternatePart=
+Variation631=Designator=C50|UniqueId=\IZMDLTDF\BQEGWWDB|Kind=1|AlternatePart=
+Variation632=Designator=C34|UniqueId=\CKUNOZIL\DLIXSAPB|Kind=1|AlternatePart=
+Variation633=Designator=C59|UniqueId=\IZMDLTDF\OQOSWEYI|Kind=1|AlternatePart=
+Variation634=Designator=C43|UniqueId=\IZMDLTDF\QQZNFSMT|Kind=1|AlternatePart=
+Variation635=Designator=C53|UniqueId=\IZMDLTDF\VBPBGYNR|Kind=1|AlternatePart=
+Variation636=Designator=C41|UniqueId=\IZMDLTDF\IMARYJQJ|Kind=1|AlternatePart=
+Variation637=Designator=C69|UniqueId=\IZMDLTDF\ERTZSDHZ|Kind=1|AlternatePart=
+Variation638=Designator=C99|UniqueId=\IZMDLTDF\RTLPREAD\TWVQZTSO|Kind=1|AlternatePart=
+Variation639=Designator=C100|UniqueId=\ZGQOQTDM\PXIDOAIN|Kind=1|AlternatePart=
+Variation640=Designator=C74|UniqueId=\IZMDLTDF\KQZKUKVI|Kind=1|AlternatePart=
+Variation641=Designator=C82|UniqueId=\IZMDLTDF\RTLPREAD\PXHBAUAW|Kind=1|AlternatePart=
+Variation642=Designator=C84|UniqueId=\IZMDLTDF\RTLPREAD\WJGRUCZE|Kind=1|AlternatePart=
+Variation643=Designator=C78|UniqueId=\IZMDLTDF\UETBOSFH|Kind=1|AlternatePart=
+Variation644=Designator=C55|UniqueId=\IZMDLTDF\PDEYTTLI|Kind=1|AlternatePart=
+Variation645=Designator=C65|UniqueId=\IZMDLTDF\ETEBTVNC|Kind=1|AlternatePart=
+Variation646=Designator=C73|UniqueId=\IZMDLTDF\NRPKQACU|Kind=1|AlternatePart=
+Variation647=Designator=C110|UniqueId=\ZGQOQTDM\EHNSEVFL|Kind=1|AlternatePart=
+Variation648=Designator=C101|UniqueId=\ZGQOQTDM\ZQLGCQJB|Kind=1|AlternatePart=
+Variation649=Designator=C112|UniqueId=\ZGQOQTDM\IIIRJIZM|Kind=1|AlternatePart=
+Variation650=Designator=C32|UniqueId=\CKUNOZIL\PSPZXIQI|Kind=1|AlternatePart=
+Variation651=Designator=C45|UniqueId=\IZMDLTDF\XUZRRSWM|Kind=1|AlternatePart=
+Variation652=Designator=C57|UniqueId=\IZMDLTDF\CGSAKOHZ|Kind=1|AlternatePart=
+Variation653=Designator=C60|UniqueId=\IZMDLTDF\PARJLBAF|Kind=1|AlternatePart=
+Variation654=Designator=C116|UniqueId=\IKSESFFK\UPGBKJOL\EJXMXTGS|Kind=1|AlternatePart=
+Variation655=Designator=C62|UniqueId=\IZMDLTDF\XUCKNXAK|Kind=1|AlternatePart=
+Variation656=Designator=C94|UniqueId=\IZMDLTDF\RTLPREAD\YWCCTZCS|Kind=1|AlternatePart=
+Variation657=Designator=C67|UniqueId=\IZMDLTDF\AQXMCXRK|Kind=1|AlternatePart=
+Variation658=Designator=C36|UniqueId=\CKUNOZIL\GNOSYEZE|Kind=1|AlternatePart=
+Variation659=Designator=C40|UniqueId=\IZMDLTDF\GUNPYHKI|Kind=1|AlternatePart=
+Variation660=Designator=C95|UniqueId=\IZMDLTDF\RTLPREAD\LEOHBQFS|Kind=1|AlternatePart=
+Variation661=Designator=C48|UniqueId=\IZMDLTDF\HYPDPVRR|Kind=1|AlternatePart=
+Variation662=Designator=C108|UniqueId=\ZGQOQTDM\SDFOKJZB|Kind=1|AlternatePart=
+Variation663=Designator=C91|UniqueId=\IZMDLTDF\RTLPREAD\MNFVTZBO|Kind=1|AlternatePart=
+Variation664=Designator=C61|UniqueId=\IZMDLTDF\HXFDTLFE|Kind=1|AlternatePart=
+Variation665=Designator=C115|UniqueId=\ZGQOQTDM\PFXDOQDH|Kind=1|AlternatePart=
+Variation666=Designator=C77|UniqueId=\IZMDLTDF\VCUZUVTP|Kind=1|AlternatePart=
+Variation667=Designator=C114|UniqueId=\ZGQOQTDM\BZGGVSIC|Kind=1|AlternatePart=
+Variation668=Designator=C113|UniqueId=\ZGQOQTDM\SLLJIVGR|Kind=1|AlternatePart=
+Variation669=Designator=C70|UniqueId=\IZMDLTDF\DBCOKDZJ|Kind=1|AlternatePart=
+Variation670=Designator=C81|UniqueId=\IZMDLTDF\RTLPREAD\LBFEZZHB|Kind=1|AlternatePart=
+Variation671=Designator=C58|UniqueId=\IZMDLTDF\EFTDXQJY|Kind=1|AlternatePart=
+Variation672=Designator=C76|UniqueId=\IZMDLTDF\QBCIKAQF|Kind=1|AlternatePart=
+Variation673=Designator=C66|UniqueId=\IZMDLTDF\IOZMSJVM|Kind=1|AlternatePart=
+Variation674=Designator=C52|UniqueId=\IZMDLTDF\UUBRMLNK|Kind=1|AlternatePart=
+Variation675=Designator=C80|UniqueId=\IZMDLTDF\RTLPREAD\GROUUEBY|Kind=1|AlternatePart=
+Variation676=Designator=C92|UniqueId=\IZMDLTDF\RTLPREAD\HZGIZKFK|Kind=1|AlternatePart=
+Variation677=Designator=C54|UniqueId=\IZMDLTDF\PWQTVMET|Kind=1|AlternatePart=
+Variation678=Designator=C104|UniqueId=\ZGQOQTDM\SWCAEICI|Kind=1|AlternatePart=
+Variation679=Designator=C44|UniqueId=\IZMDLTDF\CGANJWAO|Kind=1|AlternatePart=
+Variation680=Designator=C106|UniqueId=\ZGQOQTDM\TXMTVHMB|Kind=1|AlternatePart=
+Variation681=Designator=C47|UniqueId=\IZMDLTDF\RNQZRYMW|Kind=1|AlternatePart=
+Variation682=Designator=C56|UniqueId=\IZMDLTDF\PQAJXPUB|Kind=1|AlternatePart=
+Variation683=Designator=C90|UniqueId=\IZMDLTDF\RTLPREAD\SOPBRAUA|Kind=1|AlternatePart=
+Variation684=Designator=C38|UniqueId=\IZMDLTDF\AACTZNNH|Kind=1|AlternatePart=
+Variation685=Designator=C39|UniqueId=\IZMDLTDF\DMEIGUGQ|Kind=1|AlternatePart=
+Variation686=Designator=C35|UniqueId=\CKUNOZIL\BIDHRHVU|Kind=1|AlternatePart=
+Variation687=Designator=C21_B|UniqueId=\KIKPJEJA\DFVREHRH|Kind=1|AlternatePart=
+Variation688=Designator=C20_D|UniqueId=\YXGLOVJZ\VMSZYGHY|Kind=1|AlternatePart=
+Variation689=Designator=C7_A|UniqueId=\SWHDXMEA\NVWHJUYS|Kind=1|AlternatePart=
+Variation690=Designator=C16_A|UniqueId=\SWHDXMEA\UMDZTBIO|Kind=1|AlternatePart=
+Variation691=Designator=C16_B|UniqueId=\KIKPJEJA\UMDZTBIO|Kind=1|AlternatePart=
+Variation692=Designator=C17_D|UniqueId=\YXGLOVJZ\NETSCQQX|Kind=1|AlternatePart=
+Variation693=Designator=C22_C|UniqueId=\IZZGTNUS\GLIIXMEJ|Kind=1|AlternatePart=
+Variation694=Designator=C16_C|UniqueId=\IZZGTNUS\UMDZTBIO|Kind=1|AlternatePart=
+Variation695=Designator=C22_A|UniqueId=\SWHDXMEA\GLIIXMEJ|Kind=1|AlternatePart=
+Variation696=Designator=C10_A|UniqueId=\SWHDXMEA\BNJVGKYW|Kind=1|AlternatePart=
+Variation697=Designator=C13_C|UniqueId=\IZZGTNUS\FMBWODNP|Kind=1|AlternatePart=
+Variation698=Designator=C30|UniqueId=\CKUNOZIL\HOVRGMIL|Kind=1|AlternatePart=
+Variation699=Designator=C4_B|UniqueId=\KIKPJEJA\XWVYFSVA|Kind=1|AlternatePart=
+Variation700=Designator=C6_D|UniqueId=\YXGLOVJZ\BZJYYUWA|Kind=1|AlternatePart=
+Variation701=Designator=C4_D|UniqueId=\YXGLOVJZ\XWVYFSVA|Kind=1|AlternatePart=
+Variation702=Designator=C29|UniqueId=\CKUNOZIL\NHBSYNDE|Kind=1|AlternatePart=
+Variation703=Designator=C5_D|UniqueId=\YXGLOVJZ\IXHVOEZA|Kind=1|AlternatePart=
+Variation704=Designator=C19_D|UniqueId=\YXGLOVJZ\TQYCRABE|Kind=1|AlternatePart=
+Variation705=Designator=C15_B|UniqueId=\KIKPJEJA\SXSYNEEQ|Kind=1|AlternatePart=
+Variation706=Designator=C10_C|UniqueId=\IZZGTNUS\BNJVGKYW|Kind=1|AlternatePart=
+Variation707=Designator=C18_B|UniqueId=\KIKPJEJA\CYODJXIE|Kind=1|AlternatePart=
+Variation708=Designator=C8_B|UniqueId=\KIKPJEJA\NSALMYEG|Kind=1|AlternatePart=
+Variation709=Designator=C24|UniqueId=\CKUNOZIL\YVLTDQRR|Kind=1|AlternatePart=
+Variation710=Designator=C5_A|UniqueId=\SWHDXMEA\IXHVOEZA|Kind=1|AlternatePart=
+Variation711=Designator=C8_D|UniqueId=\YXGLOVJZ\NSALMYEG|Kind=1|AlternatePart=
+Variation712=Designator=C20_C|UniqueId=\IZZGTNUS\VMSZYGHY|Kind=1|AlternatePart=
+Variation713=Designator=C17_C|UniqueId=\IZZGTNUS\NETSCQQX|Kind=1|AlternatePart=
+Variation714=Designator=C10_B|UniqueId=\KIKPJEJA\BNJVGKYW|Kind=1|AlternatePart=
+Variation715=Designator=C15_A|UniqueId=\SWHDXMEA\SXSYNEEQ|Kind=1|AlternatePart=
+Variation716=Designator=C13_A|UniqueId=\SWHDXMEA\FMBWODNP|Kind=1|AlternatePart=
+Variation717=Designator=C5_B|UniqueId=\KIKPJEJA\IXHVOEZA|Kind=1|AlternatePart=
+Variation718=Designator=C11_B|UniqueId=\KIKPJEJA\FSYGBDAH|Kind=1|AlternatePart=
+Variation719=Designator=C6_C|UniqueId=\IZZGTNUS\BZJYYUWA|Kind=1|AlternatePart=
+Variation720=Designator=C9_B|UniqueId=\KIKPJEJA\KPANBWBU|Kind=1|AlternatePart=
+Variation721=Designator=C3_C|UniqueId=\IZZGTNUS\EDCQARRH|Kind=1|AlternatePart=
+Variation722=Designator=C14_B|UniqueId=\KIKPJEJA\MPHSLIKX|Kind=1|AlternatePart=
+Variation723=Designator=C22_D|UniqueId=\YXGLOVJZ\GLIIXMEJ|Kind=1|AlternatePart=
+Variation724=Designator=C15_C|UniqueId=\IZZGTNUS\SXSYNEEQ|Kind=1|AlternatePart=
+Variation725=Designator=C13_B|UniqueId=\KIKPJEJA\FMBWODNP|Kind=1|AlternatePart=
+Variation726=Designator=C19_A|UniqueId=\SWHDXMEA\TQYCRABE|Kind=1|AlternatePart=
+Variation727=Designator=C21_A|UniqueId=\SWHDXMEA\DFVREHRH|Kind=1|AlternatePart=
+Variation728=Designator=C25|UniqueId=\CKUNOZIL\ZYKXAEWS|Kind=1|AlternatePart=
+Variation729=Designator=C10_D|UniqueId=\YXGLOVJZ\BNJVGKYW|Kind=1|AlternatePart=
+Variation730=Designator=C9_C|UniqueId=\IZZGTNUS\KPANBWBU|Kind=1|AlternatePart=
+Variation731=Designator=C12_C|UniqueId=\IZZGTNUS\LWEXJXWF|Kind=1|AlternatePart=
+Variation732=Designator=C5_C|UniqueId=\IZZGTNUS\IXHVOEZA|Kind=1|AlternatePart=
+Variation733=Designator=C7_D|UniqueId=\YXGLOVJZ\NVWHJUYS|Kind=1|AlternatePart=
+Variation734=Designator=C11_A|UniqueId=\SWHDXMEA\FSYGBDAH|Kind=1|AlternatePart=
+Variation735=Designator=C7_C|UniqueId=\IZZGTNUS\NVWHJUYS|Kind=1|AlternatePart=
+Variation736=Designator=C28|UniqueId=\CKUNOZIL\DUWQIORD|Kind=1|AlternatePart=
+Variation737=Designator=C9_A|UniqueId=\SWHDXMEA\KPANBWBU|Kind=1|AlternatePart=
+Variation738=Designator=C20_B|UniqueId=\KIKPJEJA\VMSZYGHY|Kind=1|AlternatePart=
+Variation739=Designator=C18_A|UniqueId=\SWHDXMEA\CYODJXIE|Kind=1|AlternatePart=
+Variation740=Designator=C18_D|UniqueId=\YXGLOVJZ\CYODJXIE|Kind=1|AlternatePart=
+Variation741=Designator=C17_B|UniqueId=\KIKPJEJA\NETSCQQX|Kind=1|AlternatePart=
+Variation742=Designator=C8_A|UniqueId=\SWHDXMEA\NSALMYEG|Kind=1|AlternatePart=
+Variation743=Designator=C4_C|UniqueId=\IZZGTNUS\XWVYFSVA|Kind=1|AlternatePart=
+Variation744=Designator=C17_A|UniqueId=\SWHDXMEA\NETSCQQX|Kind=1|AlternatePart=
+Variation745=Designator=C27|UniqueId=\CKUNOZIL\QLJVHYNZ|Kind=1|AlternatePart=
+Variation746=Designator=C13_D|UniqueId=\YXGLOVJZ\FMBWODNP|Kind=1|AlternatePart=
+Variation747=Designator=C12_B|UniqueId=\KIKPJEJA\LWEXJXWF|Kind=1|AlternatePart=
+Variation748=Designator=C23|UniqueId=\CKUNOZIL\PIOINYBI|Kind=1|AlternatePart=
+Variation749=Designator=C12_A|UniqueId=\SWHDXMEA\LWEXJXWF|Kind=1|AlternatePart=
+Variation750=Designator=C14_D|UniqueId=\YXGLOVJZ\MPHSLIKX|Kind=1|AlternatePart=
+Variation751=Designator=C19_C|UniqueId=\IZZGTNUS\TQYCRABE|Kind=1|AlternatePart=
+Variation752=Designator=C16_D|UniqueId=\YXGLOVJZ\UMDZTBIO|Kind=1|AlternatePart=
+Variation753=Designator=C15_D|UniqueId=\YXGLOVJZ\SXSYNEEQ|Kind=1|AlternatePart=
+Variation754=Designator=C21_C|UniqueId=\IZZGTNUS\DFVREHRH|Kind=1|AlternatePart=
+Variation755=Designator=C9_D|UniqueId=\YXGLOVJZ\KPANBWBU|Kind=1|AlternatePart=
+Variation756=Designator=C26|UniqueId=\CKUNOZIL\AIELODLC|Kind=1|AlternatePart=
+Variation757=Designator=C14_C|UniqueId=\IZZGTNUS\MPHSLIKX|Kind=1|AlternatePart=
+Variation758=Designator=C12_D|UniqueId=\YXGLOVJZ\LWEXJXWF|Kind=1|AlternatePart=
+Variation759=Designator=C11_C|UniqueId=\IZZGTNUS\FSYGBDAH|Kind=1|AlternatePart=
+Variation760=Designator=C11_D|UniqueId=\YXGLOVJZ\FSYGBDAH|Kind=1|AlternatePart=
+Variation761=Designator=C21_D|UniqueId=\YXGLOVJZ\DFVREHRH|Kind=1|AlternatePart=
+Variation762=Designator=C8_C|UniqueId=\IZZGTNUS\NSALMYEG|Kind=1|AlternatePart=
+Variation763=Designator=C18_C|UniqueId=\IZZGTNUS\CYODJXIE|Kind=1|AlternatePart=
+Variation764=Designator=C7_B|UniqueId=\KIKPJEJA\NVWHJUYS|Kind=1|AlternatePart=
+Variation765=Designator=C14_A|UniqueId=\SWHDXMEA\MPHSLIKX|Kind=1|AlternatePart=
+Variation766=Designator=C6_A|UniqueId=\SWHDXMEA\BZJYYUWA|Kind=1|AlternatePart=
+Variation767=Designator=C6_B|UniqueId=\KIKPJEJA\BZJYYUWA|Kind=1|AlternatePart=
+Variation768=Designator=C3_D|UniqueId=\YXGLOVJZ\EDCQARRH|Kind=1|AlternatePart=
+Variation769=Designator=C4_A|UniqueId=\SWHDXMEA\XWVYFSVA|Kind=1|AlternatePart=
+Variation770=Designator=C19_B|UniqueId=\KIKPJEJA\TQYCRABE|Kind=1|AlternatePart=
+Variation771=Designator=C20_A|UniqueId=\SWHDXMEA\VMSZYGHY|Kind=1|AlternatePart=
+Variation772=Designator=C22_B|UniqueId=\KIKPJEJA\GLIIXMEJ|Kind=1|AlternatePart=
+ParamVariationCount=0
+
+[Parameter4_1]
+Name=EVM_Orderable
+Value=ChangeMe in variant
+
+[Parameter1]
+Name=CopyrightYear
+Value=2023
+
+[Parameter2]
+Name=PCB_Rev
+Value=E2
+
+[Parameter3]
+Name=PRJ_Customer
+Value=Public Release
+
+[Parameter4]
+Name=PRJ_Engineer
+Value=Vsevolod Elantsev
+
+[Parameter5]
+Name=PRJ_Number
+Value=TIDA-010933
+
+[Parameter6]
+Name=PRJ_Title
+Value=TIDA-010933
+
+[Parameter7]
+Name=SCH_Rev
+Value=E2
+
+[Parameter8]
+Name=TechSupport
+Value=http://www.ti.com/support
+
+[Parameter9]
+Name=TID
+Value=010933
+
+[Parameter10]
+Name=Vsevolod Elantsev
+Value=Who did the Layout?
+
+[Configuration1]
+Name=Sources
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=[No Variations]
+OutputJobsCount=0
+ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
+ConfigurationType=Source
+
+[Configuration2]
+Name=Fabrication
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=[No Variations]
+OutputJobsCount=0
+ContentTypeGUID=0C520D2A-E60C-11DF-B822-12313F0024A2
+ConfigurationType=Fabrication
+
+[Configuration3]
+Name=Assembly 001
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=001
+OutputJobsCount=0
+ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
+ConfigurationType=Assembly
+
+[Configuration4]
+Name=Assembly
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=[No Variations]
+OutputJobsCount=0
+ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
+ConfigurationType=Assembly
+
+[Configuration5]
+Name=Validation
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=[No Variations]
+OutputJobsCount=0
+ContentTypeGUID=B953ABBB-897D-493B-96D2-85DABE1896C4
+ConfigurationType=Custom
+
+[Configuration6]
+Name=Common Documentation
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=001
+OutputJobsCount=0
+ContentTypeGUID=B953ABBB-897D-493B-96D2-85DABE1896C4
+ConfigurationType=Custom
+
+[Generic_EDE]
+OutputDir=Project Outputs
+
+[Generic_SmartPDF]
+AutoOpenFile=-1
+AutoOpenOutJob=-1
+
+[Generic_SmartPDFSettings]
+ProjectMode=-1
+ZoomPrecision=50
+AddNetsInformation=-1
+AddNetPins=-1
+AddNetNetLabels=-1
+AddNetPorts=-1
+ShowComponentParameters=-1
+GlobalBookmarks=0
+ExportBOM=-1
+TemplateFilename=
+TemplateStoreRelative=-1
+PCB_PrintColor=1
+SCH_PrintColor=0
+PrintQuality=-3
+SCH_ShowNoErc=-1
+SCH_ShowParameter=-1
+SCH_ShowProbes=-1
+SCH_ShowBlankets=-1
+SCH_NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle
+SCH_ShowNote=-1
+SCH_ShowNoteCollapsed=-1
+Wir_PrintColor=0
+Ldr_PrintColor=0
+SCH_ExpandLogicalToPhysical=-1
+SCH_VariantName=[No Variations]
+SCH_ExpandComponentDesignators=-1
+SCH_ExpandNetlabels=0
+SCH_ExpandPorts=0
+SCH_ExpandSheetNumber=0
+SCH_ExpandDocumentNumber=0
+SCH_HasExpandLogicalToPhysicalSheets=-1
+SaveSettingsToOutJob=-1
+
+[OutputGroup1]
+Name=Netlist Outputs
+Description=
+TargetPrinter=KONICA MINOLTA PS Color Laser Class Driver
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=CadnetixNetlist
+OutputName1=Cadnetix Netlist
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=CalayNetlist
+OutputName2=Calay Netlist
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=EDIF
+OutputName3=EDIF for PCB
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=EESofNetlist
+OutputName4=EESof Netlist
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+OutputType5=IntergraphNetlist
+OutputName5=Intergraph Netlist
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+OutputType6=MentorBoardStationNetlist
+OutputName6=Mentor BoardStation Netlist
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+OutputType7=MultiWire
+OutputName7=MultiWire
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+OutputType8=OrCadPCB2Netlist
+OutputName8=Orcad/PCB2 Netlist
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+OutputType9=PADSNetlist
+OutputName9=PADS ASCII Netlist
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=Pcad
+OutputName10=Pcad for PCB
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=PCADNetlist
+OutputName11=PCAD Netlist
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=PCADnltNetlist
+OutputName12=PCADnlt Netlist
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=Protel2Netlist
+OutputName13=Protel2 Netlist
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=ProtelNetlist
+OutputName14=Protel
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=RacalNetlist
+OutputName15=Racal Netlist
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=RINFNetlist
+OutputName16=RINF Netlist
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SciCardsNetlist
+OutputName17=SciCards Netlist
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=TangoNetlist
+OutputName18=Tango Netlist
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
+OutputType19=TelesisNetlist
+OutputName19=Telesis Netlist
+OutputDocumentPath19=
+OutputVariantName19=
+OutputDefault19=0
+OutputType20=WireListNetlist
+OutputName20=WireList Netlist
+OutputDocumentPath20=
+OutputVariantName20=
+OutputDefault20=0
+OutputType21=XSpiceNetlist
+OutputName21=Mixed Sim Netlist
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
+
+[OutputGroup2]
+Name=Simulator Outputs
+Description=
+TargetPrinter=KONICA MINOLTA PS Color Laser Class Driver
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AdvSimNetlist
+OutputName1=Mixed Sim
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+
+[OutputGroup3]
+Name=Documentation Outputs
+Description=
+TargetPrinter=Virtual Printer
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Composite
+OutputName1=Composite Drawing
+OutputDocumentPath1=
+OutputVariantName1=[No Variations]
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=8 1/2x11|PaperIndex=1
+Configuration1_Name1=OutputConfigurationParameter1
+Configuration1_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView|DocumentPath=C:\Users\a0221954\Documents\SVN\01-TIDA\TIDA-010933 GaN based Micro Inverter\Board\TIDA-010933-DCDC-RevA\TIDA-010933-RevA.PcbDoc
+Configuration1_Name2=OutputConfigurationParameter2
+Configuration1_Item2=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Multilayer Composite Print|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Users\a0221954\Documents\SVN\01-TIDA\TIDA-010933 GaN based Micro Inverter\Board\TIDA-010933-DCDC-RevA\TIDA-010933-RevA.PcbDoc
+Configuration1_Name3=OutputConfigurationParameter3
+Configuration1_Item3=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopOverlay|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\a0221954\Documents\SVN\01-TIDA\TIDA-010933 GaN based Micro Inverter\Board\TIDA-010933-DCDC-RevA\TIDA-010933-RevA.PcbDoc
+Configuration1_Name4=OutputConfigurationParameter4
+Configuration1_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\a0221954\Documents\SVN\01-TIDA\TIDA-010933 GaN based Micro Inverter\Board\TIDA-010933-DCDC-RevA\TIDA-010933-RevA.PcbDoc
+Configuration1_Name5=OutputConfigurationParameter5
+Configuration1_Item5=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MidLayer1|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\a0221954\Documents\SVN\01-TIDA\TIDA-010933 GaN based Micro Inverter\Board\TIDA-010933-DCDC-RevA\TIDA-010933-RevA.PcbDoc
+Configuration1_Name6=OutputConfigurationParameter6
+Configuration1_Item6=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MidLayer2|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\a0221954\Documents\SVN\01-TIDA\TIDA-010933 GaN based Micro Inverter\Board\TIDA-010933-DCDC-RevA\TIDA-010933-RevA.PcbDoc
+Configuration1_Name7=OutputConfigurationParameter7
+Configuration1_Item7=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\a0221954\Documents\SVN\01-TIDA\TIDA-010933 GaN based Micro Inverter\Board\TIDA-010933-DCDC-RevA\TIDA-010933-RevA.PcbDoc
+Configuration1_Name8=OutputConfigurationParameter8
+Configuration1_Item8=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MultiLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\a0221954\Documents\SVN\01-TIDA\TIDA-010933 GaN based Micro Inverter\Board\TIDA-010933-DCDC-RevA\TIDA-010933-RevA.PcbDoc
+Configuration1_Name9=OutputConfigurationParameter9
+Configuration1_Item9=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomOverlay|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\a0221954\Documents\SVN\01-TIDA\TIDA-010933 GaN based Micro Inverter\Board\TIDA-010933-DCDC-RevA\TIDA-010933-RevA.PcbDoc
+Configuration1_Name10=OutputConfigurationParameter10
+Configuration1_Item10=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=KeepOutLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\a0221954\Documents\SVN\01-TIDA\TIDA-010933 GaN based Micro Inverter\Board\TIDA-010933-DCDC-RevA\TIDA-010933-RevA.PcbDoc
+Configuration1_Name11=OutputConfigurationParameter11
+Configuration1_Item11=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\a0221954\Documents\SVN\01-TIDA\TIDA-010933 GaN based Micro Inverter\Board\TIDA-010933-DCDC-RevA\TIDA-010933-RevA.PcbDoc
+Configuration1_Name12=OutputConfigurationParameter12
+Configuration1_Item12=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical2|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\a0221954\Documents\SVN\01-TIDA\TIDA-010933 GaN based Micro Inverter\Board\TIDA-010933-DCDC-RevA\TIDA-010933-RevA.PcbDoc
+Configuration1_Name13=OutputConfigurationParameter13
+Configuration1_Item13=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical3|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\a0221954\Documents\SVN\01-TIDA\TIDA-010933 GaN based Micro Inverter\Board\TIDA-010933-DCDC-RevA\TIDA-010933-RevA.PcbDoc
+Configuration1_Name14=OutputConfigurationParameter14
+Configuration1_Item14=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical4|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\a0221954\Documents\SVN\01-TIDA\TIDA-010933 GaN based Micro Inverter\Board\TIDA-010933-DCDC-RevA\TIDA-010933-RevA.PcbDoc
+Configuration1_Name15=OutputConfigurationParameter15
+Configuration1_Item15=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical5|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\a0221954\Documents\SVN\01-TIDA\TIDA-010933 GaN based Micro Inverter\Board\TIDA-010933-DCDC-RevA\TIDA-010933-RevA.PcbDoc
+Configuration1_Name16=OutputConfigurationParameter16
+Configuration1_Item16=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical6|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\a0221954\Documents\SVN\01-TIDA\TIDA-010933 GaN based Micro Inverter\Board\TIDA-010933-DCDC-RevA\TIDA-010933-RevA.PcbDoc
+Configuration1_Name17=OutputConfigurationParameter17
+Configuration1_Item17=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical9|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\a0221954\Documents\SVN\01-TIDA\TIDA-010933 GaN based Micro Inverter\Board\TIDA-010933-DCDC-RevA\TIDA-010933-RevA.PcbDoc
+Configuration1_Name18=OutputConfigurationParameter18
+Configuration1_Item18=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical10|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\a0221954\Documents\SVN\01-TIDA\TIDA-010933 GaN based Micro Inverter\Board\TIDA-010933-DCDC-RevA\TIDA-010933-RevA.PcbDoc
+Configuration1_Name19=OutputConfigurationParameter19
+Configuration1_Item19=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical11|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\a0221954\Documents\SVN\01-TIDA\TIDA-010933 GaN based Micro Inverter\Board\TIDA-010933-DCDC-RevA\TIDA-010933-RevA.PcbDoc
+Configuration1_Name20=OutputConfigurationParameter20
+Configuration1_Item20=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical12|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\a0221954\Documents\SVN\01-TIDA\TIDA-010933 GaN based Micro Inverter\Board\TIDA-010933-DCDC-RevA\TIDA-010933-RevA.PcbDoc
+Configuration1_Name21=OutputConfigurationParameter21
+Configuration1_Item21=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\a0221954\Documents\SVN\01-TIDA\TIDA-010933 GaN based Micro Inverter\Board\TIDA-010933-DCDC-RevA\TIDA-010933-RevA.PcbDoc
+Configuration1_Name22=OutputConfigurationParameter22
+Configuration1_Item22=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical14|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\a0221954\Documents\SVN\01-TIDA\TIDA-010933 GaN based Micro Inverter\Board\TIDA-010933-DCDC-RevA\TIDA-010933-RevA.PcbDoc
+Configuration1_Name23=OutputConfigurationParameter23
+Configuration1_Item23=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\a0221954\Documents\SVN\01-TIDA\TIDA-010933 GaN based Micro Inverter\Board\TIDA-010933-DCDC-RevA\TIDA-010933-RevA.PcbDoc
+Configuration1_Name24=OutputConfigurationParameter24
+Configuration1_Item24=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical16|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\a0221954\Documents\SVN\01-TIDA\TIDA-010933 GaN based Micro Inverter\Board\TIDA-010933-DCDC-RevA\TIDA-010933-RevA.PcbDoc
+Configuration1_Name25=OutputConfigurationParameter25
+Configuration1_Item25=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical17|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\a0221954\Documents\SVN\01-TIDA\TIDA-010933 GaN based Micro Inverter\Board\TIDA-010933-DCDC-RevA\TIDA-010933-RevA.PcbDoc
+Configuration1_Name26=OutputConfigurationParameter26
+Configuration1_Item26=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical18|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\a0221954\Documents\SVN\01-TIDA\TIDA-010933 GaN based Micro Inverter\Board\TIDA-010933-DCDC-RevA\TIDA-010933-RevA.PcbDoc
+Configuration1_Name27=OutputConfigurationParameter27
+Configuration1_Item27=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical19|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\a0221954\Documents\SVN\01-TIDA\TIDA-010933 GaN based Micro Inverter\Board\TIDA-010933-DCDC-RevA\TIDA-010933-RevA.PcbDoc
+Configuration1_Name28=OutputConfigurationParameter28
+Configuration1_Item28=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical20|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\a0221954\Documents\SVN\01-TIDA\TIDA-010933 GaN based Micro Inverter\Board\TIDA-010933-DCDC-RevA\TIDA-010933-RevA.PcbDoc
+Configuration1_Name29=OutputConfigurationParameter29
+Configuration1_Item29=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical22|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\a0221954\Documents\SVN\01-TIDA\TIDA-010933 GaN based Micro Inverter\Board\TIDA-010933-DCDC-RevA\TIDA-010933-RevA.PcbDoc
+Configuration1_Name30=OutputConfigurationParameter30
+Configuration1_Item30=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical24|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\a0221954\Documents\SVN\01-TIDA\TIDA-010933 GaN based Micro Inverter\Board\TIDA-010933-DCDC-RevA\TIDA-010933-RevA.PcbDoc
+Configuration1_Name31=OutputConfigurationParameter31
+Configuration1_Item31=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical26|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\a0221954\Documents\SVN\01-TIDA\TIDA-010933 GaN based Micro Inverter\Board\TIDA-010933-DCDC-RevA\TIDA-010933-RevA.PcbDoc
+Configuration1_Name32=OutputConfigurationParameter32
+Configuration1_Item32=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical27|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\a0221954\Documents\SVN\01-TIDA\TIDA-010933 GaN based Micro Inverter\Board\TIDA-010933-DCDC-RevA\TIDA-010933-RevA.PcbDoc
+Configuration1_Name33=OutputConfigurationParameter33
+Configuration1_Item33=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical28|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\a0221954\Documents\SVN\01-TIDA\TIDA-010933 GaN based Micro Inverter\Board\TIDA-010933-DCDC-RevA\TIDA-010933-RevA.PcbDoc
+Configuration1_Name34=OutputConfigurationParameter34
+Configuration1_Item34=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical30|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\a0221954\Documents\SVN\01-TIDA\TIDA-010933 GaN based Micro Inverter\Board\TIDA-010933-DCDC-RevA\TIDA-010933-RevA.PcbDoc
+OutputType2=PCB 3D Print
+OutputName2=PCB 3D Print
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType3=PCB 3D Video
+OutputName3=PCB 3D Video
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType4=PCB Print
+OutputName4=PCB Prints
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType5=PCBLIB Print
+OutputName5=PCBLIB Prints
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType6=PDF3D
+OutputName6=PDF3D
+OutputDocumentPath6=
+OutputVariantName6=[No Variations]
+OutputDefault6=0
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType7=Report Print
+OutputName7=Report Prints
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType8=Schematic Print
+OutputName8=Schematic Prints
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType9=SimView Print
+OutputName9=SimView Prints
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType10=PCBDrawing
+OutputName10=Draftsman
+OutputDocumentPath10=
+OutputVariantName10=[No Variations]
+OutputDefault10=0
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType11=PDF3D MBA
+OutputName11=PDF3D MBA
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType12=Harness Layout Drawing Print
+OutputName12=Harness Layout Drawing Prints
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType13=Harness Wiring Diagram Print
+OutputName13=Harness Wiring Diagram Prints
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType14=PCBDrawing
+OutputName14=Draftsman
+OutputDocumentPath14=
+OutputVariantName14=[No Variations]
+OutputDefault14=0
+PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType15=PCBDrawing
+OutputName15=Draftsman
+OutputDocumentPath15=
+OutputVariantName15=[No Variations]
+OutputDefault15=0
+PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+
+[OutputGroup4]
+Name=Assembly Outputs
+Description=
+TargetPrinter=KONICA MINOLTA PS Color Laser Class Driver
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Assembly
+OutputName1=Assembly Drawings
+OutputDocumentPath1=
+OutputVariantName1=[No Variations]
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType2=Pick Place
+OutputName2=Generates pick and place files
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+OutputType3=Test Points For Assembly
+OutputName3=Test Point Report
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+
+[OutputGroup5]
+Name=Fabrication Outputs
+Description=
+TargetPrinter=KONICA MINOLTA PS Color Laser Class Driver
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Board Stack Report
+OutputName1=Report Board Stack
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType2=CompositeDrill
+OutputName2=Composite Drill Drawing
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType3=Drill
+OutputName3=Drill Drawing/Guides
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType4=Final
+OutputName4=Final Artwork Prints
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType5=Gerber
+OutputName5=Gerber Files
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+OutputType6=Gerber X2
+OutputName6=Gerber X2 Files
+OutputDocumentPath6=
+OutputVariantName6=[No Variations]
+OutputDefault6=0
+OutputType7=IPC2581
+OutputName7=IPC-2581 Files
+OutputDocumentPath7=
+OutputVariantName7=[No Variations]
+OutputDefault7=0
+OutputType8=Mask
+OutputName8=Solder/Paste Mask Prints
+OutputDocumentPath8=
+OutputVariantName8=[No Variations]
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType9=NC Drill
+OutputName9=NC Drill Files
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=ODB
+OutputName10=ODB++ Files
+OutputDocumentPath10=
+OutputVariantName10=[No Variations]
+OutputDefault10=0
+OutputType11=Plane
+OutputName11=Power-Plane Prints
+OutputDocumentPath11=
+OutputVariantName11=[No Variations]
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType12=Test Points
+OutputName12=Test Point Report
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+
+[OutputGroup6]
+Name=Report Outputs
+Description=
+TargetPrinter=KONICA MINOLTA PS Color Laser Class Driver
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=BOM_PartType
+OutputName1=Bill of Materials
+OutputDocumentPath1=
+OutputVariantName1=[No Variations]
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType2=ComponentCrossReference
+OutputName2=Component Cross Reference Report
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+OutputType3=ReportHierarchy
+OutputName3=Report Project Hierarchy
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+OutputType4=Script
+OutputName4=Script Output
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+OutputType5=SimpleBOM
+OutputName5=Simple BOM
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+OutputType6=SinglePinNetReporter
+OutputName6=Report Single Pin Nets
+OutputDocumentPath6=
+OutputVariantName6=[No Variations]
+OutputDefault6=0
+OutputType7=BOM_ReportCompare
+OutputName7=BOM Compare
+OutputDocumentPath7=
+OutputVariantName7=[No Variations]
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType8=Export Comments
+OutputName8=Export Comments
+OutputDocumentPath8=
+OutputVariantName8=[No Variations]
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType9=Project History
+OutputName9=Project History
+OutputDocumentPath9=
+OutputVariantName9=[No Variations]
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+
+[OutputGroup7]
+Name=Other Outputs
+Description=
+TargetPrinter=KONICA MINOLTA PS Color Laser Class Driver
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Text Print
+OutputName1=Text Print
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType2=Text Print
+OutputName2=Text Print
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType3=Text Print
+OutputName3=Text Print
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType4=Text Print
+OutputName4=Text Print
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType5=Text Print
+OutputName5=Text Print
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType6=Text Print
+OutputName6=Text Print
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType7=Text Print
+OutputName7=Text Print
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType8=Text Print
+OutputName8=Text Print
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType9=Text Print
+OutputName9=Text Print
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType10=Text Print
+OutputName10=Text Print
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType11=Text Print
+OutputName11=Text Print
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType12=Text Print
+OutputName12=Text Print
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType13=Text Print
+OutputName13=Text Print
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType14=Text Print
+OutputName14=Text Print
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType15=Text Print
+OutputName15=Text Print
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType16=Text Print
+OutputName16=Text Print
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+PageOptions16=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType17=Text Print
+OutputName17=Text Print
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+
+[OutputGroup8]
+Name=Validation Outputs
+Description=
+TargetPrinter=KONICA MINOLTA PS Color Laser Class Driver
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Component states check
+OutputName1=Vault's components states check
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=Configuration compliance
+OutputName2=Environment configuration compliance check
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=Design Rules Check
+OutputName3=Design Rules Check
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType4=Differences Report
+OutputName4=Differences Report
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType5=Electrical Rules Check
+OutputName5=Electrical Rules Check
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType6=Footprint Comparison Report
+OutputName6=Footprint Comparison Report
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+OutputType7=BOM_Violations
+OutputName7=BOM Checks Report
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+
+[OutputGroup9]
+Name=Export Outputs
+Description=
+TargetPrinter=KONICA MINOLTA PS Color Laser Class Driver
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AutoCAD dwg/dxf PCB
+OutputName1=AutoCAD dwg/dxf File PCB
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=AutoCAD dwg/dxf Schematic
+OutputName2=AutoCAD dwg/dxf File Schematic
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=ExportIDF
+OutputName3=Export IDF
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=ExportPARASOLID
+OutputName4=Export PARASOLID
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+OutputType5=ExportSTEP
+OutputName5=Export STEP
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+OutputType6=ExportVRML
+OutputName6=Export VRML
+OutputDocumentPath6=
+OutputVariantName6=[No Variations]
+OutputDefault6=0
+OutputType7=Save As/Export PCB
+OutputName7=Save As/Export PCB
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+OutputType8=Save As/Export Schematic
+OutputName8=Save As/Export Schematic
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+OutputType9=Specctra Design PCB
+OutputName9=Specctra Design PCB
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=MBAExportPARASOLID
+OutputName10=Export PARASOLID
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=MBAExportSTEP
+OutputName11=Export STEP
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=Web ReviewOutputName
+OutputName12=Web Review Data
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+
+[OutputGroup10]
+Name=PostProcess Outputs
+Description=
+TargetPrinter=KONICA MINOLTA PS Color Laser Class Driver
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Copy Files
+OutputName1=Copy Files
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+
+[Modification Levels]
+Type1=1
+Type2=1
+Type3=1
+Type4=1
+Type5=1
+Type6=1
+Type7=1
+Type8=1
+Type9=1
+Type10=1
+Type11=1
+Type12=1
+Type13=1
+Type14=1
+Type15=1
+Type16=1
+Type17=1
+Type18=1
+Type19=1
+Type20=1
+Type21=1
+Type22=1
+Type23=1
+Type24=1
+Type25=1
+Type26=1
+Type27=1
+Type28=1
+Type29=1
+Type30=1
+Type31=1
+Type32=1
+Type33=1
+Type34=1
+Type35=1
+Type36=1
+Type37=1
+Type38=1
+Type39=1
+Type40=1
+Type41=1
+Type42=1
+Type43=1
+Type44=1
+Type45=1
+Type46=1
+Type47=1
+Type48=1
+Type49=1
+Type50=1
+Type51=1
+Type52=1
+Type53=1
+Type54=1
+Type55=1
+Type56=1
+Type57=1
+Type58=1
+Type59=1
+Type60=1
+Type61=1
+Type62=1
+Type63=1
+Type64=1
+Type65=1
+Type66=1
+Type67=1
+Type68=1
+Type69=1
+Type70=1
+Type71=1
+Type72=1
+Type73=1
+Type74=1
+Type75=1
+Type76=1
+Type77=1
+Type78=1
+Type79=1
+Type80=1
+Type81=1
+Type82=1
+Type83=1
+Type84=1
+Type85=1
+Type86=1
+Type87=1
+Type88=1
+Type89=1
+Type90=1
+Type91=1
+Type92=1
+Type93=1
+Type94=1
+Type95=1
+Type96=1
+Type97=1
+Type98=1
+Type99=1
+Type100=1
+Type101=1
+Type102=1
+Type103=1
+Type104=1
+Type105=1
+Type106=1
+Type107=1
+Type108=1
+Type109=1
+Type110=1
+Type111=1
+Type112=1
+Type113=1
+Type114=1
+Type115=1
+Type116=1
+Type117=1
+Type118=1
+Type119=1
+Type120=1
+Type121=1
+Type122=1
+Type123=1
+Type124=1
+Type125=1
+Type126=1
+Type127=1
+Type128=1
+Type129=1
+Type130=1
+Type131=1
+Type132=1
+Type133=1
+Type134=1
+Type135=1
+Type136=1
+Type137=1
+Type138=1
+
+[Difference Levels]
+Type1=1
+Type2=1
+Type3=1
+Type4=1
+Type5=1
+Type6=1
+Type7=1
+Type8=1
+Type9=1
+Type10=1
+Type11=1
+Type12=0
+Type13=1
+Type14=1
+Type15=1
+Type16=1
+Type17=1
+Type18=1
+Type19=1
+Type20=1
+Type21=1
+Type22=1
+Type23=1
+Type24=1
+Type25=1
+Type26=1
+Type27=1
+Type28=1
+Type29=1
+Type30=1
+Type31=1
+Type32=1
+Type33=1
+Type34=1
+Type35=1
+Type36=1
+Type37=1
+Type38=1
+Type39=1
+Type40=1
+Type41=1
+Type42=1
+Type43=1
+Type44=0
+Type45=1
+Type46=1
+Type47=1
+Type48=1
+Type49=1
+Type50=1
+Type51=1
+Type52=1
+Type53=1
+Type54=1
+Type55=1
+Type56=1
+Type57=1
+Type58=1
+Type59=1
+Type60=1
+Type61=1
+Type62=1
+Type63=1
+Type64=1
+Type65=1
+Type66=1
+Type67=1
+Type68=1
+Type69=1
+Type70=1
+Type71=1
+Type72=1
+Type73=1
+Type74=1
+
+[Electrical Rules Check]
+Type1=1
+Type2=1
+Type3=2
+Type4=1
+Type5=2
+Type6=2
+Type7=0
+Type8=1
+Type9=1
+Type10=1
+Type11=2
+Type12=0
+Type13=0
+Type14=1
+Type15=1
+Type16=1
+Type17=1
+Type18=1
+Type19=1
+Type20=0
+Type21=0
+Type22=0
+Type23=0
+Type24=1
+Type25=2
+Type26=0
+Type27=2
+Type28=1
+Type29=1
+Type30=1
+Type31=1
+Type32=2
+Type33=0
+Type34=2
+Type35=1
+Type36=2
+Type37=1
+Type38=2
+Type39=2
+Type40=2
+Type41=0
+Type42=2
+Type43=1
+Type44=0
+Type45=0
+Type46=0
+Type47=0
+Type48=0
+Type49=0
+Type50=2
+Type51=0
+Type52=0
+Type53=2
+Type54=1
+Type55=1
+Type56=2
+Type57=1
+Type58=1
+Type59=1
+Type60=0
+Type61=0
+Type62=0
+Type63=0
+Type64=0
+Type65=2
+Type66=3
+Type67=2
+Type68=2
+Type69=1
+Type70=2
+Type71=2
+Type72=2
+Type73=2
+Type74=1
+Type75=2
+Type76=1
+Type77=1
+Type78=1
+Type79=1
+Type80=2
+Type81=3
+Type82=3
+Type83=3
+Type84=3
+Type85=3
+Type86=2
+Type87=2
+Type88=2
+Type89=1
+Type90=1
+Type91=3
+Type92=3
+Type93=2
+Type94=2
+Type95=2
+Type96=2
+Type97=2
+Type98=0
+Type99=1
+Type100=2
+Type101=0
+Type102=2
+Type103=2
+Type104=1
+Type105=2
+Type106=2
+Type107=2
+Type108=2
+Type109=1
+Type110=1
+Type111=1
+Type112=1
+Type113=1
+Type114=2
+Type115=2
+Type116=2
+Type117=3
+Type118=3
+Type119=3
+MultiChannelAlternate=0
+AlternateItemFail=3
+Type122=2
+Type123=1
+Type124=1
+Type125=1
+Type126=1
+Type127=1
+Type128=2
+Type129=2
+Type130=2
+Type131=2
+Type132=2
+Type133=2
+Type134=2
+Type135=2
+Type136=2
+Type137=2
+Type138=1
+Type139=1
+Type140=1
+Type141=1
+Type142=1
+Type143=1
+Type144=1
+Type145=1
+Type146=1
+Type147=2
+Type148=2
+Type149=2
+Type150=2
+Type151=2
+Type152=1
+Type153=1
+
+[ERC Connection Matrix]
+L1=NNNNNNNNNNNWNNNWW
+L2=NNWNNNNWWWNWNWNWN
+L3=NWEENEEEENEWNEEWN
+L4=NNENNNWEENNWNENWN
+L5=NNNNNNNNNNNNNNNNW
+L6=NNENNNNEENNWNENWN
+L7=NNEWNNWEENNWNENWN
+L8=NWEENEENEEENNEENW
+L9=NWEENEEEENEWNEEWW
+L10=NWNNNNNENNEWNNEWN
+L11=NNENNNNEEENWNENWN
+L12=WWWWNWWNWWWNWWWNN
+L13=NNNNNNNNNNNWNNNWW
+L14=NWEENEEEENEWNEEWW
+L15=NNENNNNEEENWNENWW
+L16=WWWWNWWNWWWNWWWNW
+L17=WNNNWNNWWNNNWWWWN
+
+[Annotate]
+SortOrder=3
+SortLocation=0
+ReplaceSubparts=0
+MatchParameter1=Comment
+MatchStrictly1=1
+MatchParameter2=Library Reference
+MatchStrictly2=1
+PhysicalNamingFormat=$Component_$RoomName
+GlobalIndexSortOrder=3
+GlobalIndexSortLocation=0
+
+[PrjClassGen]
+CompClassManualEnabled=1
+CompClassManualRoomEnabled=0
+NetClassAutoBusEnabled=1
+NetClassAutoCompEnabled=0
+NetClassAutoNamedHarnessEnabled=0
+NetClassManualEnabled=1
+NetClassSeparateForBusSections=0
+
+[LibraryUpdateOptions]
+SelectedOnly=0
+UpdateVariants=1
+UpdateToLatestRevision=1
+PartTypes=0
+FullReplace=1
+UpdateDesignatorLock=1
+UpdatePartIDLock=1
+PreserveParameterLocations=1
+PreserveParameterVisibility=1
+DoGraphics=1
+DoParameters=1
+DoModels=1
+AddParameters=0
+RemoveParameters=0
+AddModels=1
+RemoveModels=1
+UpdateCurrentModels=1
+
+[DatabaseUpdateOptions]
+SelectedOnly=0
+UpdateVariants=1
+UpdateToLatestRevision=1
+PartTypes=0
+ComponentLibIdentifierKind0=Library Name Only
+ComponentLibraryIdentifier0=Altium Content Vault
+ComponentDesignItemID0=CMP-04872-000092-1
+ComponentSymbolReference0=37cc8613f039a50342d8adde8bb14cd
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name Only
+ComponentLibraryIdentifier1=Altium Vault - TI
+ComponentDesignItemID1=CMP-0000823-2
+ComponentSymbolReference1=MOSFET_N_D56789G4S123
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name Only
+ComponentLibraryIdentifier2=Altium Vault - TI
+ComponentDesignItemID2=CMP-0000888-1
+ComponentSymbolReference2=MOSFET_N_D24G1S3
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name Only
+ComponentLibraryIdentifier3=Altium Vault - TI
+ComponentDesignItemID3=CMP-0002638-2
+ComponentSymbolReference3=Relay_RTD14005F
+ComponentUpdate3=1
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Library Name Only
+ComponentLibraryIdentifier4=Altium Vault - TI
+ComponentDesignItemID4=CMP-0002972-3
+ComponentSymbolReference4=LED
+ComponentUpdate4=1
+ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Library Name Only
+ComponentLibraryIdentifier5=Altium Vault - TI
+ComponentDesignItemID5=CMP-0003416-1
+ComponentSymbolReference5=Ferrite_Bead
+ComponentUpdate5=1
+ComponentIsDeviceSheet5=0
+ComponentLibIdentifierKind6=Library Name Only
+ComponentLibraryIdentifier6=Altium Vault - TI
+ComponentDesignItemID6=CMP-0003618-2
+ComponentSymbolReference6=PCB
+ComponentUpdate6=1
+ComponentIsDeviceSheet6=0
+ComponentLibIdentifierKind7=Library Name Only
+ComponentLibraryIdentifier7=Altium Vault - TI
+ComponentDesignItemID7=CMP-0003625-1
+ComponentSymbolReference7=CMP-0003625-1
+ComponentUpdate7=1
+ComponentIsDeviceSheet7=0
+ComponentLibIdentifierKind8=Library Name Only
+ComponentLibraryIdentifier8=Altium Vault - TI
+ComponentDesignItemID8=CMP-0003814-2
+ComponentSymbolReference8=controlCARD-120HSEC
+ComponentUpdate8=1
+ComponentIsDeviceSheet8=0
+ComponentLibIdentifierKind9=Library Name Only
+ComponentLibraryIdentifier9=Altium Vault - TI
+ComponentDesignItemID9=CMP-0003968-1
+ComponentSymbolReference9=TESTPOINT
+ComponentUpdate9=1
+ComponentIsDeviceSheet9=0
+ComponentLibIdentifierKind10=Library Name Only
+ComponentLibraryIdentifier10=Altium Vault - TI
+ComponentDesignItemID10=CMP-0005533-3
+ComponentSymbolReference10=Zener
+ComponentUpdate10=1
+ComponentIsDeviceSheet10=0
+ComponentLibIdentifierKind11=Library Name Only
+ComponentLibraryIdentifier11=Altium Vault - TI
+ComponentDesignItemID11=CMP-0005746-4
+ComponentSymbolReference11=Zener
+ComponentUpdate11=1
+ComponentIsDeviceSheet11=0
+ComponentLibIdentifierKind12=Library Name Only
+ComponentLibraryIdentifier12=Altium Vault - TI
+ComponentDesignItemID12=CMP-0005769-4
+ComponentSymbolReference12=Zener
+ComponentUpdate12=1
+ComponentIsDeviceSheet12=0
+ComponentLibIdentifierKind13=Library Name Only
+ComponentLibraryIdentifier13=Altium Vault - TI
+ComponentDesignItemID13=CMP-0005878-5
+ComponentSymbolReference13=Zener
+ComponentUpdate13=1
+ComponentIsDeviceSheet13=0
+ComponentLibIdentifierKind14=Library Name Only
+ComponentLibraryIdentifier14=Altium Vault - TI
+ComponentDesignItemID14=CMP-0006411-2
+ComponentSymbolReference14=Capacitor
+ComponentUpdate14=1
+ComponentIsDeviceSheet14=0
+ComponentLibIdentifierKind15=Library Name Only
+ComponentLibraryIdentifier15=Altium Vault - TI
+ComponentDesignItemID15=CMP-0006412-2
+ComponentSymbolReference15=Capacitor
+ComponentUpdate15=1
+ComponentIsDeviceSheet15=0
+ComponentLibIdentifierKind16=Library Name Only
+ComponentLibraryIdentifier16=Altium Vault - TI
+ComponentDesignItemID16=CMP-0006437-2
+ComponentSymbolReference16=Capacitor
+ComponentUpdate16=1
+ComponentIsDeviceSheet16=0
+ComponentLibIdentifierKind17=Library Name Only
+ComponentLibraryIdentifier17=Altium Vault - TI
+ComponentDesignItemID17=CMP-0006453-2
+ComponentSymbolReference17=Capacitor
+ComponentUpdate17=1
+ComponentIsDeviceSheet17=0
+ComponentLibIdentifierKind18=Library Name Only
+ComponentLibraryIdentifier18=Altium Vault - TI
+ComponentDesignItemID18=CMP-0006608-2
+ComponentSymbolReference18=Capacitor
+ComponentUpdate18=1
+ComponentIsDeviceSheet18=0
+ComponentLibIdentifierKind19=Library Name Only
+ComponentLibraryIdentifier19=Altium Vault - TI
+ComponentDesignItemID19=CMP-0006618-2
+ComponentSymbolReference19=Capacitor
+ComponentUpdate19=1
+ComponentIsDeviceSheet19=0
+ComponentLibIdentifierKind20=Library Name Only
+ComponentLibraryIdentifier20=Altium Vault - TI
+ComponentDesignItemID20=CMP-0006659-2
+ComponentSymbolReference20=Capacitor
+ComponentUpdate20=1
+ComponentIsDeviceSheet20=0
+ComponentLibIdentifierKind21=Library Name Only
+ComponentLibraryIdentifier21=Altium Vault - TI
+ComponentDesignItemID21=CMP-0006752-5
+ComponentSymbolReference21=Capacitor
+ComponentUpdate21=1
+ComponentIsDeviceSheet21=0
+ComponentLibIdentifierKind22=Library Name Only
+ComponentLibraryIdentifier22=Altium Vault - TI
+ComponentDesignItemID22=CMP-0006844-4
+ComponentSymbolReference22=Capacitor
+ComponentUpdate22=1
+ComponentIsDeviceSheet22=0
+ComponentLibIdentifierKind23=Library Name Only
+ComponentLibraryIdentifier23=Altium Vault - TI
+ComponentDesignItemID23=CMP-0006894-4
+ComponentSymbolReference23=Capacitor
+ComponentUpdate23=1
+ComponentIsDeviceSheet23=0
+ComponentLibIdentifierKind24=Library Name Only
+ComponentLibraryIdentifier24=Altium Vault - TI
+ComponentDesignItemID24=CMP-0006897-4
+ComponentSymbolReference24=Capacitor
+ComponentUpdate24=1
+ComponentIsDeviceSheet24=0
+ComponentLibIdentifierKind25=Library Name Only
+ComponentLibraryIdentifier25=Altium Vault - TI
+ComponentDesignItemID25=CMP-0006976-1
+ComponentSymbolReference25=Capacitor
+ComponentUpdate25=1
+ComponentIsDeviceSheet25=0
+ComponentLibIdentifierKind26=Library Name Only
+ComponentLibraryIdentifier26=Altium Vault - TI
+ComponentDesignItemID26=CMP-0006979-5
+ComponentSymbolReference26=Capacitor
+ComponentUpdate26=1
+ComponentIsDeviceSheet26=0
+ComponentLibIdentifierKind27=Library Name Only
+ComponentLibraryIdentifier27=Altium Vault - TI
+ComponentDesignItemID27=CMP-0006985-4
+ComponentSymbolReference27=Capacitor
+ComponentUpdate27=1
+ComponentIsDeviceSheet27=0
+ComponentLibIdentifierKind28=Library Name Only
+ComponentLibraryIdentifier28=Altium Vault - TI
+ComponentDesignItemID28=CMP-0007082-4
+ComponentSymbolReference28=Capacitor
+ComponentUpdate28=1
+ComponentIsDeviceSheet28=0
+ComponentLibIdentifierKind29=Library Name Only
+ComponentLibraryIdentifier29=Altium Vault - TI
+ComponentDesignItemID29=CMP-0007121-4
+ComponentSymbolReference29=Capacitor
+ComponentUpdate29=1
+ComponentIsDeviceSheet29=0
+ComponentLibIdentifierKind30=Library Name Only
+ComponentLibraryIdentifier30=Altium Vault - TI
+ComponentDesignItemID30=CMP-0007196-3
+ComponentSymbolReference30=Capacitor
+ComponentUpdate30=1
+ComponentIsDeviceSheet30=0
+ComponentLibIdentifierKind31=Library Name Only
+ComponentLibraryIdentifier31=Altium Vault - TI
+ComponentDesignItemID31=CMP-0007206-4
+ComponentSymbolReference31=Capacitor
+ComponentUpdate31=1
+ComponentIsDeviceSheet31=0
+ComponentLibIdentifierKind32=Library Name Only
+ComponentLibraryIdentifier32=Altium Vault - TI
+ComponentDesignItemID32=CMP-0007238-4
+ComponentSymbolReference32=Capacitor
+ComponentUpdate32=1
+ComponentIsDeviceSheet32=0
+ComponentLibIdentifierKind33=Library Name Only
+ComponentLibraryIdentifier33=Altium Vault - TI
+ComponentDesignItemID33=CMP-0007275-4
+ComponentSymbolReference33=Capacitor
+ComponentUpdate33=1
+ComponentIsDeviceSheet33=0
+ComponentLibIdentifierKind34=Library Name Only
+ComponentLibraryIdentifier34=Altium Vault - TI
+ComponentDesignItemID34=CMP-0007344-5
+ComponentSymbolReference34=Capacitor
+ComponentUpdate34=1
+ComponentIsDeviceSheet34=0
+ComponentLibIdentifierKind35=Library Name Only
+ComponentLibraryIdentifier35=Altium Vault - TI
+ComponentDesignItemID35=CMP-0007347-5
+ComponentSymbolReference35=Capacitor
+ComponentUpdate35=1
+ComponentIsDeviceSheet35=0
+ComponentLibIdentifierKind36=Library Name Only
+ComponentLibraryIdentifier36=Altium Vault - TI
+ComponentDesignItemID36=CMP-0007389-4
+ComponentSymbolReference36=Capacitor
+ComponentUpdate36=1
+ComponentIsDeviceSheet36=0
+ComponentLibIdentifierKind37=Library Name Only
+ComponentLibraryIdentifier37=Altium Vault - TI
+ComponentDesignItemID37=CMP-0007469-4
+ComponentSymbolReference37=Capacitor
+ComponentUpdate37=1
+ComponentIsDeviceSheet37=0
+ComponentLibIdentifierKind38=Library Name Only
+ComponentLibraryIdentifier38=Altium Vault - TI
+ComponentDesignItemID38=CMP-0007471-5
+ComponentSymbolReference38=Capacitor
+ComponentUpdate38=1
+ComponentIsDeviceSheet38=0
+ComponentLibIdentifierKind39=Library Name Only
+ComponentLibraryIdentifier39=Altium Vault - TI
+ComponentDesignItemID39=CMP-0007859-1
+ComponentSymbolReference39=Capacitor
+ComponentUpdate39=1
+ComponentIsDeviceSheet39=0
+ComponentLibIdentifierKind40=Library Name Only
+ComponentLibraryIdentifier40=Altium Vault - TI
+ComponentDesignItemID40=CMP-0007975-2
+ComponentSymbolReference40=Capacitor
+ComponentUpdate40=1
+ComponentIsDeviceSheet40=0
+ComponentLibIdentifierKind41=Library Name Only
+ComponentLibraryIdentifier41=Altium Vault - TI
+ComponentDesignItemID41=CMP-0008183-2
+ComponentSymbolReference41=Capacitor
+ComponentUpdate41=1
+ComponentIsDeviceSheet41=0
+ComponentLibIdentifierKind42=Library Name Only
+ComponentLibraryIdentifier42=Altium Vault - TI
+ComponentDesignItemID42=CMP-0008342-2
+ComponentSymbolReference42=Capacitor
+ComponentUpdate42=1
+ComponentIsDeviceSheet42=0
+ComponentLibIdentifierKind43=Library Name Only
+ComponentLibraryIdentifier43=Altium Vault - TI
+ComponentDesignItemID43=CMP-0008959-2
+ComponentSymbolReference43=Capacitor
+ComponentUpdate43=1
+ComponentIsDeviceSheet43=0
+ComponentLibIdentifierKind44=Library Name Only
+ComponentLibraryIdentifier44=Altium Vault - TI
+ComponentDesignItemID44=CMP-0009298-2
+ComponentSymbolReference44=Capacitor
+ComponentUpdate44=1
+ComponentIsDeviceSheet44=0
+ComponentLibIdentifierKind45=Library Name Only
+ComponentLibraryIdentifier45=Altium Vault - TI
+ComponentDesignItemID45=CMP-0009326-2
+ComponentSymbolReference45=Capacitor
+ComponentUpdate45=1
+ComponentIsDeviceSheet45=0
+ComponentLibIdentifierKind46=Library Name Only
+ComponentLibraryIdentifier46=Altium Vault - TI
+ComponentDesignItemID46=CMP-0009613-2
+ComponentSymbolReference46=Capacitor
+ComponentUpdate46=1
+ComponentIsDeviceSheet46=0
+ComponentLibIdentifierKind47=Library Name Only
+ComponentLibraryIdentifier47=Altium Vault - TI
+ComponentDesignItemID47=CMP-0011981-2
+ComponentSymbolReference47=Cap_Polarized
+ComponentUpdate47=1
+ComponentIsDeviceSheet47=0
+ComponentLibIdentifierKind48=Library Name Only
+ComponentLibraryIdentifier48=Altium Vault - TI
+ComponentDesignItemID48=CMP-0013427-7
+ComponentSymbolReference48=TLV75533PDRV
+ComponentUpdate48=1
+ComponentIsDeviceSheet48=0
+ComponentLibIdentifierKind49=Library Name Only
+ComponentLibraryIdentifier49=Altium Vault - TI
+ComponentDesignItemID49=CMP-0018656-3
+ComponentSymbolReference49=Resistor
+ComponentUpdate49=1
+ComponentIsDeviceSheet49=0
+ComponentLibIdentifierKind50=Library Name Only
+ComponentLibraryIdentifier50=Altium Vault - TI
+ComponentDesignItemID50=CMP-0018815-2
+ComponentSymbolReference50=Resistor
+ComponentUpdate50=1
+ComponentIsDeviceSheet50=0
+ComponentLibIdentifierKind51=Library Name Only
+ComponentLibraryIdentifier51=Altium Vault - TI
+ComponentDesignItemID51=CMP-0018816-2
+ComponentSymbolReference51=Resistor
+ComponentUpdate51=1
+ComponentIsDeviceSheet51=0
+ComponentLibIdentifierKind52=Library Name Only
+ComponentLibraryIdentifier52=Altium Vault - TI
+ComponentDesignItemID52=CMP-0020834-3
+ComponentSymbolReference52=Resistor
+ComponentUpdate52=1
+ComponentIsDeviceSheet52=0
+ComponentLibIdentifierKind53=Library Name Only
+ComponentLibraryIdentifier53=Altium Vault - TI
+ComponentDesignItemID53=CMP-0020835-3
+ComponentSymbolReference53=Resistor
+ComponentUpdate53=1
+ComponentIsDeviceSheet53=0
+ComponentLibIdentifierKind54=Library Name Only
+ComponentLibraryIdentifier54=Altium Vault - TI
+ComponentDesignItemID54=CMP-0020959-3
+ComponentSymbolReference54=Resistor
+ComponentUpdate54=1
+ComponentIsDeviceSheet54=0
+ComponentLibIdentifierKind55=Library Name Only
+ComponentLibraryIdentifier55=Altium Vault - TI
+ComponentDesignItemID55=CMP-0021141-3
+ComponentSymbolReference55=Resistor
+ComponentUpdate55=1
+ComponentIsDeviceSheet55=0
+ComponentLibIdentifierKind56=Library Name Only
+ComponentLibraryIdentifier56=Altium Vault - TI
+ComponentDesignItemID56=CMP-0021828-3
+ComponentSymbolReference56=Resistor
+ComponentUpdate56=1
+ComponentIsDeviceSheet56=0
+ComponentLibIdentifierKind57=Library Name Only
+ComponentLibraryIdentifier57=Altium Vault - TI
+ComponentDesignItemID57=CMP-0021950-2
+ComponentSymbolReference57=Resistor
+ComponentUpdate57=1
+ComponentIsDeviceSheet57=0
+ComponentLibIdentifierKind58=Library Name Only
+ComponentLibraryIdentifier58=Altium Vault - TI
+ComponentDesignItemID58=CMP-0021998-4
+ComponentSymbolReference58=Resistor
+ComponentUpdate58=1
+ComponentIsDeviceSheet58=0
+ComponentLibIdentifierKind59=Library Name Only
+ComponentLibraryIdentifier59=Altium Vault - TI
+ComponentDesignItemID59=CMP-0022170-4
+ComponentSymbolReference59=Resistor
+ComponentUpdate59=1
+ComponentIsDeviceSheet59=0
+ComponentLibIdentifierKind60=Library Name Only
+ComponentLibraryIdentifier60=Altium Vault - TI
+ComponentDesignItemID60=CMP-0022339-4
+ComponentSymbolReference60=Resistor
+ComponentUpdate60=1
+ComponentIsDeviceSheet60=0
+ComponentLibIdentifierKind61=Library Name Only
+ComponentLibraryIdentifier61=Altium Vault - TI
+ComponentDesignItemID61=CMP-0022731-2
+ComponentSymbolReference61=Resistor
+ComponentUpdate61=1
+ComponentIsDeviceSheet61=0
+ComponentLibIdentifierKind62=Library Name Only
+ComponentLibraryIdentifier62=Altium Vault - TI
+ComponentDesignItemID62=CMP-0022735-5
+ComponentSymbolReference62=Resistor
+ComponentUpdate62=1
+ComponentIsDeviceSheet62=0
+ComponentLibIdentifierKind63=Library Name Only
+ComponentLibraryIdentifier63=Altium Vault - TI
+ComponentDesignItemID63=CMP-0022808-4
+ComponentSymbolReference63=Resistor
+ComponentUpdate63=1
+ComponentIsDeviceSheet63=0
+ComponentLibIdentifierKind64=Library Name Only
+ComponentLibraryIdentifier64=Altium Vault - TI
+ComponentDesignItemID64=CMP-0022906-5
+ComponentSymbolReference64=Resistor
+ComponentUpdate64=1
+ComponentIsDeviceSheet64=0
+ComponentLibIdentifierKind65=Library Name Only
+ComponentLibraryIdentifier65=Altium Vault - TI
+ComponentDesignItemID65=CMP-0022921-4
+ComponentSymbolReference65=Resistor
+ComponentUpdate65=1
+ComponentIsDeviceSheet65=0
+ComponentLibIdentifierKind66=Library Name Only
+ComponentLibraryIdentifier66=Altium Vault - TI
+ComponentDesignItemID66=CMP-0023024-4
+ComponentSymbolReference66=Resistor
+ComponentUpdate66=1
+ComponentIsDeviceSheet66=0
+ComponentLibIdentifierKind67=Library Name Only
+ComponentLibraryIdentifier67=Altium Vault - TI
+ComponentDesignItemID67=CMP-0023037-5
+ComponentSymbolReference67=Resistor
+ComponentUpdate67=1
+ComponentIsDeviceSheet67=0
+ComponentLibIdentifierKind68=Library Name Only
+ComponentLibraryIdentifier68=Altium Vault - TI
+ComponentDesignItemID68=CMP-0023129-5
+ComponentSymbolReference68=Resistor
+ComponentUpdate68=1
+ComponentIsDeviceSheet68=0
+ComponentLibIdentifierKind69=Library Name Only
+ComponentLibraryIdentifier69=Altium Vault - TI
+ComponentDesignItemID69=CMP-0023133-5
+ComponentSymbolReference69=Resistor
+ComponentUpdate69=1
+ComponentIsDeviceSheet69=0
+ComponentLibIdentifierKind70=Library Name Only
+ComponentLibraryIdentifier70=Altium Vault - TI
+ComponentDesignItemID70=CMP-0023188-5
+ComponentSymbolReference70=Resistor
+ComponentUpdate70=1
+ComponentIsDeviceSheet70=0
+ComponentLibIdentifierKind71=Library Name Only
+ComponentLibraryIdentifier71=Altium Vault - TI
+ComponentDesignItemID71=CMP-0023263-5
+ComponentSymbolReference71=Resistor
+ComponentUpdate71=1
+ComponentIsDeviceSheet71=0
+ComponentLibIdentifierKind72=Library Name Only
+ComponentLibraryIdentifier72=Altium Vault - TI
+ComponentDesignItemID72=CMP-0023404-3
+ComponentSymbolReference72=Resistor
+ComponentUpdate72=1
+ComponentIsDeviceSheet72=0
+ComponentLibIdentifierKind73=Library Name Only
+ComponentLibraryIdentifier73=Altium Vault - TI
+ComponentDesignItemID73=CMP-0023607-3
+ComponentSymbolReference73=Resistor
+ComponentUpdate73=1
+ComponentIsDeviceSheet73=0
+ComponentLibIdentifierKind74=Library Name Only
+ComponentLibraryIdentifier74=Altium Vault - TI
+ComponentDesignItemID74=CMP-0023653-3
+ComponentSymbolReference74=Resistor
+ComponentUpdate74=1
+ComponentIsDeviceSheet74=0
+ComponentLibIdentifierKind75=Library Name Only
+ComponentLibraryIdentifier75=Altium Vault - TI
+ComponentDesignItemID75=CMP-0023661-3
+ComponentSymbolReference75=Resistor
+ComponentUpdate75=1
+ComponentIsDeviceSheet75=0
+ComponentLibIdentifierKind76=Library Name Only
+ComponentLibraryIdentifier76=Altium Vault - TI
+ComponentDesignItemID76=CMP-0024182-3
+ComponentSymbolReference76=Resistor
+ComponentUpdate76=1
+ComponentIsDeviceSheet76=0
+ComponentLibIdentifierKind77=Library Name Only
+ComponentLibraryIdentifier77=Altium Vault - TI
+ComponentDesignItemID77=CMP-0025701-4
+ComponentSymbolReference77=Resistor
+ComponentUpdate77=1
+ComponentIsDeviceSheet77=0
+ComponentLibIdentifierKind78=Library Name Only
+ComponentLibraryIdentifier78=Altium Vault - TI
+ComponentDesignItemID78=CMP-0025733-4
+ComponentSymbolReference78=Resistor
+ComponentUpdate78=1
+ComponentIsDeviceSheet78=0
+ComponentLibIdentifierKind79=Library Name Only
+ComponentLibraryIdentifier79=Altium Vault - TI
+ComponentDesignItemID79=CMP-0025753-4
+ComponentSymbolReference79=Resistor
+ComponentUpdate79=1
+ComponentIsDeviceSheet79=0
+ComponentLibIdentifierKind80=Library Name Only
+ComponentLibraryIdentifier80=Altium Vault - TI
+ComponentDesignItemID80=CMP-0025754-4
+ComponentSymbolReference80=Resistor
+ComponentUpdate80=1
+ComponentIsDeviceSheet80=0
+ComponentLibIdentifierKind81=Library Name Only
+ComponentLibraryIdentifier81=Altium Vault - TI
+ComponentDesignItemID81=CMP-0025813-4
+ComponentSymbolReference81=Resistor
+ComponentUpdate81=1
+ComponentIsDeviceSheet81=0
+ComponentLibIdentifierKind82=Library Name Only
+ComponentLibraryIdentifier82=Altium Vault - TI
+ComponentDesignItemID82=CMP-0025834-4
+ComponentSymbolReference82=Resistor
+ComponentUpdate82=1
+ComponentIsDeviceSheet82=0
+ComponentLibIdentifierKind83=Library Name Only
+ComponentLibraryIdentifier83=Altium Vault - TI
+ComponentDesignItemID83=CMP-0025859-4
+ComponentSymbolReference83=Resistor
+ComponentUpdate83=1
+ComponentIsDeviceSheet83=0
+ComponentLibIdentifierKind84=Library Name Only
+ComponentLibraryIdentifier84=Altium Vault - TI
+ComponentDesignItemID84=CMP-0025885-5
+ComponentSymbolReference84=Resistor
+ComponentUpdate84=1
+ComponentIsDeviceSheet84=0
+ComponentLibIdentifierKind85=Library Name Only
+ComponentLibraryIdentifier85=Altium Vault - TI
+ComponentDesignItemID85=CMP-0025892-5
+ComponentSymbolReference85=Resistor
+ComponentUpdate85=1
+ComponentIsDeviceSheet85=0
+ComponentLibIdentifierKind86=Library Name Only
+ComponentLibraryIdentifier86=Altium Vault - TI
+ComponentDesignItemID86=CMP-0025933-5
+ComponentSymbolReference86=Resistor
+ComponentUpdate86=1
+ComponentIsDeviceSheet86=0
+ComponentLibIdentifierKind87=Library Name Only
+ComponentLibraryIdentifier87=Altium Vault - TI
+ComponentDesignItemID87=CMP-0026721-1
+ComponentSymbolReference87=Resistor
+ComponentUpdate87=1
+ComponentIsDeviceSheet87=0
+ComponentLibIdentifierKind88=Library Name Only
+ComponentLibraryIdentifier88=Altium Vault - TI
+ComponentDesignItemID88=CMP-0026738-1
+ComponentSymbolReference88=Resistor
+ComponentUpdate88=1
+ComponentIsDeviceSheet88=0
+ComponentLibIdentifierKind89=Library Name Only
+ComponentLibraryIdentifier89=Altium Vault - TI
+ComponentDesignItemID89=CMP-0026770-1
+ComponentSymbolReference89=Resistor
+ComponentUpdate89=1
+ComponentIsDeviceSheet89=0
+ComponentLibIdentifierKind90=Library Name Only
+ComponentLibraryIdentifier90=Altium Vault - TI
+ComponentDesignItemID90=CMP-0026786-1
+ComponentSymbolReference90=Resistor
+ComponentUpdate90=1
+ComponentIsDeviceSheet90=0
+ComponentLibIdentifierKind91=Library Name Only
+ComponentLibraryIdentifier91=Altium Vault - TI
+ComponentDesignItemID91=CMP-0026900-3
+ComponentSymbolReference91=Resistor
+ComponentUpdate91=1
+ComponentIsDeviceSheet91=0
+ComponentLibIdentifierKind92=Library Name Only
+ComponentLibraryIdentifier92=Altium Vault - TI
+ComponentDesignItemID92=CMP-0028360-2
+ComponentSymbolReference92=DIODE_SCHOTTKY
+ComponentUpdate92=1
+ComponentIsDeviceSheet92=0
+ComponentLibIdentifierKind93=Library Name Only
+ComponentLibraryIdentifier93=Altium Vault - TI
+ComponentDesignItemID93=CMP-0028414-2
+ComponentSymbolReference93=DIODE_SCHOTTKY
+ComponentUpdate93=1
+ComponentIsDeviceSheet93=0
+ComponentLibIdentifierKind94=Library Name Only
+ComponentLibraryIdentifier94=Altium Vault - TI
+ComponentDesignItemID94=CMP-0028524-2
+ComponentSymbolReference94=DIODE_SCHOTTKY
+ComponentUpdate94=1
+ComponentIsDeviceSheet94=0
+ComponentLibIdentifierKind95=Library Name Only
+ComponentLibraryIdentifier95=Altium Vault - TI
+ComponentDesignItemID95=CMP-0028882-2
+ComponentSymbolReference95=DIODE_SCHOTTKY
+ComponentUpdate95=1
+ComponentIsDeviceSheet95=0
+ComponentLibIdentifierKind96=Library Name Only
+ComponentLibraryIdentifier96=Altium Vault - TI
+ComponentDesignItemID96=CMP-0029148-2
+ComponentSymbolReference96=DIODE
+ComponentUpdate96=1
+ComponentIsDeviceSheet96=0
+ComponentLibIdentifierKind97=Library Name Only
+ComponentLibraryIdentifier97=Altium Vault - TI
+ComponentDesignItemID97=CMP-0029150-2
+ComponentSymbolReference97=DIODE
+ComponentUpdate97=1
+ComponentIsDeviceSheet97=0
+ComponentLibIdentifierKind98=Library Name Only
+ComponentLibraryIdentifier98=Altium Vault - TI
+ComponentDesignItemID98=CMP-0032021-2
+ComponentSymbolReference98=SYM-FCR7350B
+ComponentUpdate98=1
+ComponentIsDeviceSheet98=0
+ComponentLibIdentifierKind99=Library Name Only
+ComponentLibraryIdentifier99=Altium Vault - TI
+ComponentDesignItemID99=CMP-0032022-2
+ComponentSymbolReference99=SYM-FCR7350R
+ComponentUpdate99=1
+ComponentIsDeviceSheet99=0
+ComponentLibIdentifierKind100=Library Name Only
+ComponentLibraryIdentifier100=Altium Vault - TI
+ComponentDesignItemID100=CMP-0032023-2
+ComponentSymbolReference100=SYM-FCR7350Y
+ComponentUpdate100=1
+ComponentIsDeviceSheet100=0
+ComponentLibIdentifierKind101=Library Name Only
+ComponentLibraryIdentifier101=Altium Vault - TI
+ComponentDesignItemID101=CMP-0036768-1
+ComponentSymbolReference101=SYM-STD2HNK60Z
+ComponentUpdate101=1
+ComponentIsDeviceSheet101=0
+ComponentLibIdentifierKind102=Library Name Only
+ComponentLibraryIdentifier102=Altium Vault - TI
+ComponentDesignItemID102=CMP-0037505-1
+ComponentSymbolReference102=SYM-MH1608-601Y
+ComponentUpdate102=1
+ComponentIsDeviceSheet102=0
+ComponentLibIdentifierKind103=Library Name Only
+ComponentLibraryIdentifier103=Altium Vault - TI
+ComponentDesignItemID103=CMP-0037531-1
+ComponentSymbolReference103=SYM-PAD002-T764113S
+ComponentUpdate103=1
+ComponentIsDeviceSheet103=0
+ComponentLibIdentifierKind104=Library Name Only
+ComponentLibraryIdentifier104=Altium Vault - TI
+ComponentDesignItemID104=CMP-0037653-1
+ComponentSymbolReference104=SYM-SF-3812F1500T-2
+ComponentUpdate104=1
+ComponentIsDeviceSheet104=0
+ComponentLibIdentifierKind105=Library Name Only
+ComponentLibraryIdentifier105=Altium Vault - TI
+ComponentDesignItemID105=CMP-0037951-1
+ComponentSymbolReference105=SYM-F863DS105K310Z
+ComponentUpdate105=1
+ComponentIsDeviceSheet105=0
+ComponentLibIdentifierKind106=Library Name Only
+ComponentLibraryIdentifier106=Altium Vault - TI
+ComponentDesignItemID106=CMP-0037952-1
+ComponentSymbolReference106=SYM-F863FL225K310Z
+ComponentUpdate106=1
+ComponentIsDeviceSheet106=0
+ComponentLibIdentifierKind107=Library Name Only
+ComponentLibraryIdentifier107=Altium Vault - TI
+ComponentDesignItemID107=CMP-0038374-1
+ComponentSymbolReference107=SYM-ALC80A121BD450
+ComponentUpdate107=1
+ComponentIsDeviceSheet107=0
+ComponentLibIdentifierKind108=Library Name Only
+ComponentLibraryIdentifier108=Altium Vault - TI
+ComponentDesignItemID108=CMP-0040203-1
+ComponentSymbolReference108=SYM-9774015960R
+ComponentUpdate108=1
+ComponentIsDeviceSheet108=0
+ComponentLibIdentifierKind109=Library Name Only
+ComponentLibraryIdentifier109=Altium Vault - TI
+ComponentDesignItemID109=CMP-0040211-1
+ComponentSymbolReference109=SYM-694106402002
+ComponentUpdate109=1
+ComponentIsDeviceSheet109=0
+ComponentLibIdentifierKind110=Library Name Only
+ComponentLibraryIdentifier110=Altium Vault - TI
+ComponentDesignItemID110=CMP-0042320-3
+ComponentSymbolReference110=SYM-D6744
+ComponentUpdate110=1
+ComponentIsDeviceSheet110=0
+ComponentLibIdentifierKind111=Library Name Only
+ComponentLibraryIdentifier111=Altium Vault - TI
+ComponentDesignItemID111=CMP-0042321-1
+ComponentSymbolReference111=SYM-D6746
+ComponentUpdate111=1
+ComponentIsDeviceSheet111=0
+ComponentLibIdentifierKind112=Library Name Only
+ComponentLibraryIdentifier112=Altium Vault - TI
+ComponentDesignItemID112=CMP-0051583-2
+ComponentSymbolReference112=TI-SN74XXX1X08-5
+ComponentUpdate112=1
+ComponentIsDeviceSheet112=0
+ComponentLibIdentifierKind113=Library Name Only
+ComponentLibraryIdentifier113=Altium Vault - TI
+ComponentDesignItemID113=CMP-0051643-2
+ComponentSymbolReference113=TI-SN74XXX1XX4-XX-5-SCHMITT
+ComponentUpdate113=1
+ComponentIsDeviceSheet113=0
+ComponentLibIdentifierKind114=Library Name Only
+ComponentLibraryIdentifier114=Altium Vault - TI
+ComponentDesignItemID114=CMP-0054794-2
+ComponentSymbolReference114=Header_2x1
+ComponentUpdate114=1
+ComponentIsDeviceSheet114=0
+ComponentLibIdentifierKind115=Library Name Only
+ComponentLibraryIdentifier115=Altium Vault - TI
+ComponentDesignItemID115=CMP-0054978-1
+ComponentSymbolReference115=Receptacle_2x1
+ComponentUpdate115=1
+ComponentIsDeviceSheet115=0
+ComponentLibIdentifierKind116=Library Name Only
+ComponentLibraryIdentifier116=Altium Vault - TI
+ComponentDesignItemID116=CMP-0055137-2
+ComponentSymbolReference116=5000
+ComponentUpdate116=1
+ComponentIsDeviceSheet116=0
+ComponentLibIdentifierKind117=Library Name Only
+ComponentLibraryIdentifier117=Altium Vault - TI
+ComponentDesignItemID117=CMP-0055138-2
+ComponentSymbolReference117=5001
+ComponentUpdate117=1
+ComponentIsDeviceSheet117=0
+ComponentLibIdentifierKind118=Library Name Only
+ComponentLibraryIdentifier118=Altium Vault - TI
+ComponentDesignItemID118=CMP-0055139-2
+ComponentSymbolReference118=5002
+ComponentUpdate118=1
+ComponentIsDeviceSheet118=0
+ComponentLibIdentifierKind119=Library Name Only
+ComponentLibraryIdentifier119=Altium Vault - TI
+ComponentDesignItemID119=CMP-0055140-2
+ComponentSymbolReference119=5003
+ComponentUpdate119=1
+ComponentIsDeviceSheet119=0
+ComponentLibIdentifierKind120=Library Name Only
+ComponentLibraryIdentifier120=Altium Vault - TI
+ComponentDesignItemID120=CMP-0055141-2
+ComponentSymbolReference120=5004
+ComponentUpdate120=1
+ComponentIsDeviceSheet120=0
+ComponentLibIdentifierKind121=Library Name Only
+ComponentLibraryIdentifier121=Altium Vault - TI
+ComponentDesignItemID121=CMP-0055152-2
+ComponentSymbolReference121=5015
+ComponentUpdate121=1
+ComponentIsDeviceSheet121=0
+ComponentLibIdentifierKind122=Library Name Only
+ComponentLibraryIdentifier122=Altium Vault - TI
+ComponentDesignItemID122=CMP-0055315-2
+ComponentSymbolReference122=Header_6x2
+ComponentUpdate122=1
+ComponentIsDeviceSheet122=0
+ComponentLibIdentifierKind123=Library Name Only
+ComponentLibraryIdentifier123=Altium Vault - TI
+ComponentDesignItemID123=CMP-0055333-1
+ComponentSymbolReference123=Header_2x1
+ComponentUpdate123=1
+ComponentIsDeviceSheet123=0
+ComponentLibIdentifierKind124=Library Name Only
+ComponentLibraryIdentifier124=Altium Vault - TI
+ComponentDesignItemID124=CMP-0057696-2
+ComponentSymbolReference124=Inductor_Iron
+ComponentUpdate124=1
+ComponentIsDeviceSheet124=0
+ComponentLibIdentifierKind125=Library Name Only
+ComponentLibraryIdentifier125=Altium Vault - TI
+ComponentDesignItemID125=CMP-0058159-1
+ComponentSymbolReference125=Inductor_Polarity_Dual_12_43
+ComponentUpdate125=1
+ComponentIsDeviceSheet125=0
+ComponentLibIdentifierKind126=Library Name Only
+ComponentLibraryIdentifier126=Altium Vault - TI
+ComponentDesignItemID126=CMP-0063789-1
+ComponentSymbolReference126=Inductor_Iron
+ComponentUpdate126=1
+ComponentIsDeviceSheet126=0
+ComponentLibIdentifierKind127=Library Name Only
+ComponentLibraryIdentifier127=Altium Vault - TI
+ComponentDesignItemID127=CMP-0064932-4
+ComponentSymbolReference127=Capacitor
+ComponentUpdate127=1
+ComponentIsDeviceSheet127=0
+ComponentLibIdentifierKind128=Library Name Only
+ComponentLibraryIdentifier128=Altium Vault - TI
+ComponentDesignItemID128=CMP-0065109-3
+ComponentSymbolReference128=Zener_A1C3
+ComponentUpdate128=1
+ComponentIsDeviceSheet128=0
+ComponentLibIdentifierKind129=Library Name Only
+ComponentLibraryIdentifier129=Altium Vault - TI
+ComponentDesignItemID129=CMP-0065359-1
+ComponentSymbolReference129=Resistor
+ComponentUpdate129=1
+ComponentIsDeviceSheet129=0
+ComponentLibIdentifierKind130=Library Name Only
+ComponentLibraryIdentifier130=Altium Vault - TI
+ComponentDesignItemID130=CMP-0065360-1
+ComponentSymbolReference130=Resistor
+ComponentUpdate130=1
+ComponentIsDeviceSheet130=0
+ComponentLibIdentifierKind131=Library Name Only
+ComponentLibraryIdentifier131=Altium Vault - TI
+ComponentDesignItemID131=CMP-0067230-2
+ComponentSymbolReference131=UCC28710D
+ComponentUpdate131=1
+ComponentIsDeviceSheet131=0
+ComponentLibIdentifierKind132=Library Name Only
+ComponentLibraryIdentifier132=Altium Vault - TI
+ComponentDesignItemID132=CMP-0074769-1
+ComponentSymbolReference132=Logo
+ComponentUpdate132=1
+ComponentIsDeviceSheet132=0
+ComponentLibIdentifierKind133=Library Name Only
+ComponentLibraryIdentifier133=Altium Vault - TI
+ComponentDesignItemID133=CMP-0074835-1
+ComponentSymbolReference133=CMP-0074835-1
+ComponentUpdate133=1
+ComponentIsDeviceSheet133=0
+ComponentLibIdentifierKind134=Library Name Only
+ComponentLibraryIdentifier134=Altium Vault - TI
+ComponentDesignItemID134=CMP-0074837-1
+ComponentSymbolReference134=CMP-0074837-1
+ComponentUpdate134=1
+ComponentIsDeviceSheet134=0
+ComponentLibIdentifierKind135=Library Name Only
+ComponentLibraryIdentifier135=Altium Vault - TI
+ComponentDesignItemID135=CMP-0074844-1
+ComponentSymbolReference135=CE Mark
+ComponentUpdate135=1
+ComponentIsDeviceSheet135=0
+ComponentLibIdentifierKind136=Library Name Only
+ComponentLibraryIdentifier136=Altium Vault - TI
+ComponentDesignItemID136=CMP-0074847-1
+ComponentSymbolReference136=CMP-0074847-1
+ComponentUpdate136=1
+ComponentIsDeviceSheet136=0
+ComponentLibIdentifierKind137=Library Name Only
+ComponentLibraryIdentifier137=Altium Vault - TI
+ComponentDesignItemID137=CMP-0076095-1
+ComponentSymbolReference137=SN6505
+ComponentUpdate137=1
+ComponentIsDeviceSheet137=0
+ComponentLibIdentifierKind138=Library Name Only
+ComponentLibraryIdentifier138=Altium Vault - TI
+ComponentDesignItemID138=CMP-0076896-2
+ComponentSymbolReference138=DIODE
+ComponentUpdate138=1
+ComponentIsDeviceSheet138=0
+ComponentLibIdentifierKind139=Library Name Only
+ComponentLibraryIdentifier139=Altium Vault - TI
+ComponentDesignItemID139=CMP-0076998-2
+ComponentSymbolReference139=DIODE_SCHOTTKY
+ComponentUpdate139=1
+ComponentIsDeviceSheet139=0
+ComponentLibIdentifierKind140=Library Name Only
+ComponentLibraryIdentifier140=Altium Vault - TI
+ComponentDesignItemID140=CMP-0077181-1
+ComponentSymbolReference140=CMP-0077181-1
+ComponentUpdate140=1
+ComponentIsDeviceSheet140=0
+ComponentLibIdentifierKind141=Library Name Only
+ComponentLibraryIdentifier141=Altium Vault - TI
+ComponentDesignItemID141=CMP-0077236-1
+ComponentSymbolReference141=Assembly Note
+ComponentUpdate141=1
+ComponentIsDeviceSheet141=0
+ComponentLibIdentifierKind142=Library Name Only
+ComponentLibraryIdentifier142=Altium Vault - TI
+ComponentDesignItemID142=CMP-0077237-1
+ComponentSymbolReference142=Assembly Note
+ComponentUpdate142=1
+ComponentIsDeviceSheet142=0
+ComponentLibIdentifierKind143=Library Name Only
+ComponentLibraryIdentifier143=Altium Vault - TI
+ComponentDesignItemID143=CMP-0077238-1
+ComponentSymbolReference143=Assembly Note
+ComponentUpdate143=1
+ComponentIsDeviceSheet143=0
+ComponentLibIdentifierKind144=Library Name Only
+ComponentLibraryIdentifier144=Altium Vault - TI
+ComponentDesignItemID144=CMP-0078341-1
+ComponentSymbolReference144=AMC1311
+ComponentUpdate144=1
+ComponentIsDeviceSheet144=0
+ComponentLibIdentifierKind145=Library Name Only
+ComponentLibraryIdentifier145=Altium Vault - TI
+ComponentDesignItemID145=CMP-0078665-1
+ComponentSymbolReference145=Resistor
+ComponentUpdate145=1
+ComponentIsDeviceSheet145=0
+ComponentLibIdentifierKind146=Library Name Only
+ComponentLibraryIdentifier146=Altium Vault - TI
+ComponentDesignItemID146=CMP-0078669-1
+ComponentSymbolReference146=Resistor
+ComponentUpdate146=1
+ComponentIsDeviceSheet146=0
+ComponentLibIdentifierKind147=Library Name Only
+ComponentLibraryIdentifier147=Altium Vault - TI
+ComponentDesignItemID147=CMP-0078821-1
+ComponentSymbolReference147=Resistor
+ComponentUpdate147=1
+ComponentIsDeviceSheet147=0
+ComponentLibIdentifierKind148=Library Name Only
+ComponentLibraryIdentifier148=Altium Vault - TI
+ComponentDesignItemID148=CMP-0078822-1
+ComponentSymbolReference148=Resistor
+ComponentUpdate148=1
+ComponentIsDeviceSheet148=0
+ComponentLibIdentifierKind149=Library Name Only
+ComponentLibraryIdentifier149=Altium Vault - TI
+ComponentDesignItemID149=CMP-0079911-1
+ComponentSymbolReference149=Capacitor
+ComponentUpdate149=1
+ComponentIsDeviceSheet149=0
+ComponentLibIdentifierKind150=Library Name Only
+ComponentLibraryIdentifier150=Altium Vault - TI
+ComponentDesignItemID150=CMP-0080671-1
+ComponentSymbolReference150=AMC1301
+ComponentUpdate150=1
+ComponentIsDeviceSheet150=0
+ComponentLibIdentifierKind151=Library Name Only
+ComponentLibraryIdentifier151=Altium Vault - TI
+ComponentDesignItemID151=CMP-0081556-1
+ComponentSymbolReference151=OPAMP_SINGLE_SOT321
+ComponentUpdate151=1
+ComponentIsDeviceSheet151=0
+ComponentLibIdentifierKind152=Library Name Only
+ComponentLibraryIdentifier152=Altium Vault - TI
+ComponentDesignItemID152=CMP-0081726-1
+ComponentSymbolReference152=Resistor
+ComponentUpdate152=1
+ComponentIsDeviceSheet152=0
+ComponentLibIdentifierKind153=Library Name Only
+ComponentLibraryIdentifier153=Altium Vault - TI
+ComponentDesignItemID153=CMP-0083794-2
+ComponentSymbolReference153=UCC2152x
+ComponentUpdate153=1
+ComponentIsDeviceSheet153=0
+ComponentLibIdentifierKind154=Library Name Only
+ComponentLibraryIdentifier154=Altium Vault - TI
+ComponentDesignItemID154=CMP-0084980-1
+ComponentSymbolReference154=Diode_TVS_Uni
+ComponentUpdate154=1
+ComponentIsDeviceSheet154=0
+ComponentLibIdentifierKind155=Library Name Only
+ComponentLibraryIdentifier155=Altium Vault - TI
+ComponentDesignItemID155=CMP-0087079-2
+ComponentSymbolReference155=SYM-CAPACITOR
+ComponentUpdate155=1
+ComponentIsDeviceSheet155=0
+ComponentLibIdentifierKind156=Library Name Only
+ComponentLibraryIdentifier156=Altium Vault - TI
+ComponentDesignItemID156=CMP-0088560-2
+ComponentSymbolReference156=SYM-RT0603BRD071KL
+ComponentUpdate156=1
+ComponentIsDeviceSheet156=0
+ComponentLibIdentifierKind157=Library Name Only
+ComponentLibraryIdentifier157=Altium Vault - TI
+ComponentDesignItemID157=CMP-0089262-2
+ComponentSymbolReference157=SYM-LM5164DDAR
+ComponentUpdate157=1
+ComponentIsDeviceSheet157=0
+ComponentLibIdentifierKind158=Library Name Only
+ComponentLibraryIdentifier158=Altium Vault - TI
+ComponentDesignItemID158=CMP-0089347-1
+ComponentSymbolReference158=SYM-SDEM20161T-4R7MS
+ComponentUpdate158=1
+ComponentIsDeviceSheet158=0
+ComponentLibIdentifierKind159=Library Name Only
+ComponentLibraryIdentifier159=Altium Vault - TI
+ComponentDesignItemID159=CMP-0089967-3
+ComponentSymbolReference159=SYM-LMG3522R030Q
+ComponentUpdate159=1
+ComponentIsDeviceSheet159=0
+ComponentLibIdentifierKind160=Library Name Only
+ComponentLibraryIdentifier160=Altium Vault - TI
+ComponentDesignItemID160=CMP-0090591-1
+ComponentSymbolReference160=SYM-NRVBA340T3G
+ComponentUpdate160=1
+ComponentIsDeviceSheet160=0
+ComponentLibIdentifierKind161=Library Name Only
+ComponentLibraryIdentifier161=Altium Vault - TI
+ComponentDesignItemID161=CMP-0090627-1
+ComponentSymbolReference161=SYM-AMC3330QDWERQ1
+ComponentUpdate161=1
+ComponentIsDeviceSheet161=0
+ComponentLibIdentifierKind162=Library Name Only
+ComponentLibraryIdentifier162=Altium Vault - TI
+ComponentDesignItemID162=CMP-0091479-1
+ComponentSymbolReference162=SYM-C4532C0G2J473J320KA
+ComponentUpdate162=1
+ComponentIsDeviceSheet162=0
+ComponentLibIdentifierKind163=Library Name Only
+ComponentLibraryIdentifier163=Altium Vault - TI
+ComponentDesignItemID163=CMP-0091865-1
+ComponentSymbolReference163=SYM-TMP6131DYAT
+ComponentUpdate163=1
+ComponentIsDeviceSheet163=0
+ComponentLibIdentifierKind164=Library Name Only
+ComponentLibraryIdentifier164=Altium Vault - TI
+ComponentDesignItemID164=CMP-0092459-1
+ComponentSymbolReference164=SYM-750316819
+ComponentUpdate164=1
+ComponentIsDeviceSheet164=0
+ComponentLibIdentifierKind165=Library Name Only
+ComponentLibraryIdentifier165=Altium Vault - TI
+ComponentDesignItemID165=CMP-0092617-1
+ComponentSymbolReference165=SYM-RC0402JR-07200RL
+ComponentUpdate165=1
+ComponentIsDeviceSheet165=0
+ComponentLibIdentifierKind166=Library Name Only
+ComponentLibraryIdentifier166=Altium Vault - TI
+ComponentDesignItemID166=CMP-0093147-1
+ComponentSymbolReference166=SYM-RC0402JR-070RP
+ComponentUpdate166=1
+ComponentIsDeviceSheet166=0
+ComponentLibIdentifierKind167=Library Name Only
+ComponentLibraryIdentifier167=Altium Vault - TI
+ComponentDesignItemID167=CMP-0093310-1
+ComponentSymbolReference167=SYM-KG DELLS1.22-JGKH-24
+ComponentUpdate167=1
+ComponentIsDeviceSheet167=0
+ComponentLibIdentifierKind168=Library Name Only
+ComponentLibraryIdentifier168=Altium Vault - TI
+ComponentDesignItemID168=CMP-0094225-1
+ComponentSymbolReference168=SYM-C4AQHBU4560P1XJ
+ComponentUpdate168=1
+ComponentIsDeviceSheet168=0
+ComponentLibIdentifierKind169=Library Name Only
+ComponentLibraryIdentifier169=Altium Vault - TI
+ComponentDesignItemID169=CMP-0094328-1
+ComponentSymbolReference169=SYM-796636-3
+ComponentUpdate169=1
+ComponentIsDeviceSheet169=0
+ComponentLibIdentifierKind170=Library Name Only
+ComponentLibraryIdentifier170=Altium Vault - TI
+ComponentDesignItemID170=CMP-0095533-2
+ComponentSymbolReference170=SYM-C3225X7R2A225K230AB
+ComponentUpdate170=1
+ComponentIsDeviceSheet170=0
+ComponentLibIdentifierKind171=Library Name Only
+ComponentLibraryIdentifier171=Altium Vault - TI
+ComponentDesignItemID171=CMP-0096021-1
+ComponentSymbolReference171=SYM-C3225X7R2A106K250AC
+ComponentUpdate171=1
+ComponentIsDeviceSheet171=0
+ComponentLibIdentifierKind172=Library Name Only
+ComponentLibraryIdentifier172=Altium Vault - TI
+ComponentDesignItemID172=CMP-0096054-1
+ComponentSymbolReference172=SYM-TMCS1123B4QDVGR
+ComponentUpdate172=1
+ComponentIsDeviceSheet172=0
+ComponentLibIdentifierKind173=Library Name Only
+ComponentLibraryIdentifier173=Altium Vault - TI
+ComponentDesignItemID173=CMP-0096632-1
+ComponentSymbolReference173=SYM-IPT60R022S7XTMA1
+ComponentUpdate173=1
+ComponentIsDeviceSheet173=0
+ComponentLibIdentifierKind174=Library Name Only
+ComponentLibraryIdentifier174=Altium Vault - TI
+ComponentDesignItemID174=CMP-0097004-1
+ComponentSymbolReference174=SYM-PTCEL13R600LBE
+ComponentUpdate174=1
+ComponentIsDeviceSheet174=0
+ComponentLibIdentifierKind175=Library Name Only
+ComponentLibraryIdentifier175=Altium Vault - TI
+ComponentDesignItemID175=CMP-0097027-1
+ComponentSymbolReference175=SYM-IsoM3-275-B-L2
+ComponentUpdate175=1
+ComponentIsDeviceSheet175=0
+ComponentLibIdentifierKind176=Library Name Only
+ComponentLibraryIdentifier176=Altium Vault - TI
+ComponentDesignItemID176=CMP-0097198-1
+ComponentSymbolReference176=SYM-RGV3216P-1004-B-T1
+ComponentUpdate176=1
+ComponentIsDeviceSheet176=0
+ComponentLibIdentifierKind177=Library Name Only
+ComponentLibraryIdentifier177=Altium Vault - TI
+ComponentDesignItemID177=CMP-0097985-1
+ComponentSymbolReference177=SYM-TMCS1133B2QDVGR
+ComponentUpdate177=1
+ComponentIsDeviceSheet177=0
+ComponentLibIdentifierKind178=Library Name Only
+ComponentLibraryIdentifier178=Altium Vault - TI
+ComponentDesignItemID178=CMP-0097987-1
+ComponentSymbolReference178=SYM-TMCS1133B4QDVGR
+ComponentUpdate178=1
+ComponentIsDeviceSheet178=0
+ComponentLibIdentifierKind179=Library Name Only
+ComponentLibraryIdentifier179=Altium Vault - TI
+ComponentDesignItemID179=CMP-0098295-2
+ComponentSymbolReference179=SMA_Contact1_GND2345
+ComponentUpdate179=1
+ComponentIsDeviceSheet179=0
+ComponentLibIdentifierKind180=Library Name Only
+ComponentLibraryIdentifier180=Altium Vault - TI
+ComponentDesignItemID180=CMP-0109909-1
+ComponentSymbolReference180=875585961005
+ComponentUpdate180=1
+ComponentIsDeviceSheet180=0
+ComponentLibIdentifierKind181=Library Name Only
+ComponentLibraryIdentifier181=Altium Vault - TI
+ComponentDesignItemID181=CMP-0116914-1
+ComponentSymbolReference181=865230657014
+ComponentUpdate181=1
+ComponentIsDeviceSheet181=0
+ComponentLibIdentifierKind182=Library Name Only
+ComponentLibraryIdentifier182=Altium Vault - TI
+ComponentDesignItemID182=CMP-0120692-1
+ComponentSymbolReference182=SYM-LMG2100R026
+ComponentUpdate182=1
+ComponentIsDeviceSheet182=0
+ComponentLibIdentifierKind183=Library Name Only
+ComponentLibraryIdentifier183=Altium Vault - TI
+ComponentDesignItemID183=CMP-0121179-1
+ComponentSymbolReference183=SYM-INA181A3IDCKR
+ComponentUpdate183=1
+ComponentIsDeviceSheet183=0
+ComponentLibIdentifierKind184=Library Name Only
+ComponentLibraryIdentifier184=Altium Vault - TI
+ComponentDesignItemID184=CMP-0121182-1
+ComponentSymbolReference184=SYM-VER2923-223KL
+ComponentUpdate184=1
+ComponentIsDeviceSheet184=0
+ComponentLibIdentifierKind185=Library Name Only
+ComponentLibraryIdentifier185=Altium Vault - TI
+ComponentDesignItemID185=CMP-0121217-1
+ComponentSymbolReference185=SYM-OPA4388IPWR
+ComponentUpdate185=1
+ComponentIsDeviceSheet185=0
+ComponentLibIdentifierKind186=Library Name Only
+ComponentLibraryIdentifier186=Altium Vault - TI
+ComponentDesignItemID186=CMP-0121244-1
+ComponentSymbolReference186=SYM-C3225C0G2A333J200AA
+ComponentUpdate186=1
+ComponentIsDeviceSheet186=0
+ComponentLibIdentifierKind187=Library Name Only
+ComponentLibraryIdentifier187=Altium Vault - TI
+ComponentDesignItemID187=CMP-0121418-1
+ComponentSymbolReference187=SYM-181923
+ComponentUpdate187=1
+ComponentIsDeviceSheet187=0
+ComponentLibIdentifierKind188=Library Name Only
+ComponentLibraryIdentifier188=Altium Vault - TI
+ComponentDesignItemID188=CMP-0121422-1
+ComponentSymbolReference188=SYM-C3225C0G3A472J200AC
+ComponentUpdate188=1
+ComponentIsDeviceSheet188=0
+ComponentLibIdentifierKind189=Library Name Only
+ComponentLibraryIdentifier189=Altium Vault - TI
+ComponentDesignItemID189=CMP-0750154-1
+ComponentSymbolReference189=Capacitor
+ComponentUpdate189=1
+ComponentIsDeviceSheet189=0
+ComponentLibIdentifierKind190=Library Name Only
+ComponentLibraryIdentifier190=Altium Vault - TI
+ComponentDesignItemID190=CMP-0860530-1
+ComponentSymbolReference190=Capacitor
+ComponentUpdate190=1
+ComponentIsDeviceSheet190=0
+ComponentLibIdentifierKind191=Library Name Only
+ComponentLibraryIdentifier191=Altium Vault - TI
+ComponentDesignItemID191=CMP-0860553-1
+ComponentSymbolReference191=Capacitor
+ComponentUpdate191=1
+ComponentIsDeviceSheet191=0
+
+[Comparison Options]
+ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions4=Kind=Differential Pair|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+
+[SmartPDF]
+PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+
